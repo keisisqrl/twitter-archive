@@ -514,7 +514,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "meghanelaine",
       "protected" : false,
       "id_str" : "16852245",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3414533789\/b70eae93510072c8bbb37bc12367fc12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436685411331477504\/YhU36I1e_normal.jpeg",
       "id" : 16852245,
       "verified" : false
     }
@@ -668,7 +668,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "StephHerold",
       "protected" : false,
       "id_str" : "44238517",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3095043053\/f1dd724421ffd6e6b950c53150f6ed80_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432272720093392896\/Hse5830t_normal.jpeg",
       "id" : 44238517,
       "verified" : false
     }
@@ -1647,7 +1647,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Goddamn Jones",
+      "name" : "Zinnia Elle Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -2931,7 +2931,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FunkyShark",
+      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
       "screen_name" : "anamanaguchi",
       "indices" : [ 0, 13 ],
       "id_str" : "21056214",

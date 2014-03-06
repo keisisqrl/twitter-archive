@@ -3888,57 +3888,6 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "fat kewpuh",
-      "screen_name" : "kewpuh",
-      "indices" : [ 3, 10 ],
-      "id_str" : "47740710",
-      "id" : 47740710
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "27296313793",
-  "text" : "RT @kewpuh: In the words of the great Christine O'Donnell, \"we will triumph over freedom\"",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.launcherpro.com\/\" rel=\"nofollow\"\u003ELauncherPro\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "27294914101",
-    "text" : "In the words of the great Christine O'Donnell, \"we will triumph over freedom\"",
-    "id" : 27294914101,
-    "created_at" : "2010-10-14 01:05:58 +0000",
-    "user" : {
-      "name" : "fat kewpuh",
-      "screen_name" : "kewpuh",
-      "protected" : false,
-      "id_str" : "47740710",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/265969203\/sma3_kamek-shoot_normal.jpg",
-      "id" : 47740710,
-      "verified" : false
-    }
-  },
-  "id" : 27296313793,
-  "created_at" : "2010-10-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],

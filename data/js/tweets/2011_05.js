@@ -331,7 +331,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Goddamn Jones",
+      "name" : "Zinnia Elle Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -3167,7 +3167,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Goddamn Jones",
+      "name" : "Zinnia Elle Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -3194,7 +3194,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 71788678963396608,
     "created_at" : "2011-05-21 04:05:29 +0000",
     "user" : {
-      "name" : "Zinnia Goddamn Jones",
+      "name" : "Zinnia Elle Jones",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
@@ -7009,7 +7009,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "tanepiper",
       "protected" : false,
       "id_str" : "20693",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415079177214525440\/FW92xCBz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438344007425753088\/idEeIAlr_normal.jpeg",
       "id" : 20693,
       "verified" : false
     }
@@ -7468,7 +7468,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "DoctorAtlantis",
       "protected" : false,
       "id_str" : "14662016",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430001401071026176\/_Dt-TY7y_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439647316769665024\/bx55XjSW_normal.png",
       "id" : 14662016,
       "verified" : false
     }

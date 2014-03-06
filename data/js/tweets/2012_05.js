@@ -1417,12 +1417,6 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 19, 29 ],
       "id_str" : "18924291",
       "id" : 18924291
-    }, {
-      "name" : "Avana Vana",
-      "screen_name" : "avanavana",
-      "indices" : [ 40, 50 ],
-      "id_str" : "141698829",
-      "id" : 141698829
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1440,12 +1434,6 @@ Grailbird.data.tweets_2012_05 =
         "indices" : [ 0, 10 ],
         "id_str" : "18924291",
         "id" : 18924291
-      }, {
-        "name" : "Avana Vana",
-        "screen_name" : "avanavana",
-        "indices" : [ 21, 31 ],
-        "id_str" : "141698829",
-        "id" : 141698829
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -1466,7 +1454,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "TransFeminism",
       "protected" : false,
       "id_str" : "519889569",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2190177172\/0c4e8115-b391-4909-9a79-d6b6d2176c99_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432683430770642944\/K1GQDY2V_normal.jpeg",
       "id" : 519889569,
       "verified" : false
     }
@@ -1539,7 +1527,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "ACLU",
       "protected" : false,
       "id_str" : "13393052",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000613943683\/c1f05a5f757b2a3e66f9ee78bc1fb10e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433616596565622785\/8FVFX5-4_normal.jpeg",
       "id" : 13393052,
       "verified" : true
     }
@@ -1854,7 +1842,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",

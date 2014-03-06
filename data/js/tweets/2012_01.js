@@ -5126,7 +5126,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vulpo en Skatolo",
+      "name" : "ItyBityTTYCommittee",
       "screen_name" : "foxboxpdx",
       "indices" : [ 3, 13 ],
       "id_str" : "239139507",
@@ -5169,11 +5169,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 154414331130429440,
     "created_at" : "2012-01-04 04:10:20 +0000",
     "user" : {
-      "name" : "Vulpo en Skatolo",
+      "name" : "ItyBityTTYCommittee",
       "screen_name" : "foxboxpdx",
       "protected" : false,
       "id_str" : "239139507",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000543316633\/191814723ed63d45c6f2a0ce499095c9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434402879848210432\/tTE2lr66_normal.png",
       "id" : 239139507,
       "verified" : false
     }

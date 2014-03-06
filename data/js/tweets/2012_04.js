@@ -366,7 +366,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418863230841135104\/POc711r8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437511123013619712\/tJLuaRXo_normal.png",
       "id" : 17143528,
       "verified" : false
     }
@@ -427,7 +427,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418863230841135104\/POc711r8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437511123013619712\/tJLuaRXo_normal.png",
       "id" : 17143528,
       "verified" : false
     }
@@ -1583,7 +1583,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[Grouch]",
+      "name" : "[Vilis]",
       "screen_name" : "Treyalt",
       "indices" : [ 78, 86 ],
       "id_str" : "14357913",
@@ -2417,7 +2417,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "prika pandroid",
+      "name" : "[Awkward Good]",
       "screen_name" : "mariapaprika",
       "indices" : [ 3, 16 ],
       "id_str" : "15600431",
@@ -2456,7 +2456,7 @@ Grailbird.data.tweets_2012_04 =
     "id" : 191959904104353792,
     "created_at" : "2012-04-16 18:43:02 +0000",
     "user" : {
-      "name" : "prika pandroid",
+      "name" : "[Awkward Good]",
       "screen_name" : "mariapaprika",
       "protected" : false,
       "id_str" : "15600431",

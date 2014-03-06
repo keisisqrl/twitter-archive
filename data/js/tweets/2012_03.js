@@ -68,7 +68,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "nrr",
       "protected" : false,
       "id_str" : "14498961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3401562676\/5f867461eed6bee4e16bd1976786d798_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433810385565532160\/LmWt27eC_normal.png",
       "id" : 14498961,
       "verified" : false
     }
@@ -683,11 +683,11 @@ Grailbird.data.tweets_2012_03 =
     "id" : 184129114507190272,
     "created_at" : "2012-03-26 04:06:16 +0000",
     "user" : {
-      "name" : "captain SADdock",
+      "name" : "( \u256F\u141B )\u256F\uFE35 \u00B0 \u0358\uFF65\uFF9F\u2727 \u0358 ",
       "screen_name" : "heySMM",
       "protected" : false,
       "id_str" : "48920785",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427077482424975360\/j0LN2j5M_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437382405058351104\/gsfNDKfo_normal.jpeg",
       "id" : 48920785,
       "verified" : false
     }
@@ -1020,7 +1020,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "nrr",
       "protected" : false,
       "id_str" : "14498961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3401562676\/5f867461eed6bee4e16bd1976786d798_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433810385565532160\/LmWt27eC_normal.png",
       "id" : 14498961,
       "verified" : false
     }
@@ -2807,7 +2807,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "kellyhclay",
       "protected" : false,
       "id_str" : "20660146",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431319316516962304\/YIMsNLuc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436348328809226240\/45Of69R6_normal.jpeg",
       "id" : 20660146,
       "verified" : true
     }
@@ -3117,57 +3117,6 @@ Grailbird.data.tweets_2012_03 =
   "created_at" : "2012-03-03 03:09:45 +0000",
   "in_reply_to_screen_name" : "suffercait",
   "in_reply_to_user_id_str" : "24512775",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Riced Out Yugo",
-      "screen_name" : "ricedoutyugo",
-      "indices" : [ 3, 16 ],
-      "id_str" : "18131559",
-      "id" : 18131559
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "175773048912363520",
-  "text" : "RT @ricedoutyugo: DIVISIVE POLITICAL POSITION: i am willing to have my health insurance go up a quid or two so women can get birth contr ...",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "175768474239512576",
-    "text" : "DIVISIVE POLITICAL POSITION: i am willing to have my health insurance go up a quid or two so women can get birth control pills if they want.",
-    "id" : 175768474239512576,
-    "created_at" : "2012-03-03 02:24:04 +0000",
-    "user" : {
-      "name" : "Riced Out Yugo",
-      "screen_name" : "ricedoutyugo",
-      "protected" : false,
-      "id_str" : "18131559",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609331553\/roywat_normal.jpg",
-      "id" : 18131559,
-      "verified" : false
-    }
-  },
-  "id" : 175773048912363520,
-  "created_at" : "2012-03-03 02:42:15 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

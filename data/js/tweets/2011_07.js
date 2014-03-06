@@ -186,7 +186,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "zeno001",
       "protected" : false,
       "id_str" : "61177115",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000162525314\/e11139f5b73273d0202875a268bfbb36_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436561982494232576\/BMnjqF8J_normal.jpeg",
       "id" : 61177115,
       "verified" : false
     }
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Whiskey Prophet",
+      "name" : "Blogos Fear",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -827,7 +827,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 96111980489867264,
     "created_at" : "2011-07-27 06:57:36 +0000",
     "user" : {
-      "name" : "Whiskey Prophet",
+      "name" : "Blogos Fear",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -1765,7 +1765,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FunkyShark",
+      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
       "screen_name" : "anamanaguchi",
       "indices" : [ 3, 16 ],
       "id_str" : "21056214",
@@ -1792,7 +1792,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 92734844940984320,
     "created_at" : "2011-07-17 23:18:04 +0000",
     "user" : {
-      "name" : "FunkyShark",
+      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
       "screen_name" : "anamanaguchi",
       "protected" : false,
       "id_str" : "21056214",
@@ -1816,7 +1816,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FunkyShark",
+      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
       "screen_name" : "anamanaguchi",
       "indices" : [ 0, 13 ],
       "id_str" : "21056214",
@@ -1849,7 +1849,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FunkyShark",
+      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
       "screen_name" : "anamanaguchi",
       "indices" : [ 3, 16 ],
       "id_str" : "21056214",
@@ -1876,7 +1876,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 92734068038447104,
     "created_at" : "2011-07-17 23:14:59 +0000",
     "user" : {
-      "name" : "FunkyShark",
+      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
       "screen_name" : "anamanaguchi",
       "protected" : false,
       "id_str" : "21056214",
@@ -3137,7 +3137,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "nrr",
       "protected" : false,
       "id_str" : "14498961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3401562676\/5f867461eed6bee4e16bd1976786d798_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433810385565532160\/LmWt27eC_normal.png",
       "id" : 14498961,
       "verified" : false
     }
@@ -3625,7 +3625,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elder Wombat UrsulaV",
+      "name" : "Insect Major UrsulaV",
       "screen_name" : "UrsulaV",
       "indices" : [ 3, 11 ],
       "id_str" : "11342242",
@@ -3652,7 +3652,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 88385099514654721,
     "created_at" : "2011-07-05 23:13:44 +0000",
     "user" : {
-      "name" : "Elder Wombat UrsulaV",
+      "name" : "Insect Major UrsulaV",
       "screen_name" : "UrsulaV",
       "protected" : false,
       "id_str" : "11342242",

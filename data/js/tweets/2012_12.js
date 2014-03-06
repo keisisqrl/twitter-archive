@@ -564,7 +564,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "vrunt",
+      "name" : "V.U.R.T.",
       "screen_name" : "vrunt",
       "indices" : [ 3, 9 ],
       "id_str" : "15062828",
@@ -591,11 +591,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 284550345659666432,
     "created_at" : "2012-12-28 06:44:23 +0000",
     "user" : {
-      "name" : "vrunt",
+      "name" : "V.U.R.T.",
       "screen_name" : "vrunt",
       "protected" : false,
       "id_str" : "15062828",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424330746413993984\/0ZpjyAw4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435133500912836609\/KKFUB04u_normal.jpeg",
       "id" : 15062828,
       "verified" : false
     }
@@ -703,7 +703,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -796,7 +796,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -829,7 +829,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -937,7 +937,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "AmyDentata",
       "protected" : false,
       "id_str" : "343600277",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423345308689371137\/yt_0yCwR_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440026028728000512\/RMvKDcde_normal.png",
       "id" : 343600277,
       "verified" : false
     }
@@ -1045,7 +1045,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -1832,7 +1832,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -1979,7 +1979,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "MammonMachine",
       "protected" : false,
       "id_str" : "107478141",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417471812134395904\/kXiXq5ib_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438490556755226624\/vHSSDzPN_normal.jpeg",
       "id" : 107478141,
       "verified" : false
     }
@@ -2469,7 +2469,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 3, 16 ],
       "id_str" : "892400503",
@@ -2496,11 +2496,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 281891960342589440,
     "created_at" : "2012-12-20 22:40:55 +0000",
     "user" : {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "protected" : false,
       "id_str" : "892400503",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000852077176\/288dce77b2b5127a5f8072af6116767a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441435911679528960\/GqE4Nj4u_normal.png",
       "id" : 892400503,
       "verified" : false
     }
@@ -3179,7 +3179,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -4037,7 +4037,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Goddamn Jones",
+      "name" : "Zinnia Elle Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -4161,7 +4161,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -4817,7 +4817,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[Grouch]",
+      "name" : "[Vilis]",
       "screen_name" : "Treyalt",
       "indices" : [ 0, 8 ],
       "id_str" : "14357913",
@@ -5018,7 +5018,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -5095,7 +5095,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -5382,7 +5382,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -5476,7 +5476,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 3, 16 ],
       "id_str" : "892400503",
@@ -5520,11 +5520,11 @@ Grailbird.data.tweets_2012_12 =
     "in_reply_to_screen_name" : "substitute",
     "in_reply_to_user_id_str" : "1071091",
     "user" : {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "protected" : false,
       "id_str" : "892400503",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000852077176\/288dce77b2b5127a5f8072af6116767a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441435911679528960\/GqE4Nj4u_normal.png",
       "id" : 892400503,
       "verified" : false
     }
@@ -5544,7 +5544,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -5577,7 +5577,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -5610,7 +5610,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",

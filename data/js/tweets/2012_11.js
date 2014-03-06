@@ -240,7 +240,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -317,7 +317,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -678,7 +678,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -711,7 +711,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 12, 25 ],
       "id_str" : "892400503",
@@ -749,7 +749,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -1825,7 +1825,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -1863,7 +1863,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -2804,7 +2804,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "prika pandroid",
+      "name" : "[Awkward Good]",
       "screen_name" : "mariapaprika",
       "indices" : [ 3, 16 ],
       "id_str" : "15600431",
@@ -2831,7 +2831,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271737722559930368,
     "created_at" : "2012-11-22 22:11:36 +0000",
     "user" : {
-      "name" : "prika pandroid",
+      "name" : "[Awkward Good]",
       "screen_name" : "mariapaprika",
       "protected" : false,
       "id_str" : "15600431",
@@ -2883,7 +2883,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "162972832",
       "id" : 162972832
     }, {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 38, 51 ],
       "id_str" : "892400503",
@@ -3060,7 +3060,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "indices" : [ 3, 17 ],
       "id_str" : "70665746",
@@ -3087,11 +3087,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271254675553153025,
     "created_at" : "2012-11-21 14:12:08 +0000",
     "user" : {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "protected" : false,
       "id_str" : "70665746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431442857631571969\/w8KcGoYL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441530866871717888\/kx8DL1lp_normal.png",
       "id" : 70665746,
       "verified" : false
     }
@@ -3111,7 +3111,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "indices" : [ 3, 17 ],
       "id_str" : "70665746",
@@ -3138,11 +3138,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271254562994794497,
     "created_at" : "2012-11-21 14:11:42 +0000",
     "user" : {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "protected" : false,
       "id_str" : "70665746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431442857631571969\/w8KcGoYL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441530866871717888\/kx8DL1lp_normal.png",
       "id" : 70665746,
       "verified" : false
     }
@@ -3162,7 +3162,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "indices" : [ 3, 17 ],
       "id_str" : "70665746",
@@ -3189,11 +3189,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271254539464753152,
     "created_at" : "2012-11-21 14:11:36 +0000",
     "user" : {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "protected" : false,
       "id_str" : "70665746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431442857631571969\/w8KcGoYL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441530866871717888\/kx8DL1lp_normal.png",
       "id" : 70665746,
       "verified" : false
     }
@@ -3213,7 +3213,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "indices" : [ 3, 17 ],
       "id_str" : "70665746",
@@ -3240,11 +3240,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271254493197381634,
     "created_at" : "2012-11-21 14:11:25 +0000",
     "user" : {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "protected" : false,
       "id_str" : "70665746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431442857631571969\/w8KcGoYL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441530866871717888\/kx8DL1lp_normal.png",
       "id" : 70665746,
       "verified" : false
     }
@@ -3264,7 +3264,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "indices" : [ 3, 17 ],
       "id_str" : "70665746",
@@ -3291,11 +3291,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271254443436150784,
     "created_at" : "2012-11-21 14:11:13 +0000",
     "user" : {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "protected" : false,
       "id_str" : "70665746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431442857631571969\/w8KcGoYL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441530866871717888\/kx8DL1lp_normal.png",
       "id" : 70665746,
       "verified" : false
     }
@@ -3315,7 +3315,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "indices" : [ 3, 17 ],
       "id_str" : "70665746",
@@ -3342,11 +3342,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271254392219521024,
     "created_at" : "2012-11-21 14:11:01 +0000",
     "user" : {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "protected" : false,
       "id_str" : "70665746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431442857631571969\/w8KcGoYL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441530866871717888\/kx8DL1lp_normal.png",
       "id" : 70665746,
       "verified" : false
     }
@@ -3366,7 +3366,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "indices" : [ 3, 17 ],
       "id_str" : "70665746",
@@ -3393,11 +3393,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 271254361815011328,
     "created_at" : "2012-11-21 14:10:54 +0000",
     "user" : {
-      "name" : "ITS ME PORPENTINE",
+      "name" : "LATEX MALL BURIAL",
       "screen_name" : "aliendovecote",
       "protected" : false,
       "id_str" : "70665746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431442857631571969\/w8KcGoYL_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441530866871717888\/kx8DL1lp_normal.png",
       "id" : 70665746,
       "verified" : false
     }
@@ -3417,7 +3417,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -3555,13 +3555,13 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lauren Voswinkel",
+      "name" : "Societal Obstacle",
       "screen_name" : "laurenvoswinkel",
       "indices" : [ 3, 19 ],
       "id_str" : "19539935",
       "id" : 19539935
     }, {
-      "name" : "not even once",
+      "name" : "the e is silent",
       "screen_name" : "ashedryden",
       "indices" : [ 21, 32 ],
       "id_str" : "9510922",
@@ -3578,7 +3578,7 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "not even once",
+        "name" : "the e is silent",
         "screen_name" : "ashedryden",
         "indices" : [ 0, 11 ],
         "id_str" : "9510922",
@@ -3599,7 +3599,7 @@ Grailbird.data.tweets_2012_11 =
     "in_reply_to_screen_name" : "ashedryden",
     "in_reply_to_user_id_str" : "9510922",
     "user" : {
-      "name" : "Lauren Voswinkel",
+      "name" : "Societal Obstacle",
       "screen_name" : "laurenvoswinkel",
       "protected" : false,
       "id_str" : "19539935",
@@ -3672,7 +3672,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "lilyorit",
       "protected" : false,
       "id_str" : "26699815",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000549232347\/36b71e6418f1d7d08b2379b7a6963a9a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434176970343985152\/Tokn22AU_normal.jpeg",
       "id" : 26699815,
       "verified" : false
     }
@@ -3768,7 +3768,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ashe dryden",
+      "name" : "the e is silent",
       "screen_name" : "ashedryden",
       "indices" : [ 3, 14 ],
       "id_str" : "9510922",
@@ -3795,11 +3795,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 270951452975980545,
     "created_at" : "2012-11-20 18:07:15 +0000",
     "user" : {
-      "name" : "ashe dryden",
+      "name" : "the e is silent",
       "screen_name" : "ashedryden",
       "protected" : false,
       "id_str" : "9510922",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418849358000291840\/ekUTe_0t_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435932598645166081\/iG-d9_Qu_normal.jpeg",
       "id" : 9510922,
       "verified" : false
     }
@@ -3955,7 +3955,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "rightingteacher",
       "protected" : false,
       "id_str" : "138542037",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424344785529208832\/TTRKvy7V_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440883065305714688\/64DtHBnw_normal.jpeg",
       "id" : 138542037,
       "verified" : false
     }
@@ -4118,7 +4118,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "groovetini",
       "protected" : false,
       "id_str" : "14202934",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430366865378926592\/xXPM4MSy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436576659571871744\/vAJNzKWO_normal.jpeg",
       "id" : 14202934,
       "verified" : false
     }
@@ -4229,7 +4229,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 15, 28 ],
       "id_str" : "892400503",
@@ -4290,7 +4290,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -4758,7 +4758,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/getglue.com\" rel=\"nofollow\"\u003EGetGlue.com\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/tvtag.com\" rel=\"nofollow\"\u003Etvtag.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Intel",
@@ -4794,7 +4794,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/getglue.com\" rel=\"nofollow\"\u003EGetGlue.com\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/tvtag.com\" rel=\"nofollow\"\u003Etvtag.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5068,7 +5068,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -5107,7 +5107,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -5273,7 +5273,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -5306,7 +5306,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -5361,7 +5361,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -6409,7 +6409,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -6436,7 +6436,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 266030212733603840,
     "created_at" : "2012-11-07 04:11:59 +0000",
     "user" : {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
@@ -6757,7 +6757,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/getglue.com\" rel=\"nofollow\"\u003EGetGlue.com\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/tvtag.com\" rel=\"nofollow\"\u003Etvtag.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6787,7 +6787,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/getglue.com\" rel=\"nofollow\"\u003EGetGlue.com\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/tvtag.com\" rel=\"nofollow\"\u003Etvtag.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6854,7 +6854,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matilda DerAnderson",
+      "name" : "the lady from room C",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -6884,7 +6884,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/getglue.com\" rel=\"nofollow\"\u003EGetGlue.com\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/tvtag.com\" rel=\"nofollow\"\u003Etvtag.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7356,7 +7356,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Bowler Saga",
+      "name" : "Steve Bowler",
       "screen_name" : "gameism",
       "indices" : [ 3, 11 ],
       "id_str" : "14861828",
@@ -7449,7 +7449,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 264743164802396160,
     "created_at" : "2012-11-03 14:57:45 +0000",
     "user" : {
-      "name" : "The Bowler Saga",
+      "name" : "Steve Bowler",
       "screen_name" : "gameism",
       "protected" : false,
       "id_str" : "14861828",
@@ -7580,7 +7580,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "AuzSantiago",
       "protected" : false,
       "id_str" : "76211817",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423099682319892480\/o-OFwx7J_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440990547612684288\/HfsLa3DB_normal.jpeg",
       "id" : 76211817,
       "verified" : false
     }

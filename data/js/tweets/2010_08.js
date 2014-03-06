@@ -795,7 +795,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "wsdot",
       "protected" : false,
       "id_str" : "14124059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431577381065617408\/eAREaYOR_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435800551620481024\/ml-BWrXi_normal.png",
       "id" : 14124059,
       "verified" : true
     }
@@ -2068,11 +2068,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hisham Rana, MD",
+      "name" : "hrana",
       "screen_name" : "hrana",
       "indices" : [ 0, 6 ],
-      "id_str" : "650903",
-      "id" : 650903
+      "id_str" : "412463257",
+      "id" : 412463257
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2086,7 +2086,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21809893756,
   "in_reply_to_status_id" : 21809636685,
   "created_at" : "2010-08-22 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hrana",
+  "in_reply_to_screen_name" : "hrana1998a",
   "in_reply_to_user_id_str" : "650903",
   "user" : {
     "name" : "Amy",
@@ -2101,11 +2101,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hisham Rana, MD",
+      "name" : "hrana",
       "screen_name" : "hrana",
       "indices" : [ 0, 6 ],
-      "id_str" : "650903",
-      "id" : 650903
+      "id_str" : "412463257",
+      "id" : 412463257
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2119,7 +2119,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21810224803,
   "in_reply_to_status_id" : 21810085142,
   "created_at" : "2010-08-22 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hrana",
+  "in_reply_to_screen_name" : "hrana1998a",
   "in_reply_to_user_id_str" : "650903",
   "user" : {
     "name" : "Amy",

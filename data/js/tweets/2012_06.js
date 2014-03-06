@@ -1058,7 +1058,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418863230841135104\/POc711r8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437511123013619712\/tJLuaRXo_normal.png",
       "id" : 17143528,
       "verified" : false
     }
@@ -1304,7 +1304,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Whiskey Prophet",
+      "name" : "Blogos Fear",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -1341,7 +1341,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 215242950584700928,
     "created_at" : "2012-06-20 00:41:33 +0000",
     "user" : {
-      "name" : "Whiskey Prophet",
+      "name" : "Blogos Fear",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -1861,7 +1861,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "Skud",
       "protected" : false,
       "id_str" : "823980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000285028200\/9613d176d1bb2f28aa23c324b70c1ed0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436654772326653953\/Oit8w-dz_normal.png",
       "id" : 823980,
       "verified" : false
     }

@@ -3632,7 +3632,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "14502965",
       "id" : 14502965
     }, {
-      "name" : "[Grouch]",
+      "name" : "[Vilis]",
       "screen_name" : "Treyalt",
       "indices" : [ 41, 49 ],
       "id_str" : "14357913",

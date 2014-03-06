@@ -284,7 +284,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "wsdot",
       "protected" : false,
       "id_str" : "14124059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431577381065617408\/eAREaYOR_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435800551620481024\/ml-BWrXi_normal.png",
       "id" : 14124059,
       "verified" : true
     }

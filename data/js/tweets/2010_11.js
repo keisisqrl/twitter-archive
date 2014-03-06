@@ -1281,7 +1281,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Goddamn Jones",
+      "name" : "Zinnia Elle Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1581,7 +1581,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "kcmetrobus",
       "protected" : false,
       "id_str" : "95997861",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421087504461070336\/io1c6GLl_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435860810045210624\/pTdcXjcE_normal.jpeg",
       "id" : 95997861,
       "verified" : false
     }
@@ -1715,7 +1715,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "kcmetrobus",
       "protected" : false,
       "id_str" : "95997861",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421087504461070336\/io1c6GLl_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435860810045210624\/pTdcXjcE_normal.jpeg",
       "id" : 95997861,
       "verified" : false
     }
@@ -1999,7 +1999,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Goddamn Jones",
+      "name" : "Zinnia Elle Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -2056,7 +2056,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 5414009939427328,
     "created_at" : "2010-11-19 00:16:15 +0000",
     "user" : {
-      "name" : "Zinnia Goddamn Jones",
+      "name" : "Zinnia Elle Jones",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
@@ -4285,7 +4285,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418863230841135104\/POc711r8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437511123013619712\/tJLuaRXo_normal.png",
       "id" : 17143528,
       "verified" : false
     }

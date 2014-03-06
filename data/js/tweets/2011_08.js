@@ -3177,7 +3177,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Geniasaurus",
       "protected" : false,
       "id_str" : "181438231",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000816874299\/e637f532adb07aaa0444f18b260d5937_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441131111893061632\/8XlagQLh_normal.jpeg",
       "id" : 181438231,
       "verified" : false
     }

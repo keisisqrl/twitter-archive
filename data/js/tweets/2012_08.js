@@ -1567,7 +1567,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "anamariecox",
       "protected" : false,
       "id_str" : "11640472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423929521171996673\/LXtWABUH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436604551525711873\/z4giWhsY_normal.jpeg",
       "id" : 11640472,
       "verified" : true
     }
@@ -1631,7 +1631,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -1664,7 +1664,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 237412698810368001,
     "created_at" : "2012-08-20 04:56:12 +0000",
     "user" : {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
@@ -1719,7 +1719,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "benhjacobs",
       "protected" : false,
       "id_str" : "24399531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416326712813969410\/GjjnIA1R_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437338211208417280\/_Re0iGkt_normal.jpeg",
       "id" : 24399531,
       "verified" : false
     }
@@ -2184,7 +2184,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "radiomaru",
       "protected" : false,
       "id_str" : "15279452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418048453613486080\/ctcoUlwO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433801230830170112\/FoS5J_5N_normal.jpeg",
       "id" : 15279452,
       "verified" : true
     }
@@ -2235,7 +2235,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "alex_navarro",
       "protected" : false,
       "id_str" : "18892183",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000568305209\/3e3670d3d999ff6b70f17fef793a354c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438183415330775040\/VOcCh60V_normal.jpeg",
       "id" : 18892183,
       "verified" : false
     }
@@ -2537,7 +2537,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FunkyShark",
+      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
       "screen_name" : "anamanaguchi",
       "indices" : [ 3, 16 ],
       "id_str" : "21056214",
@@ -2564,7 +2564,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 234064391761440771,
     "created_at" : "2012-08-10 23:11:14 +0000",
     "user" : {
-      "name" : "FunkyShark",
+      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
       "screen_name" : "anamanaguchi",
       "protected" : false,
       "id_str" : "21056214",
@@ -3218,7 +3218,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Fugiman",
       "protected" : false,
       "id_str" : "18919799",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000864217464\/2M69GWRE_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439592233033924608\/mfVXfKKU_normal.jpeg",
       "id" : 18919799,
       "verified" : false
     }
@@ -3329,7 +3329,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -3423,7 +3423,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -3743,7 +3743,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "name cannot be flake",
+      "name" : "flake",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
