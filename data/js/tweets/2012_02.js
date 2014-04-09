@@ -46,13 +46,7 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u2728Courtney Stanton\u2728",
-      "screen_name" : "q0rt",
-      "indices" : [ 3, 8 ],
-      "id_str" : "5843542",
-      "id" : 5843542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -85,10 +79,10 @@ Grailbird.data.tweets_2012_02 =
     "created_at" : "2012-02-29 19:24:01 +0000",
     "user" : {
       "name" : "\u2728Courtney Stanton\u2728",
-      "screen_name" : "q0rt",
+      "screen_name" : "SuperOpinion8ed",
       "protected" : false,
       "id_str" : "5843542",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430493825891438593\/dwUWmo5Q_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451027959545987072\/BF67JV7o_normal.jpeg",
       "id" : 5843542,
       "verified" : false
     }
@@ -627,13 +621,7 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u2728Courtney Stanton\u2728",
-      "screen_name" : "q0rt",
-      "indices" : [ 3, 8 ],
-      "id_str" : "5843542",
-      "id" : 5843542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -656,10 +644,10 @@ Grailbird.data.tweets_2012_02 =
     "created_at" : "2012-02-25 22:57:33 +0000",
     "user" : {
       "name" : "\u2728Courtney Stanton\u2728",
-      "screen_name" : "q0rt",
+      "screen_name" : "SuperOpinion8ed",
       "protected" : false,
       "id_str" : "5843542",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430493825891438593\/dwUWmo5Q_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451027959545987072\/BF67JV7o_normal.jpeg",
       "id" : 5843542,
       "verified" : false
     }
@@ -1030,11 +1018,11 @@ Grailbird.data.tweets_2012_02 =
     "id" : 173263209422266368,
     "created_at" : "2012-02-25 04:29:02 +0000",
     "user" : {
-      "name" : "Al Wright",
+      "name" : "GEO\/S",
       "screen_name" : "alwright_iguess",
       "protected" : false,
       "id_str" : "198332904",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3239782442\/c9f651c48096398f0bc7048590b652c4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446178742172254209\/qRXpUR5Y_normal.png",
       "id" : 198332904,
       "verified" : false
     }
@@ -1515,7 +1503,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "MotherJones",
       "protected" : false,
       "id_str" : "18510860",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000471428331\/a61724690bda894cda03a09b2b45f70e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451825504207638528\/2kBkscYK_normal.jpeg",
       "id" : 18510860,
       "verified" : true
     }
@@ -2735,7 +2723,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -2835,7 +2823,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -2874,7 +2862,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -3842,7 +3830,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "indices" : [ 0, 6 ],
       "id_str" : "14412937",
@@ -4725,7 +4713,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "Cantplaypiano",
       "protected" : false,
       "id_str" : "28869228",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000779725258\/605113f87ffec821308e6db6ca65ce87_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446355664848158720\/JwqDVFXB_normal.jpeg",
       "id" : 28869228,
       "verified" : false
     }

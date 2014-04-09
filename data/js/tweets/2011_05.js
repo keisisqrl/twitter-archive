@@ -3,7 +3,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jacques Cusnow",
+      "name" : "B L O O D J E P H",
       "screen_name" : "jephjacques",
       "indices" : [ 3, 15 ],
       "id_str" : "7670202",
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 75696829878112256,
     "created_at" : "2011-05-31 22:55:05 +0000",
     "user" : {
-      "name" : "Jacques Cusnow",
+      "name" : "B L O O D J E P H",
       "screen_name" : "jephjacques",
       "protected" : false,
       "id_str" : "7670202",
@@ -331,7 +331,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -3167,7 +3167,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -3194,7 +3194,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 71788678963396608,
     "created_at" : "2011-05-21 04:05:29 +0000",
     "user" : {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
@@ -4271,13 +4271,7 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "NONON\u2729LA\u2729LIBRARIAN",
-      "screen_name" : "onegreatturtle",
-      "indices" : [ 3, 18 ],
-      "id_str" : "18274714",
-      "id" : 18274714
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4300,7 +4294,7 @@ Grailbird.data.tweets_2011_05 =
     "created_at" : "2011-05-17 01:49:32 +0000",
     "user" : {
       "name" : "NONON\u2729LA\u2729LIBRARIAN",
-      "screen_name" : "onegreatturtle",
+      "screen_name" : "hexeaktivitat",
       "protected" : true,
       "id_str" : "18274714",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000794190012\/75236674ce3c1ed0fd9d69b2851a7ef6_normal.png",
@@ -6893,7 +6887,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "Oedipus Awl",
+      "name" : "Awl Dreamslayer",
       "screen_name" : "awlbiste",
       "indices" : [ 19, 28 ],
       "id_str" : "16658401",
@@ -6910,7 +6904,7 @@ Grailbird.data.tweets_2011_05 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Oedipus Awl",
+        "name" : "Awl Dreamslayer",
         "screen_name" : "awlbiste",
         "indices" : [ 3, 12 ],
         "id_str" : "16658401",
@@ -7009,7 +7003,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "tanepiper",
       "protected" : false,
       "id_str" : "20693",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438344007425753088\/idEeIAlr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446928818196844544\/8uFX_iRu_normal.png",
       "id" : 20693,
       "verified" : false
     }
@@ -7126,7 +7120,7 @@ Grailbird.data.tweets_2011_05 =
   "id" : 65919671588761600,
   "in_reply_to_status_id" : 65914518580113408,
   "created_at" : "2011-05-04 23:24:09 +0000",
-  "in_reply_to_screen_name" : "q0rt",
+  "in_reply_to_screen_name" : "SuperOpinion8ed",
   "in_reply_to_user_id_str" : "5843542",
   "user" : {
     "name" : "Amy",
@@ -7606,7 +7600,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2615Paul Wouters",
+      "name" : "Paul Wouters  ",
       "screen_name" : "letoams",
       "indices" : [ 3, 11 ],
       "id_str" : "15495113",
@@ -7639,7 +7633,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 65251220759134208,
     "created_at" : "2011-05-03 03:07:57 +0000",
     "user" : {
-      "name" : "\u2615Paul Wouters",
+      "name" : "Paul Wouters  ",
       "screen_name" : "letoams",
       "protected" : false,
       "id_str" : "15495113",

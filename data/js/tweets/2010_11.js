@@ -981,7 +981,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "rberger",
       "protected" : false,
       "id_str" : "607093",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422975889199337472\/ln49BfHs_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442825445138911232\/a_Q-yeC__normal.png",
       "id" : 607093,
       "verified" : false
     }
@@ -1281,7 +1281,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1999,7 +1999,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -2056,7 +2056,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 5414009939427328,
     "created_at" : "2010-11-19 00:16:15 +0000",
     "user" : {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
@@ -2747,7 +2747,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jacques Cusnow",
+      "name" : "B L O O D J E P H",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
@@ -3720,7 +3720,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -3910,7 +3910,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -4285,7 +4285,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437511123013619712\/tJLuaRXo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450900805562798081\/K-eRssB5_normal.png",
       "id" : 17143528,
       "verified" : false
     }

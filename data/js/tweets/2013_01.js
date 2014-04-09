@@ -743,7 +743,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -934,7 +934,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -967,7 +967,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1000,7 +1000,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1989,7 +1989,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437511123013619712\/tJLuaRXo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450900805562798081\/K-eRssB5_normal.png",
       "id" : 17143528,
       "verified" : false
     }
@@ -2403,7 +2403,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 3, 11 ],
       "id_str" : "13439042",
@@ -2446,7 +2446,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 291566611800944641,
     "created_at" : "2013-01-16 15:24:31 +0000",
     "user" : {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "protected" : false,
       "id_str" : "13439042",
@@ -2847,7 +2847,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -2874,7 +2874,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 290536545738432516,
     "created_at" : "2013-01-13 19:11:25 +0000",
     "user" : {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
@@ -3441,7 +3441,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "635586076",
       "id" : 635586076
     }, {
-      "name" : "Goddess of Love",
+      "name" : "Lady Gaga",
       "screen_name" : "ladygaga",
       "indices" : [ 85, 94 ],
       "id_str" : "14230524",
@@ -3464,7 +3464,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Goddess of Love",
+        "name" : "Lady Gaga",
         "screen_name" : "ladygaga",
         "indices" : [ 65, 74 ],
         "id_str" : "14230524",
@@ -3791,7 +3791,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -3877,7 +3877,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "PatrickWeekes",
       "protected" : false,
       "id_str" : "369586333",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000531089496\/b38106612ac422f063a00c15492b1ee7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/447568240550494208\/hg9o6XDH_normal.jpeg",
       "id" : 369586333,
       "verified" : false
     }
@@ -4684,7 +4684,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "JaeKay",
       "protected" : false,
       "id_str" : "7436202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3745991326\/ae3237c43ca3731dfe2bb88d3794f2f6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452458962646867968\/B7COG_co_normal.jpeg",
       "id" : 7436202,
       "verified" : false
     }
@@ -5441,7 +5441,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Octojoel",
+      "name" : "Joel Joestar",
       "screen_name" : "BooDooPerson",
       "indices" : [ 0, 13 ],
       "id_str" : "14951588",
@@ -5872,7 +5872,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -5915,7 +5915,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 287685587576688643,
     "created_at" : "2013-01-05 22:22:43 +0000",
     "user" : {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",

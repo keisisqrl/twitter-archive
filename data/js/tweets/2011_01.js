@@ -709,7 +709,7 @@ Grailbird.data.tweets_2011_01 =
   "id" : 31543229530767360,
   "in_reply_to_status_id" : 31542666986524673,
   "created_at" : "2011-01-30 02:44:26 +0000",
-  "in_reply_to_screen_name" : "q0rt",
+  "in_reply_to_screen_name" : "SuperOpinion8ed",
   "in_reply_to_user_id_str" : "5843542",
   "user" : {
     "name" : "Amy",
@@ -745,7 +745,7 @@ Grailbird.data.tweets_2011_01 =
   "id" : 31542533699932160,
   "in_reply_to_status_id" : 31537952379117569,
   "created_at" : "2011-01-30 02:41:40 +0000",
-  "in_reply_to_screen_name" : "q0rt",
+  "in_reply_to_screen_name" : "SuperOpinion8ed",
   "in_reply_to_user_id_str" : "5843542",
   "user" : {
     "name" : "Amy",
@@ -1647,7 +1647,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -2898,7 +2898,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "m.",
+      "name" : "Joseph GordonDiehard",
       "screen_name" : "beta_angel",
       "indices" : [ 0, 11 ],
       "id_str" : "30019525",
@@ -3813,7 +3813,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "SoundTransit",
       "protected" : false,
       "id_str" : "19683238",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423852650505859072\/ESRRXcu9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444487255910920192\/I9-A_o8-_normal.jpeg",
       "id" : 19683238,
       "verified" : false
     }

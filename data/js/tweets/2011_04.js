@@ -1370,13 +1370,7 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
-      "indices" : [ 3, 19 ],
-      "id_str" : "16017475",
-      "id" : 16017475
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1399,7 +1393,7 @@ Grailbird.data.tweets_2011_04 =
     "created_at" : "2011-04-26 22:41:38 +0000",
     "user" : {
       "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
+      "screen_name" : "NateSilver538",
       "protected" : false,
       "id_str" : "16017475",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000188475595\/9048bff5190578d8e2c558dca3606fbb_normal.png",
@@ -3158,7 +3152,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -3185,7 +3179,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 60186590244376576,
     "created_at" : "2011-04-19 03:42:55 +0000",
     "user" : {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
@@ -3387,7 +3381,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "anamanaguchi",
       "protected" : false,
       "id_str" : "21056214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432133109455519744\/OWRDlGW2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443583921561686016\/kl72uOgx_normal.jpeg",
       "id" : 21056214,
       "verified" : true
     }
@@ -4865,7 +4859,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -4898,7 +4892,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -4931,7 +4925,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -4964,7 +4958,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -6842,7 +6836,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "PPact",
       "protected" : false,
       "id_str" : "22162854",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000581633202\/a9a72d8706c771a0109fa5e9d0b8ff50_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451428118259978240\/u8x05an0_normal.png",
       "id" : 22162854,
       "verified" : true
     }
@@ -7142,7 +7136,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -7169,7 +7163,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 56919557457199104,
     "created_at" : "2011-04-10 03:20:54 +0000",
     "user" : {
-      "name" : "Zinnia Elle Jones",
+      "name" : "Zinnia* Jones",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
@@ -8099,7 +8093,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "PPact",
       "protected" : false,
       "id_str" : "22162854",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000581633202\/a9a72d8706c771a0109fa5e9d0b8ff50_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451428118259978240\/u8x05an0_normal.png",
       "id" : 22162854,
       "verified" : true
     }
@@ -8715,7 +8709,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 12, 20 ],
       "id_str" : "13439042",
@@ -8754,7 +8748,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 12, 20 ],
       "id_str" : "13439042",
@@ -8793,7 +8787,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 12, 20 ],
       "id_str" : "13439042",
@@ -8832,7 +8826,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 12, 20 ],
       "id_str" : "13439042",
@@ -8871,7 +8865,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 12, 20 ],
       "id_str" : "13439042",
@@ -8910,7 +8904,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 12, 20 ],
       "id_str" : "13439042",
@@ -8949,7 +8943,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 12, 20 ],
       "id_str" : "13439042",
@@ -8982,7 +8976,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -9021,7 +9015,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -9060,7 +9054,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -9099,7 +9093,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -9138,7 +9132,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -9177,7 +9171,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -9349,7 +9343,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -9574,7 +9568,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 23, 31 ],
       "id_str" : "13439042",
@@ -9613,7 +9607,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "14505832",
       "id" : 14505832
     }, {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 12, 20 ],
       "id_str" : "13439042",
@@ -9646,7 +9640,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -9685,7 +9679,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -10274,7 +10268,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 3, 11 ],
       "id_str" : "13439042",
@@ -10301,7 +10295,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 55240596746547200,
     "created_at" : "2011-04-05 12:09:19 +0000",
     "user" : {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "protected" : false,
       "id_str" : "13439042",
@@ -10449,7 +10443,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sung Lasses",
+      "name" : "_what the fuckman",
       "screen_name" : "ieure",
       "indices" : [ 3, 9 ],
       "id_str" : "6476652",
@@ -10476,7 +10470,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 54416558105182208,
     "created_at" : "2011-04-03 05:34:53 +0000",
     "user" : {
-      "name" : "Sung Lasses",
+      "name" : "_what the fuckman",
       "screen_name" : "ieure",
       "protected" : false,
       "id_str" : "6476652",

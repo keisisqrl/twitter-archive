@@ -974,7 +974,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437511123013619712\/tJLuaRXo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450900805562798081\/K-eRssB5_normal.png",
       "id" : 17143528,
       "verified" : false
     }
@@ -1047,7 +1047,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "MotherJones",
       "protected" : false,
       "id_str" : "18510860",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000471428331\/a61724690bda894cda03a09b2b45f70e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451825504207638528\/2kBkscYK_normal.jpeg",
       "id" : 18510860,
       "verified" : true
     }
@@ -1164,7 +1164,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "JoPincushion",
       "protected" : false,
       "id_str" : "32958649",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440970088481443841\/C_mrDhiy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452668878443642880\/yLi3PRb1_normal.jpeg",
       "id" : 32958649,
       "verified" : false
     }
@@ -3522,7 +3522,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -3555,7 +3555,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -3588,7 +3588,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 3, 11 ],
       "id_str" : "13439042",
@@ -3615,7 +3615,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 124651754926260224,
     "created_at" : "2011-10-14 01:04:28 +0000",
     "user" : {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "protected" : false,
       "id_str" : "13439042",
@@ -5513,7 +5513,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "guyinthesling",
       "protected" : false,
       "id_str" : "255841651",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1251092787\/500x_ap101113128579_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/447156518266220544\/9fjpChsP_normal.png",
       "id" : 255841651,
       "verified" : false
     }
@@ -5573,7 +5573,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "guyinthesling",
       "protected" : false,
       "id_str" : "255841651",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1251092787\/500x_ap101113128579_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/447156518266220544\/9fjpChsP_normal.png",
       "id" : 255841651,
       "verified" : false
     }
@@ -5727,7 +5727,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "nrr",
       "protected" : false,
       "id_str" : "14498961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433810385565532160\/LmWt27eC_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448487196501090306\/aB_kFw_I_normal.png",
       "id" : 14498961,
       "verified" : false
     }

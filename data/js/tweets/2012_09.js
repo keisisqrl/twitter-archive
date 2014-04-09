@@ -286,7 +286,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Greg Brown",
+      "name" : "Gerg Brown",
       "screen_name" : "gregbrown",
       "indices" : [ 3, 13 ],
       "id_str" : "12042372",
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 251687710325108736,
     "created_at" : "2012-09-28 14:20:00 +0000",
     "user" : {
-      "name" : "Greg Brown",
+      "name" : "Gerg Brown",
       "screen_name" : "gregbrown",
       "protected" : false,
       "id_str" : "12042372",
@@ -492,7 +492,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "flake",
+      "name" : "Bird McGillicutty",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -519,11 +519,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 251168219421876224,
     "created_at" : "2012-09-27 03:55:44 +0000",
     "user" : {
-      "name" : "flake",
+      "name" : "Bird McGillicutty",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423478713611599872\/Gel84w3L_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/447052529986056192\/BehG4XMJ_normal.jpeg",
       "id" : 96906330,
       "verified" : false
     }
@@ -669,7 +669,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "me_irl",
       "protected" : false,
       "id_str" : "16142493",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1313488248\/210711_10150163329752348_517877347_6551427_7190237_o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451998724412043265\/PljamIqO_normal.jpeg",
       "id" : 16142493,
       "verified" : false
     }
@@ -1141,7 +1141,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pomford J Allegheny",
+      "name" : "Pom Quixote",
       "screen_name" : "PontiusPyrite",
       "indices" : [ 3, 17 ],
       "id_str" : "101138882",
@@ -1168,7 +1168,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 248840947155210241,
     "created_at" : "2012-09-20 17:47:59 +0000",
     "user" : {
-      "name" : "Pomford J Allegheny",
+      "name" : "Pom Quixote",
       "screen_name" : "PontiusPyrite",
       "protected" : false,
       "id_str" : "101138882",
@@ -2833,7 +2833,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "F0reverBr0ken",
       "protected" : false,
       "id_str" : "164138622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439633834724712448\/5WeAmYQ0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451456050885955584\/PMaKlRBf_normal.jpeg",
       "id" : 164138622,
       "verified" : false
     }
@@ -3875,7 +3875,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "1353123648",
       "id" : 1353123648
     }, {
-      "name" : "LATEX MALL BURIAL",
+      "name" : "DOES IT CUTE?",
       "screen_name" : "aliendovecote",
       "indices" : [ 9, 23 ],
       "id_str" : "70665746",
@@ -3909,7 +3909,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "1353123648",
       "id" : 1353123648
     }, {
-      "name" : "LATEX MALL BURIAL",
+      "name" : "DOES IT CUTE?",
       "screen_name" : "aliendovecote",
       "indices" : [ 9, 23 ],
       "id_str" : "70665746",
@@ -4214,7 +4214,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "DarkHelmetSB",
       "protected" : false,
       "id_str" : "269833473",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464635776\/f12eeba58f8bd30de1582157bc1d2879_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451314913428783104\/G7ixegOX_normal.jpeg",
       "id" : 269833473,
       "verified" : false
     }
@@ -4234,7 +4234,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "flake",
+      "name" : "Bird McGillicutty",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -4271,16 +4271,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "242053534693093376",
   "geo" : { },
   "id_str" : "242054705449156609",
-  "in_reply_to_user_id" : 83715793,
   "text" : "@MarxSensei the one that was retconned to not about rape, just kidnapping and sexual assault. Yeah. Figured it'd be welcomed.",
   "id" : 242054705449156609,
-  "in_reply_to_status_id" : 242053534693093376,
   "created_at" : "2012-09-02 00:21:53 +0000",
-  "in_reply_to_screen_name" : "Kimmy_D_Lux",
-  "in_reply_to_user_id_str" : "83715793",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -4298,106 +4293,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "242051475973492737",
   "geo" : { },
   "id_str" : "242052356890570754",
-  "in_reply_to_user_id" : 83715793,
   "text" : "@MarxSensei that card game that Kickstarter pulled?",
   "id" : 242052356890570754,
-  "in_reply_to_status_id" : 242051475973492737,
   "created_at" : "2012-09-02 00:12:33 +0000",
-  "in_reply_to_screen_name" : "Kimmy_D_Lux",
-  "in_reply_to_user_id_str" : "83715793",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "242052206537351169",
-  "text" : "RT @MarxSensei: How inclusive a space does PAX feel when they're marketing fucking tentacle rape games on the show floor, I wonder?",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "242051475973492737",
-    "text" : "How inclusive a space does PAX feel when they're marketing fucking tentacle rape games on the show floor, I wonder?",
-    "id" : 242051475973492737,
-    "created_at" : "2012-09-02 00:09:03 +0000",
-    "user" : {
-      "name" : "lil red f*cking hood",
-      "screen_name" : "Kimmy_D_Lux",
-      "protected" : false,
-      "id_str" : "83715793",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441336070756524032\/JeJxdiXx_normal.png",
-      "id" : 83715793,
-      "verified" : false
-    }
-  },
-  "id" : 242052206537351169,
-  "created_at" : "2012-09-02 00:11:57 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "242052206851936256",
-  "text" : "RT @MarxSensei: That definitely sounds like a safe, inclusive space for all hahahahhahaha kill me kill me please",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "242051628792938497",
-    "text" : "That definitely sounds like a safe, inclusive space for all hahahahhahaha kill me kill me please",
-    "id" : 242051628792938497,
-    "created_at" : "2012-09-02 00:09:40 +0000",
-    "user" : {
-      "name" : "lil red f*cking hood",
-      "screen_name" : "Kimmy_D_Lux",
-      "protected" : false,
-      "id_str" : "83715793",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441336070756524032\/JeJxdiXx_normal.png",
-      "id" : 83715793,
-      "verified" : false
-    }
-  },
-  "id" : 242052206851936256,
-  "created_at" : "2012-09-02 00:11:57 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

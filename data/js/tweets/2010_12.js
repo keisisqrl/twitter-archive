@@ -219,7 +219,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -252,7 +252,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Shervyn Saga",
+      "name" : "Shervyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -2160,11 +2160,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 14832277397704705,
     "created_at" : "2010-12-15 00:01:05 +0000",
     "user" : {
-      "name" : "Onjouji KaRen-chon",
+      "name" : "\u767D (Adagaki Renge)",
       "screen_name" : "Xiatian",
       "protected" : false,
       "id_str" : "144963561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430996730000068609\/ROS8UQkb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454015652450168832\/76Sr4Z8D_normal.png",
       "id" : 144963561,
       "verified" : false
     }
@@ -3363,7 +3363,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jillian C. York",
+      "name" : "Chillian J. Yikes!",
       "screen_name" : "jilliancyork",
       "indices" : [ 3, 16 ],
       "id_str" : "14048901",
@@ -3396,11 +3396,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 12166207591424000,
     "created_at" : "2010-12-07 15:27:04 +0000",
     "user" : {
-      "name" : "Jillian C. York",
+      "name" : "Chillian J. Yikes!",
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436289231250419712\/PoeDXiUL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/447918393312555009\/3kVul2WI_normal.jpeg",
       "id" : 14048901,
       "verified" : false
     }
@@ -3623,7 +3623,7 @@ Grailbird.data.tweets_2010_12 =
     "user" : {
       "name" : "Suzanne Munshower",
       "screen_name" : "expatina",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "29509060",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438764678928289792\/XHdKXZlD_normal.jpeg",
       "id" : 29509060,

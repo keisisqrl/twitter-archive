@@ -795,7 +795,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "wsdot",
       "protected" : false,
       "id_str" : "14124059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435800551620481024\/ml-BWrXi_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453178500191485952\/WcCN16Yy_normal.png",
       "id" : 14124059,
       "verified" : true
     }
@@ -1292,7 +1292,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "Zelbinian",
       "protected" : false,
       "id_str" : "16930681",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430589511048130560\/dhBlqa9n_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446688554987847682\/UOwIMyzt_normal.jpeg",
       "id" : 16930681,
       "verified" : false
     }
@@ -1312,7 +1312,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gasoline Allie",
+      "name" : "Allison",
       "screen_name" : "reiley",
       "indices" : [ 3, 10 ],
       "id_str" : "18475637",
@@ -1345,11 +1345,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22115830186,
     "created_at" : "2010-08-25 20:09:37 +0000",
     "user" : {
-      "name" : "Gasoline Allie",
+      "name" : "Allison",
       "screen_name" : "reiley",
       "protected" : false,
       "id_str" : "18475637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413109516754894848\/NjOEttnW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451946025976987648\/7oZiu7uG_normal.png",
       "id" : 18475637,
       "verified" : false
     }
@@ -2068,11 +2068,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hrana",
+      "name" : "Hisham Rana, MD",
       "screen_name" : "hrana",
       "indices" : [ 0, 6 ],
-      "id_str" : "412463257",
-      "id" : 412463257
+      "id_str" : "650903",
+      "id" : 650903
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2086,7 +2086,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21809893756,
   "in_reply_to_status_id" : 21809636685,
   "created_at" : "2010-08-22 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hrana1998a",
+  "in_reply_to_screen_name" : "hrana",
   "in_reply_to_user_id_str" : "650903",
   "user" : {
     "name" : "Amy",
@@ -2101,11 +2101,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hrana",
+      "name" : "Hisham Rana, MD",
       "screen_name" : "hrana",
       "indices" : [ 0, 6 ],
-      "id_str" : "412463257",
-      "id" : 412463257
+      "id_str" : "650903",
+      "id" : 650903
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2119,7 +2119,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21810224803,
   "in_reply_to_status_id" : 21810085142,
   "created_at" : "2010-08-22 00:00:00 +0000",
-  "in_reply_to_screen_name" : "hrana1998a",
+  "in_reply_to_screen_name" : "hrana",
   "in_reply_to_user_id_str" : "650903",
   "user" : {
     "name" : "Amy",
@@ -2212,7 +2212,7 @@ Grailbird.data.tweets_2010_08 =
     "user" : {
       "name" : "Darius Icewezel",
       "screen_name" : "IceWeazel",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "107630846",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1551603938\/iceweazel_small_normal.png",
       "id" : 107630846,
@@ -4570,11 +4570,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
+      "name" : "FiveThirtyEight",
+      "screen_name" : "FiveThirtyEight",
       "indices" : [ 0, 16 ],
-      "id_str" : "16017475",
-      "id" : 16017475
+      "id_str" : "2303751216",
+      "id" : 2303751216
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4588,7 +4588,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20388618938,
   "in_reply_to_status_id" : 20388222806,
   "created_at" : "2010-08-05 00:00:00 +0000",
-  "in_reply_to_screen_name" : "fivethirtyeight",
+  "in_reply_to_screen_name" : "NateSilver538",
   "in_reply_to_user_id_str" : "16017475",
   "user" : {
     "name" : "Amy",

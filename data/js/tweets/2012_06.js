@@ -688,7 +688,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Yes Swans Hydrate",
+      "name" : "Tess",
       "screen_name" : "tess_y",
       "indices" : [ 3, 10 ],
       "id_str" : "19274330",
@@ -787,7 +787,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 216676996929961985,
     "created_at" : "2012-06-23 23:39:57 +0000",
     "user" : {
-      "name" : "Yes Swans Hydrate",
+      "name" : "Tess",
       "screen_name" : "tess_y",
       "protected" : false,
       "id_str" : "19274330",
@@ -941,7 +941,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "FatBodyPolitics",
       "protected" : false,
       "id_str" : "12284942",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2302993002\/fes33f71zsgkl373vbrp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452246405579415552\/DI4I7k84_normal.jpeg",
       "id" : 12284942,
       "verified" : false
     }
@@ -1058,7 +1058,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437511123013619712\/tJLuaRXo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450900805562798081\/K-eRssB5_normal.png",
       "id" : 17143528,
       "verified" : false
     }
@@ -1304,7 +1304,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Blogos Fear",
+      "name" : "Vladimir Computin'",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -1341,11 +1341,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 215242950584700928,
     "created_at" : "2012-06-20 00:41:33 +0000",
     "user" : {
-      "name" : "Blogos Fear",
+      "name" : "Vladimir Computin'",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432014050738700290\/4IGRWIcJ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441665751984775168\/ASBFsmsT_normal.jpeg",
       "id" : 14204623,
       "verified" : false
     }
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Skud",
+      "name" : "Fake Normal Girl",
       "screen_name" : "Skud",
       "indices" : [ 3, 8 ],
       "id_str" : "823980",
@@ -1857,11 +1857,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 213771128492146689,
     "created_at" : "2012-06-15 23:13:03 +0000",
     "user" : {
-      "name" : "Skud",
+      "name" : "Fake Normal Girl",
       "screen_name" : "Skud",
       "protected" : false,
       "id_str" : "823980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436654772326653953\/Oit8w-dz_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443737463362568192\/Y91b22FJ_normal.jpeg",
       "id" : 823980,
       "verified" : false
     }
@@ -2031,7 +2031,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chip Chip Chip Chip ",
+      "name" : "Chipper McChipperson",
       "screen_name" : "Chiparoo",
       "indices" : [ 0, 9 ],
       "id_str" : "2034551",
@@ -2459,7 +2459,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2486,7 +2486,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 211197566644264960,
     "created_at" : "2012-06-08 20:46:38 +0000",
     "user" : {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2606,7 +2606,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "ebertchicago",
       "protected" : false,
       "id_str" : "79797834",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3709998068\/2eaf8d1ffc7807586877b3b8eba23637_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451835991897026560\/6QBIyJx6_normal.jpeg",
       "id" : 79797834,
       "verified" : true
     }

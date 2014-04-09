@@ -748,7 +748,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jacques Cusnow",
+      "name" : "B L O O D J E P H",
       "screen_name" : "jephjacques",
       "indices" : [ 3, 15 ],
       "id_str" : "7670202",
@@ -775,7 +775,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 239381496723546113,
     "created_at" : "2012-08-25 15:19:30 +0000",
     "user" : {
-      "name" : "Jacques Cusnow",
+      "name" : "B L O O D J E P H",
       "screen_name" : "jephjacques",
       "protected" : false,
       "id_str" : "7670202",
@@ -1065,7 +1065,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "woodmuffin",
+      "name" : "wdmfn",
       "screen_name" : "woodmuffin",
       "indices" : [ 3, 14 ],
       "id_str" : "94719490",
@@ -1092,7 +1092,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 238454026092556290,
     "created_at" : "2012-08-23 01:54:04 +0000",
     "user" : {
-      "name" : "woodmuffin",
+      "name" : "wdmfn",
       "screen_name" : "woodmuffin",
       "protected" : false,
       "id_str" : "94719490",
@@ -1631,7 +1631,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "flake",
+      "name" : "Bird McGillicutty",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -1664,11 +1664,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 237412698810368001,
     "created_at" : "2012-08-20 04:56:12 +0000",
     "user" : {
-      "name" : "flake",
+      "name" : "Bird McGillicutty",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423478713611599872\/Gel84w3L_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/447052529986056192\/BehG4XMJ_normal.jpeg",
       "id" : 96906330,
       "verified" : false
     }
@@ -2568,7 +2568,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "anamanaguchi",
       "protected" : false,
       "id_str" : "21056214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432133109455519744\/OWRDlGW2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443583921561686016\/kl72uOgx_normal.jpeg",
       "id" : 21056214,
       "verified" : true
     }
@@ -3329,7 +3329,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "flake",
+      "name" : "Bird McGillicutty",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -3423,7 +3423,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "flake",
+      "name" : "Bird McGillicutty",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -3478,7 +3478,7 @@ Grailbird.data.tweets_2012_08 =
   "text" : "@gaymercon does the $45 level include admission?",
   "id" : 231267992200179712,
   "created_at" : "2012-08-03 05:59:20 +0000",
-  "in_reply_to_screen_name" : "MidBossGames",
+  "in_reply_to_screen_name" : "WeAreMidBoss",
   "in_reply_to_user_id_str" : "503631243",
   "user" : {
     "name" : "Amy",
@@ -3743,7 +3743,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "flake",
+      "name" : "Bird McGillicutty",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",

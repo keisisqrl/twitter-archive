@@ -3994,7 +3994,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "FearDept",
       "protected" : false,
       "id_str" : "141834186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1130115874\/seal_med_normal.PNG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453113104939761664\/9ZqHHvvA_normal.png",
       "id" : 141834186,
       "verified" : false
     }

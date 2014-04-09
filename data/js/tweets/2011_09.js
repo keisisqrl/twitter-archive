@@ -447,7 +447,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "20563182",
       "id" : 20563182
     }, {
-      "name" : "Jacques Cusnow",
+      "name" : "B L O O D J E P H",
       "screen_name" : "jephjacques",
       "indices" : [ 14, 26 ],
       "id_str" : "7670202",
@@ -1140,7 +1140,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gasoline Allie",
+      "name" : "Allison",
       "screen_name" : "reiley",
       "indices" : [ 3, 10 ],
       "id_str" : "18475637",
@@ -1184,11 +1184,11 @@ Grailbird.data.tweets_2011_09 =
     "in_reply_to_screen_name" : "dresdencodak",
     "in_reply_to_user_id_str" : "17143528",
     "user" : {
-      "name" : "Gasoline Allie",
+      "name" : "Allison",
       "screen_name" : "reiley",
       "protected" : false,
       "id_str" : "18475637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413109516754894848\/NjOEttnW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451946025976987648\/7oZiu7uG_normal.png",
       "id" : 18475637,
       "verified" : false
     }
@@ -2872,7 +2872,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snipe \u30C4",
+      "name" : "snipe",
       "screen_name" : "snipeyhead",
       "indices" : [ 3, 14 ],
       "id_str" : "14246782",
@@ -2909,11 +2909,11 @@ Grailbird.data.tweets_2011_09 =
     "id" : 112024437267759104,
     "created_at" : "2011-09-09 04:48:01 +0000",
     "user" : {
-      "name" : "snipe \u30C4",
+      "name" : "snipe",
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441349877155774464\/YalC8eAG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450960385215303680\/fJ2JBv7j_normal.jpeg",
       "id" : 14246782,
       "verified" : false
     }

@@ -1364,7 +1364,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "cantfakethefunk",
       "protected" : false,
       "id_str" : "13796782",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2331141065\/22ig76kqg1uh763m5smu_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451947885525876736\/xZ3240Ok_normal.jpeg",
       "id" : 13796782,
       "verified" : false
     }
@@ -1527,7 +1527,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "ACLU",
       "protected" : false,
       "id_str" : "13393052",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433616596565622785\/8FVFX5-4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/445922829242888192\/AWxwyf2Y_normal.jpeg",
       "id" : 13393052,
       "verified" : true
     }
@@ -1842,7 +1842,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "flake",
+      "name" : "Bird McGillicutty",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -2005,7 +2005,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2042,7 +2042,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 201420732058701824,
     "created_at" : "2012-05-12 21:16:59 +0000",
     "user" : {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2297,7 +2297,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2324,7 +2324,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 200337188477603840,
     "created_at" : "2012-05-09 21:31:22 +0000",
     "user" : {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2348,7 +2348,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2375,7 +2375,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 200336960072585218,
     "created_at" : "2012-05-09 21:30:28 +0000",
     "user" : {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2992,7 +2992,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "SteveNiles",
       "protected" : false,
       "id_str" : "33641840",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427937091113074688\/rhCamOYI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450351889767358464\/bt6BJkAv_normal.jpeg",
       "id" : 33641840,
       "verified" : false
     }
@@ -3120,7 +3120,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -3157,7 +3157,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 198181037904375808,
     "created_at" : "2012-05-03 22:43:36 +0000",
     "user" : {
-      "name" : "Eevee",
+      "name" : "@eevee",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -3468,7 +3468,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jacques Cusnow",
+      "name" : "B L O O D J E P H",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
