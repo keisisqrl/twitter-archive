@@ -359,7 +359,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "donttrythis",
       "protected" : false,
       "id_str" : "15661871",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1925644866\/FotoFlexer_Photo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458749057985282048\/cre48Dcf_normal.jpeg",
       "id" : 15661871,
       "verified" : true
     }
@@ -818,7 +818,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -1126,7 +1126,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "donttrythis",
       "protected" : false,
       "id_str" : "15661871",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1925644866\/FotoFlexer_Photo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458749057985282048\/cre48Dcf_normal.jpeg",
       "id" : 15661871,
       "verified" : true
     }
@@ -2860,7 +2860,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dumblr",
+      "name" : "Evil-D",
       "screen_name" : "Evil_Dumbledore",
       "indices" : [ 3, 19 ],
       "id_str" : "235727524",
@@ -2887,7 +2887,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 102503588277911552,
     "created_at" : "2011-08-13 22:15:34 +0000",
     "user" : {
-      "name" : "Dumblr",
+      "name" : "Evil-D",
       "screen_name" : "Evil_Dumbledore",
       "protected" : false,
       "id_str" : "235727524",
@@ -3539,7 +3539,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "freebsdgirl",
       "protected" : false,
       "id_str" : "13857342",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3631706024\/6da7baba95d931ee09df8ffbd2ef2d7c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457776885519241217\/v-IvEbBS_normal.jpeg",
       "id" : 13857342,
       "verified" : false
     }
@@ -4330,7 +4330,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",

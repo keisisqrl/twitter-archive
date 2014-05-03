@@ -702,7 +702,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -908,7 +908,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "KarlFrisch",
       "protected" : false,
       "id_str" : "3365",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000629953684\/4f073e9e1e5e37e075c395ee42f98231_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456151653507694592\/PiDVZq9T_normal.jpeg",
       "id" : 3365,
       "verified" : false
     }
@@ -1281,7 +1281,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia* Jones",
+      "name" : "ironic zinnia jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1999,7 +1999,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zinnia* Jones",
+      "name" : "ironic zinnia jones",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -2056,11 +2056,11 @@ Grailbird.data.tweets_2010_11 =
     "id" : 5414009939427328,
     "created_at" : "2010-11-19 00:16:15 +0000",
     "user" : {
-      "name" : "Zinnia* Jones",
+      "name" : "ironic zinnia jones",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423279795619655680\/wXdnRnDh_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461356705738014720\/ayDOgw4G_normal.jpeg",
       "id" : 5780032,
       "verified" : false
     }
@@ -2105,7 +2105,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -2385,7 +2385,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "14202817",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3475245194\/59992708a306aaa836bf1699f8b47d5d_normal.png",
       "id" : 14202817,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 4353374178779136,
@@ -2747,7 +2747,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "B L O O D J E P H",
+      "name" : "MAY CONTAIN BIRDS",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
@@ -3786,7 +3786,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -3819,7 +3819,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",

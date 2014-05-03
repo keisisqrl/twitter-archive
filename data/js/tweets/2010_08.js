@@ -795,7 +795,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "wsdot",
       "protected" : false,
       "id_str" : "14124059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453178500191485952\/WcCN16Yy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458715263270014976\/9YdZTB7T_normal.png",
       "id" : 14124059,
       "verified" : true
     }
@@ -1172,7 +1172,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitterfall.com\" rel=\"nofollow\"\u003ETwitterfall\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "indices" : [ 0, 8 ],
       "id_str" : "14251472",
@@ -1349,7 +1349,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "reiley",
       "protected" : false,
       "id_str" : "18475637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451946025976987648\/7oZiu7uG_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459113227272454144\/KS1h4Dea_normal.png",
       "id" : 18475637,
       "verified" : false
     }
@@ -3362,7 +3362,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Gerth",
+      "name" : "Will Osborne",
       "screen_name" : "comcastcares",
       "indices" : [ 0, 13 ],
       "id_str" : "14104847",

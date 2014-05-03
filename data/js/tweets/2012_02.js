@@ -275,7 +275,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -1853,7 +1853,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "14202817",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3475245194\/59992708a306aaa836bf1699f8b47d5d_normal.png",
       "id" : 14202817,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 172833366511599616,
@@ -2274,7 +2274,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -2307,7 +2307,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -2340,7 +2340,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -3061,7 +3061,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "indices" : [ 3, 11 ],
       "id_str" : "14251472",
@@ -3088,7 +3088,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 169876427611717632,
     "created_at" : "2012-02-15 20:11:11 +0000",
     "user" : {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "protected" : false,
       "id_str" : "14251472",
@@ -3112,7 +3112,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "indices" : [ 3, 11 ],
       "id_str" : "14251472",
@@ -3149,7 +3149,7 @@ Grailbird.data.tweets_2012_02 =
     "id" : 169874738829733888,
     "created_at" : "2012-02-15 20:04:28 +0000",
     "user" : {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "protected" : false,
       "id_str" : "14251472",
@@ -3810,7 +3810,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "ClarisseThorn",
       "protected" : false,
       "id_str" : "30529714",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1543436281\/whitebloodroseicon_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461611290411008000\/xfBPDfnR_normal.jpeg",
       "id" : 30529714,
       "verified" : false
     }
@@ -3830,7 +3830,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@eevee",
+      "name" : "\u2200eevees",
       "screen_name" : "eevee",
       "indices" : [ 0, 6 ],
       "id_str" : "14412937",

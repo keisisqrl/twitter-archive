@@ -3772,7 +3772,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "richardroeper",
       "protected" : false,
       "id_str" : "13820672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413074246709940224\/uCAh_mqM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458882939510460416\/Pdpl58gN_normal.jpeg",
       "id" : 13820672,
       "verified" : true
     }

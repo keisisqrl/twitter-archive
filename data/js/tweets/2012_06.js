@@ -1304,7 +1304,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vladimir Computin'",
+      "name" : "cliff",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -1341,7 +1341,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 215242950584700928,
     "created_at" : "2012-06-20 00:41:33 +0000",
     "user" : {
-      "name" : "Vladimir Computin'",
+      "name" : "cliff",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -1654,7 +1654,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -1687,7 +1687,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -2459,7 +2459,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@eevee",
+      "name" : "\u2200eevees",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2486,11 +2486,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 211197566644264960,
     "created_at" : "2012-06-08 20:46:38 +0000",
     "user" : {
-      "name" : "@eevee",
+      "name" : "\u2200eevees",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2668150353\/e088698aa2e9f14d17ca6ad3668545c0_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458710874635501568\/jGAVCAuX_normal.png",
       "id" : 14412937,
       "verified" : false
     }

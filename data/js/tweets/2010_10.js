@@ -3217,7 +3217,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "B L O O D J E P H",
+      "name" : "MAY CONTAIN BIRDS",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
@@ -3847,7 +3847,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "enagoski",
       "protected" : false,
       "id_str" : "22252971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3756802964\/223325c6421bdfb7bde60550d729c39a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455712641348947968\/G4vpp8dP_normal.jpeg",
       "id" : 22252971,
       "verified" : false
     }
@@ -4640,7 +4640,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14055949",
       "id" : 14055949
     }, {
-      "name" : "Lousy Smarch Weather",
+      "name" : "The Great Outdoors!",
       "screen_name" : "arnonaut",
       "indices" : [ 17, 26 ],
       "id_str" : "13916802",
@@ -5158,7 +5158,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "B L O O D J E P H",
+      "name" : "MAY CONTAIN BIRDS",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",

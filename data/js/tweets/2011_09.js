@@ -421,7 +421,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "hugs",
       "protected" : false,
       "id_str" : "8862132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2319230297\/m9tswgxi5ovb9c7fgiaf_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456871174157258752\/EItpfLel_normal.jpeg",
       "id" : 8862132,
       "verified" : false
     }
@@ -447,7 +447,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "20563182",
       "id" : 20563182
     }, {
-      "name" : "B L O O D J E P H",
+      "name" : "MAY CONTAIN BIRDS",
       "screen_name" : "jephjacques",
       "indices" : [ 14, 26 ],
       "id_str" : "7670202",
@@ -1188,7 +1188,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "reiley",
       "protected" : false,
       "id_str" : "18475637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451946025976987648\/7oZiu7uG_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459113227272454144\/KS1h4Dea_normal.png",
       "id" : 18475637,
       "verified" : false
     }
@@ -1869,7 +1869,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bit Koinchera",
+      "name" : "Ben Kuchera",
       "screen_name" : "BenKuchera",
       "indices" : [ 3, 14 ],
       "id_str" : "14575846",
@@ -1906,13 +1906,13 @@ Grailbird.data.tweets_2011_09 =
     "id" : 115315083957116928,
     "created_at" : "2011-09-18 06:43:53 +0000",
     "user" : {
-      "name" : "Bit Koinchera",
+      "name" : "Ben Kuchera",
       "screen_name" : "BenKuchera",
       "protected" : false,
       "id_str" : "14575846",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422899236443672576\/6UDJaFJv_normal.jpeg",
       "id" : 14575846,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 115320251528384512,

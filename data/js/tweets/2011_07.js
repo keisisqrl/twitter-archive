@@ -711,7 +711,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pinder",
+      "name" : "Totally Normal Guy",
       "screen_name" : "wootimus",
       "indices" : [ 0, 9 ],
       "id_str" : "22427914",
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vladimir Computin'",
+      "name" : "cliff",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -827,7 +827,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 96111980489867264,
     "created_at" : "2011-07-27 06:57:36 +0000",
     "user" : {
-      "name" : "Vladimir Computin'",
+      "name" : "cliff",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -3137,7 +3137,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "nrr",
       "protected" : false,
       "id_str" : "14498961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448487196501090306\/aB_kFw_I_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455390923111669760\/MGj7oK7z_normal.png",
       "id" : 14498961,
       "verified" : false
     }
@@ -3259,7 +3259,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "indices" : [ 3, 11 ],
       "id_str" : "14251472",
@@ -3286,7 +3286,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 88818910278860800,
     "created_at" : "2011-07-07 03:57:33 +0000",
     "user" : {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "protected" : false,
       "id_str" : "14251472",

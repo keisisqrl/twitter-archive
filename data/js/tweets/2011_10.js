@@ -563,7 +563,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "takikuroi",
       "protected" : false,
       "id_str" : "39983839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000530945978\/417b973c77cc92a03cab2e485f91dad5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458431240283385856\/Ja3vD_AV_normal.jpeg",
       "id" : 39983839,
       "verified" : false
     }
@@ -923,7 +923,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "hackaday",
       "protected" : false,
       "id_str" : "14607140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/53575490\/hackaday_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459849834854223874\/LpJMRYk4_normal.png",
       "id" : 14607140,
       "verified" : false
     }
@@ -2796,7 +2796,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "enagoski",
       "protected" : false,
       "id_str" : "22252971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3756802964\/223325c6421bdfb7bde60550d729c39a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455712641348947968\/G4vpp8dP_normal.jpeg",
       "id" : 22252971,
       "verified" : false
     }
@@ -3256,7 +3256,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "indices" : [ 3, 11 ],
       "id_str" : "14251472",
@@ -3305,7 +3305,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 124680569450790912,
     "created_at" : "2011-10-14 02:58:58 +0000",
     "user" : {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "protected" : false,
       "id_str" : "14251472",
@@ -4040,7 +4040,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fizz",
+      "name" : "Finn Ellis",
       "screen_name" : "relsqui",
       "indices" : [ 0, 8 ],
       "id_str" : "14251472",
@@ -4180,7 +4180,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mat Honan",
+      "name" : "mat honan",
       "screen_name" : "mat",
       "indices" : [ 3, 7 ],
       "id_str" : "11113",
@@ -4207,7 +4207,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 123659398252994560,
     "created_at" : "2011-10-11 07:21:12 +0000",
     "user" : {
-      "name" : "Mat Honan",
+      "name" : "mat honan",
       "screen_name" : "mat",
       "protected" : false,
       "id_str" : "11113",
@@ -5727,7 +5727,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "nrr",
       "protected" : false,
       "id_str" : "14498961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448487196501090306\/aB_kFw_I_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455390923111669760\/MGj7oK7z_normal.png",
       "id" : 14498961,
       "verified" : false
     }
