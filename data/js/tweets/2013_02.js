@@ -189,7 +189,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa",
+      "name" : "Melissa \u2608",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -236,7 +236,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "307355333066641408",
   "text" : "RT @graceishuman: Who are these alleged gay and lesbian friends evangelical leaders are always claiming they have? I want receipts.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -253,7 +253,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "graceishuman",
       "protected" : false,
       "id_str" : "167426475",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/414870158042497024\/ZZxwR0Nt_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472352328838684673\/mBg5C8GS_normal.png",
       "id" : 167426475,
       "verified" : false
     }
@@ -409,7 +409,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "307133795239337984",
   "text" : "RT @TeaPartyCat: Scalia: \"We don't need the Voting Rights Act. That was for when there was racism. Nowadays the South is no more racist  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -542,7 +542,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1028,7 +1028,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450900805562798081\/K-eRssB5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475007449863163904\/TOO5hJ1p_normal.jpeg",
       "id" : 17143528,
       "verified" : false
     }
@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2200eevees",
+      "name" : "eevee \u26A7 ",
       "screen_name" : "eevee",
       "indices" : [ 0, 6 ],
       "id_str" : "14412937",
@@ -1335,7 +1335,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "305421210739675138",
   "text" : "RT @TypicalGirI: i\u2019ve got 99 problems and 86 of them are completely made up scenarios in my head that i'm stressing about for absolutely ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1411,7 +1411,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "398859493",
       "id" : 398859493
     }, {
-      "name" : "king mommy",
+      "name" : "grey sea",
       "screen_name" : "adeerable",
       "indices" : [ 11, 21 ],
       "id_str" : "2305698925",
@@ -1444,7 +1444,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "king mommy",
+      "name" : "grey sea",
       "screen_name" : "adeerable",
       "indices" : [ 0, 10 ],
       "id_str" : "2305698925",
@@ -1462,7 +1462,7 @@ Grailbird.data.tweets_2013_02 =
   "id" : 305324819497484288,
   "in_reply_to_status_id" : 305322998087442432,
   "created_at" : "2013-02-23 14:34:44 +0000",
-  "in_reply_to_screen_name" : "mallorydoe",
+  "in_reply_to_screen_name" : "crystalpowered",
   "in_reply_to_user_id_str" : "17415965",
   "user" : {
     "name" : "Amy",
@@ -1612,7 +1612,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Paul Aurich",
@@ -1643,7 +1643,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason Kottke",
@@ -1660,7 +1660,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "304375447666429954",
   "text" : "RT @jkottke: Will you be able to sidle up next to a Google Glass wearer and say \"ok glass, show me midget porn\" or are they tied to wear ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2059,7 +2059,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "302656178729668610",
   "text" : "RT @afamiglietti: BREAKING: Strange meteor lands in Grover's Mills New Jersey",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2173,7 +2173,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flake",
+      "name" : "Prototype Bird",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -2507,11 +2507,11 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kewie Punkt",
+      "name" : "Johannes Punkt",
       "screen_name" : "kewangji",
       "indices" : [ 0, 9 ],
-      "id_str" : "35835416",
-      "id" : 35835416
+      "id_str" : "2443232406",
+      "id" : 2443232406
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2525,7 +2525,7 @@ Grailbird.data.tweets_2013_02 =
   "id" : 301876070863470594,
   "in_reply_to_status_id" : 301875027517792256,
   "created_at" : "2013-02-14 02:10:38 +0000",
-  "in_reply_to_screen_name" : "kewangji",
+  "in_reply_to_screen_name" : "johannespunkt",
   "in_reply_to_user_id_str" : "35835416",
   "user" : {
     "name" : "Amy",
@@ -2647,7 +2647,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "301797690742820864",
   "text" : "RT @God_Damn_Batman: Know what I\u2019m giving up for Lent? Parents.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2791,7 +2791,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lydia Neon",
@@ -2941,7 +2941,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "300726700721979392",
   "text" : "RT @nataliereed84: #INeedMasculismBecause I'm incapable of thinking of sexism in terms more complex than summer camp \"battle of the sexe ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3001,7 +3001,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "300725716989915137",
   "text" : "RT @BenKuchera: Send a message against the promotion of negative stereotypes and hate speech. Pull your support from @theECA.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "ECA",
@@ -3358,7 +3358,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Amy Hendrix",
@@ -3375,7 +3375,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "298868261519511552",
   "text" : "RT @sabreuse: Dudes, when you refer to women as \"females\", you know what you sound like? Ferengi.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3470,7 +3470,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "298798008689123331",
   "text" : "RT @mishsolomon: Fantastic! \"Violent masculinity &amp; victim-blaming: the cornerstones of rape culture\". PRT @JessicaValenti http:\/\/t.c ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jessica Valenti",
@@ -3860,7 +3860,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "297758144413704195",
   "text" : "RT @tortoiseontour: ghosts are real. and they're chill as hell http:\/\/t.co\/TCW0AyI3",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3882,7 +3882,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "tortoiseontour",
       "protected" : false,
       "id_str" : "32688679",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3343216882\/a89799bf8285f8bc08af433749816b13_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464769564002107393\/Q325en3c_normal.png",
       "id" : 32688679,
       "verified" : false
     }

@@ -327,7 +327,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "gregbrown",
       "protected" : false,
       "id_str" : "12042372",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/52024151\/tumblrprofile_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474349668965838848\/BNEADIN2_normal.jpeg",
       "id" : 12042372,
       "verified" : false
     }
@@ -344,7 +344,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Devin Faraci",
@@ -401,7 +401,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -492,7 +492,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flake",
+      "name" : "Prototype Bird",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -519,7 +519,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 251168219421876224,
     "created_at" : "2012-09-27 03:55:44 +0000",
     "user" : {
-      "name" : "Flake",
+      "name" : "Prototype Bird",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
@@ -557,7 +557,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "250955304722907136",
   "text" : "RT @WestWingReport: Here's to Austerity: worst recession in Britain in half-a-century, riots in Greece &amp; Spain. Foreshadowing for th ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -635,7 +635,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "the government man",
@@ -1066,7 +1066,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1093,7 +1093,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1138,7 +1138,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pom Quixote",
@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "248842813784064000",
   "text" : "RT @PontiusPyrite: i mean, saying \"i hate black people\" isn't suddenly just satire of racism because you're making a jerking off motion  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1189,7 +1189,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1234,7 +1234,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "248291832251953152",
   "text" : "RT @CarlemotTwoZero: \"sometimes i wonder how you're single all the time.\" practice.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1698,7 +1698,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "rubber cat",
@@ -1725,7 +1725,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "247559674335997952",
   "text" : "RT @robbercat: here http:\/\/t.co\/bKdgCGKk http:\/\/t.co\/ZiUAyxrQ",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2009,7 +2009,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "247530843516575744",
   "text" : "RT @eassumption: I refuse to pretend that polite bigotry is civil. If you think that's rude of me, please gently fuck yourself. #fb",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2167,7 +2167,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "246676366416805888",
   "text" : "RT @raganwald: Get your slogans straight: \"You only live once\" is for fun things, \"Life is short\" is for dangerous things. You'll find o ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2184,7 +2184,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "raganwald",
       "protected" : false,
       "id_str" : "18137723",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436205905437134848\/MdRKL9hb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474877431266811904\/v8_vBkWi_normal.jpeg",
       "id" : 18137723,
       "verified" : false
     }
@@ -2267,7 +2267,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "246600015466860544",
   "text" : "RT @WestWingReport: The Arab world is failing big, failing fast - and the implications for U.S. security are profound. WWR's latest: htt ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2802,7 +2802,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hopeless Dreamer",
+      "name" : "\u157CO\u146DE\u14AAE\u1515\u1515 \u15EA\u1587E\u15E9\u15F0E\u1587 ",
       "screen_name" : "F0reverBr0ken",
       "indices" : [ 3, 17 ],
       "id_str" : "164138622",
@@ -2829,11 +2829,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 245351018051801088,
     "created_at" : "2012-09-11 02:40:15 +0000",
     "user" : {
-      "name" : "Hopeless Dreamer",
+      "name" : "\u157CO\u146DE\u14AAE\u1515\u1515 \u15EA\u1587E\u15E9\u15F0E\u1587 ",
       "screen_name" : "F0reverBr0ken",
       "protected" : false,
       "id_str" : "164138622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462317470187933697\/C62Ix5Fw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/470114931493203968\/OYf4YqpW_normal.jpeg",
       "id" : 164138622,
       "verified" : false
     }
@@ -2861,7 +2861,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "245289801618714624",
   "text" : "RT @MisandryDragon: I hate wanting to help ppl but being unable to do so cuz hundreds of miles away :&lt;",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3376,7 +3376,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243902947182919681",
   "text" : "RT @paulconstant: \"Climate change is not a hoax\" is a sadly controversial statement, but I'm glad he said it.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3410,7 +3410,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ted Hahn",
@@ -3443,7 +3443,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "shirt.woot.com",
@@ -3476,7 +3476,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "i aint even Bill Nye",
@@ -3493,7 +3493,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243785542918090752",
   "text" : "RT @Bill_Nye_tho: there are some really weird dicks",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3752,7 +3752,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243190554668724224",
   "text" : "RT @TeaPartyCat: Mitt Romney: \"Just because we cut funds for education doesn't mean kids can't go to college. They can just borrow from  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3875,7 +3875,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "1353123648",
       "id" : 1353123648
     }, {
-      "name" : "PURE ELVEN BABY",
+      "name" : "PRETTY BOMBER",
       "screen_name" : "aliendovecote",
       "indices" : [ 9, 23 ],
       "id_str" : "70665746",
@@ -3909,7 +3909,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "1353123648",
       "id" : 1353123648
     }, {
-      "name" : "PURE ELVEN BABY",
+      "name" : "PRETTY BOMBER",
       "screen_name" : "aliendovecote",
       "indices" : [ 9, 23 ],
       "id_str" : "70665746",
@@ -4234,7 +4234,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flake",
+      "name" : "Prototype Bird",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -4376,7 +4376,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "241915005090553856",
   "text" : "RT @frankieboyle: There's an alternative reading of Dr Who where it's about a guy who gives young women hallucinogenic drugs and shags t ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

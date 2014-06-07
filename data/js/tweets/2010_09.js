@@ -258,7 +258,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25997023003",
   "text" : "RT @wsdot: First it was #WaDrizzle. Then it was #WaSizzle. Forecasters now predicting #WaNina. http:\/\/bit.ly\/dACe5m",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -474,7 +474,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25900812077",
   "text" : "RT @MrsStephenFry: Stephen's not keen on the New Twitter censorship facility. In fact he says he's \u2588\u2588\u2588ing \u2588\u2588\u2588ed off and it can go and st ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -929,7 +929,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25790162278",
   "text" : "RT @Emanix: (\u2642 + \u2642 = \u2665) = (\u2640 + \u2640 = \u2665) = (\u2640 + \u2642 = \u2665)  = Love is love. Also, (\u2640 + \u2640 + \u2642 = \u2665) etc.\n#LGBT #bisexual #polyamory #FunWithSymbo ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1390,7 +1390,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25600007282",
   "text" : "RT @WestWingReport: After the 1987 stock market crash, Reagan acknowledged soaring deficits was a problem. Said he'd consider even more  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1946,7 +1946,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25528656958",
   "text" : "RT @notch: It's NOT Herobrine, I've checked!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2394,7 +2394,7 @@ Grailbird.data.tweets_2010_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "MoveOn.org",
@@ -2566,7 +2566,7 @@ Grailbird.data.tweets_2010_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly bitlink\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2699,7 +2699,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25235339534",
   "text" : "RT @WilliamShatner: Oh $#*!. How do I find $#*! MY DAD SAYS on my DVR? http:\/\/bit.ly\/cx1p7O My best, Bill",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3040,7 +3040,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25121838143",
   "text" : "RT @delbius: The XSS attack should now be fully patched and no longer exploitable. Thanks, those reporting it.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3655,7 +3655,7 @@ Grailbird.data.tweets_2010_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Kaplan",
@@ -4706,7 +4706,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "wigu",
       "protected" : false,
       "id_str" : "15727419",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453618510237687808\/PQm0iMeA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468403385398337537\/TmM6iYrx_normal.png",
       "id" : 15727419,
       "verified" : false
     }
@@ -5250,7 +5250,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "23033259023",
   "text" : "RT @MoeFwacky: \"Video games weren't meant to be this loud\" - One of the Benayora stage techs referring to Rock Band",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5958,7 +5958,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "22767257897",
   "text" : "RT @Accalon: Need to say hello to the influx of new followers I've gotten pre-PAX. Maybe I'll do that tomorrow.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6312,7 +6312,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "22765592468",
   "text" : "RT @PROMO_TWEET: COCAINE: BECAUSE YOU'RE OBVIOUSLY SO FUCKING FASCINATING, AND YOU'VE BEEN LOOKING FOR A WAY TO TALK ABOUT IT. FOR HOURS.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

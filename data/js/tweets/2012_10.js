@@ -240,7 +240,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "263516792918523905",
   "text" : "RT @TheTaskForce: Biden says transgender discrimination 'civil rights issue of our time' http:\/\/t.co\/cBC6goWf via @POLITICO #LGBT",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "POLITICO",
@@ -406,7 +406,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -691,7 +691,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1131,7 +1131,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "262402207717138432",
   "text" : "RT @JWagstaffe: #CBC 7.7 major quake..only 10-12 of these a year globally. Here is the USGS shake map: v strong shaking on #HaidaGwaii h ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1159,7 +1159,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "JWagstaffe",
       "protected" : false,
       "id_str" : "121417367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420982363259023360\/qPaAyEjB_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464231317215772673\/7oQ0vdLx_normal.jpeg",
       "id" : 121417367,
       "verified" : true
     }
@@ -1226,7 +1226,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "262390448784560128",
   "text" : "RT @SeanTheBaptiste: Please don't make it so I actually have to be governed by Romney twice in my life. We've barely rebounded from the  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1615,7 +1615,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "261861841947471872",
   "text" : "RT @TransMediaWatch: Today is International Intersex Awareness Day, so we'll be posting related facts and stories for you.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1864,7 +1864,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "261705696087797761",
   "text" : "RT @anamanaguchi: omg http:\/\/t.co\/HLukYmkG",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1886,7 +1886,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "anamanaguchi",
       "protected" : false,
       "id_str" : "21056214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443583921561686016\/kl72uOgx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/466718825027624960\/V-PTdJW-_normal.png",
       "id" : 21056214,
       "verified" : true
     }
@@ -1928,7 +1928,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PURE ELVEN BABY",
+      "name" : "PRETTY BOMBER",
       "screen_name" : "aliendovecote",
       "indices" : [ 0, 14 ],
       "id_str" : "70665746",
@@ -2006,11 +2006,11 @@ Grailbird.data.tweets_2012_10 =
     "id" : 261694017958449152,
     "created_at" : "2012-10-26 05:01:30 +0000",
     "user" : {
-      "name" : "Whore d'oeuvre",
-      "screen_name" : "SabineFutura",
+      "name" : "Sabine (Trixie)",
+      "screen_name" : "TrixieAnarchy",
       "protected" : false,
       "id_str" : "594454673",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458038846806962176\/mmSS5l06_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474353846756843520\/ELaXMsiT_normal.jpeg",
       "id" : 594454673,
       "verified" : false
     }
@@ -2095,7 +2095,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "261685648921096192",
   "text" : "RT @Reddit_txt: Wait whipping out your dick is sexual harassment now?",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2286,7 +2286,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2328,7 +2328,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "261508040916881408",
   "text" : "RT @FrankConniff: Obama's response to Richard Mourdock: \"Rape is rape, it is a crime.\" Romney's response: \"Vote for Richard Mourdock.\"",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2406,7 +2406,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nyux",
@@ -2488,7 +2488,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pat Hallenbeck",
@@ -2535,7 +2535,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PURE ELVEN BABY",
+      "name" : "PRETTY BOMBER",
       "screen_name" : "aliendovecote",
       "indices" : [ 0, 14 ],
       "id_str" : "70665746",
@@ -2713,7 +2713,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2740,7 +2740,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dan Kaminsky",
@@ -2757,7 +2757,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "260857623325310976",
   "text" : "RT @dakami: Pretty sure if you called your new network technology \"TCP\" it wasn't peer reviewed.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2808,7 +2808,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "260813709755183104",
   "text" : "RT @SeoulBrother: Zynga unveils thinner, smaller, cheaper and shittier Zynga during Apple Event. \n\nRumored that 100 people laid off duri ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2933,7 +2933,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the lady from room C",
+      "name" : "__builtin_trap()",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -2966,7 +2966,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the lady from room C",
+      "name" : "__builtin_trap()",
       "screen_name" : "drymangobird",
       "indices" : [ 0, 13 ],
       "id_str" : "892400503",
@@ -3102,7 +3102,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "Danielemmons",
       "protected" : false,
       "id_str" : "11550852",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453476186534842368\/-_Jnqrax_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472354236500828160\/JXOJLe2J_normal.jpeg",
       "id" : 11550852,
       "verified" : false
     }
@@ -3147,7 +3147,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "260036298960678912",
   "text" : "RT @IranLGBT: Stop funding Israel's efforts to kill &amp; torture Palestinians, #USA! ==&gt; Church Appeal on #Israel Angers Jewish Grou ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3449,7 +3449,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3715,7 +3715,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258793888079286272",
   "text" : "RT @jerkcity: this is a thing http:\/\/t.co\/JL7ztAWV",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3757,7 +3757,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MAY CONTAIN BIRDS",
+      "name" : "\u0F3C \u0CA0 \u0DF4 \u0CA0\u0F3D ~JEPH",
       "screen_name" : "jephjacques",
       "indices" : [ 3, 15 ],
       "id_str" : "7670202",
@@ -3784,7 +3784,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 258792317186621441,
     "created_at" : "2012-10-18 04:51:11 +0000",
     "user" : {
-      "name" : "MAY CONTAIN BIRDS",
+      "name" : "\u0F3C \u0CA0 \u0DF4 \u0CA0\u0F3D ~JEPH",
       "screen_name" : "jephjacques",
       "protected" : false,
       "id_str" : "7670202",
@@ -3963,7 +3963,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258730132938838017",
   "text" : "RT @SPLBuzz: The Library has binders full of women! We call them books. http:\/\/t.co\/u8hbBCnT #bindersfullofwomen",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4081,7 +4081,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258434106298351616",
   "text" : "RT @DrPaisley: .@fakedansavage 3 Hole Punch is my Pussy Riot cover band. #BindersFullofWomen",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Dan Savage",
@@ -4146,7 +4146,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258405333993680896",
   "text" : "RT @SrWHOfficial: \"Binders of women.\" I didn't realize Mitt Romney was a Gorean.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4291,7 +4291,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258398509567471617",
   "text" : "RT @aishatyler: Romney continues adorable streak, insisting \"government does not create jobs,\" then insisting HIS government will create ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4348,7 +4348,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258396555890028544",
   "text" : "RT @WillMcAvoyACN: \"Government does not create jobs.\" Teachers? Police Officers? Doctors?",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4476,7 +4476,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Kane",
@@ -4504,7 +4504,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "TPB",
@@ -4537,7 +4537,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Kane",
@@ -4742,7 +4742,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258039467686916096",
   "text" : "RT @LanaTheGun: idea for a soup place called Friend or Pho",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5056,7 +5056,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5376,7 +5376,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "257301674266341376",
   "text" : "RT @RudeGirlfruit: #DescribeYourSexLifeWithAVideoGame Beat Hazard",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5392,11 +5392,11 @@ Grailbird.data.tweets_2012_10 =
     "id" : 257288096264122369,
     "created_at" : "2012-10-14 01:13:56 +0000",
     "user" : {
-      "name" : "mallo",
-      "screen_name" : "mallorydoe",
+      "name" : "CRYSTAL POwER",
+      "screen_name" : "crystalpowered",
       "protected" : false,
       "id_str" : "17415965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435481784072273921\/o1470RjE_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/471812012834443264\/EF7HvI-q_normal.jpeg",
       "id" : 17415965,
       "verified" : false
     }
@@ -5535,7 +5535,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "257276188169474048",
   "text" : "RT @nrr: http:\/\/t.co\/phcc9Dw2",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5557,7 +5557,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "nrr",
       "protected" : false,
       "id_str" : "14498961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455390923111669760\/MGj7oK7z_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472605318006853633\/lL89ffRF_normal.png",
       "id" : 14498961,
       "verified" : false
     }
@@ -5794,7 +5794,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "tressiemcphd",
       "protected" : false,
       "id_str" : "148593548",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458318955220709376\/ocyRCsuu_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/471817033269522432\/xrarR-Id_normal.jpeg",
       "id" : 148593548,
       "verified" : false
     }
@@ -5828,7 +5828,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "257196385814847489",
   "text" : "RT @nathanjurgenson: much of the @reddit\/trolling debate is people thinking digital violence isn't *real* violence. dark, dark side of d ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6110,7 +6110,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "257034003260002304",
   "text" : "RT @me_irl: bumping this for the weird 3 AM twitter rush http:\/\/t.co\/i2dyGe7L please help any way you can, they secured a better lawyer  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6182,7 +6182,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30B8\u30DF \u262D \u30E9\u30B9\u30E9, PhD",
@@ -6210,7 +6210,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30B8\u30DF \u262D \u30E9\u30B9\u30E9, PhD",
@@ -6243,7 +6243,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u30B8\u30DF \u262D \u30E9\u30B9\u30E9, PhD",
@@ -6315,7 +6315,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pat Hallenbeck",
@@ -6337,7 +6337,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "256878251740377089",
   "text" : "RT @Kemper525: I...this...\nSomehow this actually works rather well.\nhttp:\/\/t.co\/tP7v6mgr",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6420,7 +6420,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Totally Normal Guy",
@@ -6640,7 +6640,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "256452841877671936",
   "text" : "RT @kjatar: *Grumble*  Seriously, Twitter.  When are you going to deal with the \"randomly unfollow people\" bug?",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6966,7 +6966,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "255876285769859072",
   "text" : "RT @AgQueue: I wrote an angry thing: http:\/\/t.co\/vuECzwVF",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7261,7 +7261,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "255491507837075456",
   "text" : "RT @jamiekilstein: Been trying to think of a clever tweet but am too tired. So um....hey @mittromney, fuck you.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mitt Romney",
@@ -7389,7 +7389,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "255481302818643969",
   "text" : "RT @nrr: http:\/\/t.co\/BUwcUJq9",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7411,7 +7411,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "nrr",
       "protected" : false,
       "id_str" : "14498961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455390923111669760\/MGj7oK7z_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472605318006853633\/lL89ffRF_normal.png",
       "id" : 14498961,
       "verified" : false
     }
@@ -7791,7 +7791,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "255394059617726464",
   "text" : "RT @lizmedendorp: @wilw http:\/\/t.co\/9MRomf5E",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Wil Wheaton",
@@ -7943,7 +7943,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Groove",
@@ -7976,7 +7976,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marc Catindoy",
@@ -8525,7 +8525,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "255086775331090433",
   "text" : "RT @Fatheffalump: No, you're not entitled to your opinion http:\/\/t.co\/00qRS3lr",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -8547,7 +8547,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "Fatheffalump",
       "protected" : true,
       "id_str" : "83851279",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421447594846322688\/xGx_Cc2B_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475270686189961216\/SzoGWuqp_normal.jpeg",
       "id" : 83851279,
       "verified" : false
     }
@@ -8730,7 +8730,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "DragonKitten",
       "protected" : false,
       "id_str" : "27234680",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441813363018850305\/P5GOcgON_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475177325739659264\/aRhh8vfN_normal.jpeg",
       "id" : 27234680,
       "verified" : false
     }
@@ -8783,7 +8783,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ironic zinnia jones",
+      "name" : "zinnia.sexy",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -8864,7 +8864,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Totally Normal Guy",
@@ -8953,7 +8953,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "254050275067822081",
   "text" : "RT @beta_angel: I feel like Team Building Exercises could include gangbangs. It's a supportive environment, could be a fun activity and  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9135,7 +9135,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Action Science Ellis",
+      "name" : "Morgan Ellis",
       "screen_name" : "mc_ellis",
       "indices" : [ 3, 12 ],
       "id_str" : "166779164",
@@ -9155,7 +9155,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253688939913830401",
   "text" : "RT @mc_ellis: Sounds like the debates needed more Chair Leg of Truth. RT @netcrusher88 Spider Jerusalem for presidential debate moderato ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Amy",
@@ -9179,7 +9179,7 @@ Grailbird.data.tweets_2012_10 =
     "in_reply_to_screen_name" : "netcrusher88",
     "in_reply_to_user_id_str" : "1484341",
     "user" : {
-      "name" : "Action Science Ellis",
+      "name" : "Morgan Ellis",
       "screen_name" : "mc_ellis",
       "protected" : false,
       "id_str" : "166779164",
@@ -9290,7 +9290,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253685602854260736",
   "text" : "RT @LOLGOP: DEBATE TAKEAWAYS: Romney is jealous of the president's government housing and airplane.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9344,7 +9344,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253685533283344387",
   "text" : "RT @JamesWolcott: Not a single question on the environment, because presumably we all live in our heads. #debatedebacle",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9523,7 +9523,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450900805562798081\/K-eRssB5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475007449863163904\/TOO5hJ1p_normal.jpeg",
       "id" : 17143528,
       "verified" : false
     }
@@ -10394,7 +10394,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253678419408191489",
   "text" : "RT @fakedansavage: The government shouldn't decide what sort of treatment you can have\u2014unless you have a vagina. Then government is all  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -10414,7 +10414,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "fakedansavage",
       "protected" : false,
       "id_str" : "313091751",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431865485483724800\/LTOsKxwx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/466620163421634560\/EY_sstdI_normal.jpeg",
       "id" : 313091751,
       "verified" : true
     }
@@ -10514,7 +10514,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253675841421197312",
   "text" : "RT @KailiJoy: Obligatory reminder that Romneycare is Obamacare, except Romneycare covers abortion http:\/\/t.co\/VWYtlGzs",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -10658,7 +10658,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0411\u043E\u043E\u0414\u043E\u043E\u0427\u0435\u043B\u043E\u0432\u0435\u043A",
+      "name" : "\u0411oo\u0414\u043E\u043E\u0427\u0435\u043B\u043E\u0432\u0435\u043A ",
       "screen_name" : "BooDooPerson",
       "indices" : [ 3, 16 ],
       "id_str" : "14951588",
@@ -10675,7 +10675,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253675153983156224",
   "text" : "RT @BooDooPerson: \"Let's not\" -Jim Lehrer #YouGoJim",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -10691,11 +10691,11 @@ Grailbird.data.tweets_2012_10 =
     "id" : 253674036314378241,
     "created_at" : "2012-10-04 01:52:57 +0000",
     "user" : {
-      "name" : "\u0411\u043E\u043E\u0414\u043E\u043E\u0427\u0435\u043B\u043E\u0432\u0435\u043A",
+      "name" : "\u0411oo\u0414\u043E\u043E\u0427\u0435\u043B\u043E\u0432\u0435\u043A ",
       "screen_name" : "BooDooPerson",
       "protected" : false,
       "id_str" : "14951588",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431898971166875648\/Xf2Daayr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472467199894884353\/HrUlsCJO_normal.jpeg",
       "id" : 14951588,
       "verified" : false
     }
@@ -10729,7 +10729,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253674385142075392",
   "text" : "RT @WillMcAvoyACN: When did Mitt Romney start moderating this debate?",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -11175,7 +11175,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "allisonkilkenny",
       "protected" : false,
       "id_str" : "14752085",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1436823223\/224280_10150185935549730_513309729_6735021_6352044_n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472898834490998784\/YKskmEoh_normal.jpeg",
       "id" : 14752085,
       "verified" : false
     }
@@ -11212,7 +11212,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "253665111120674818",
   "text" : "RT @PennyRed: \"BY THE WAY, I LIKE COAL\" - ladies and gentleman, Mitt Romney. #denverdebate",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -11578,7 +11578,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flake",
+      "name" : "Prototype Bird",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -11605,7 +11605,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 252851764263542785,
     "created_at" : "2012-10-01 19:25:33 +0000",
     "user" : {
-      "name" : "Flake",
+      "name" : "Prototype Bird",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
@@ -11648,7 +11648,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "252851657770164225",
   "text" : "RT @GreenSkyOverMe: http:\/\/t.co\/d5VURcKI \"Today my son drew himself as a boy for the first time in his life.\" :-(",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
