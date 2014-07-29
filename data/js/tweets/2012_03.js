@@ -323,7 +323,7 @@ Grailbird.data.tweets_2012_03 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 139, 140 ],
+      "indices" : [ 123, 140 ],
       "url" : "http:\/\/t.co\/5B8EEQEL",
       "expanded_url" : "http:\/\/www.democracynow.org\/2012\/3\/29\/killed_at_home_white_plains_ny",
       "display_url" : "democracynow.org\/2012\/3\/29\/kill\u2026"
@@ -353,7 +353,7 @@ Grailbird.data.tweets_2012_03 =
     "user" : {
       "name" : "Amadi",
       "screen_name" : "amaditalks",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "23004495",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450937104286375936\/gzFT9RbT_normal.jpeg",
       "id" : 23004495,
@@ -683,11 +683,11 @@ Grailbird.data.tweets_2012_03 =
     "id" : 184129114507190272,
     "created_at" : "2012-03-26 04:06:16 +0000",
     "user" : {
-      "name" : "jort shrift",
+      "name" : "lumpy jort tempered",
       "screen_name" : "heySMM",
       "protected" : false,
       "id_str" : "48920785",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472205004657291266\/B094sn_Y_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487915421341712384\/1rWxlpD8_normal.jpeg",
       "id" : 48920785,
       "verified" : false
     }
@@ -1255,7 +1255,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "joe_hill",
       "protected" : false,
       "id_str" : "18605897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/466316314059886593\/t6Z6g9Ic_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489105859926966272\/azM-5XTv_normal.jpeg",
       "id" : 18605897,
       "verified" : true
     }
@@ -1860,7 +1860,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "14502965",
       "id" : 14502965
     }, {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 63, 74 ],
       "id_str" : "14202934",
@@ -2047,7 +2047,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2080,7 +2080,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2168,7 +2168,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "298503082",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1734845179\/CAHlogo_normal.jpg",
       "id" : 298503082,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 180408023196504064,
@@ -2478,7 +2478,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2511,7 +2511,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2807,7 +2807,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "kellyhclay",
       "protected" : false,
       "id_str" : "20660146",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458686437055946752\/Xo29OAVt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484846510438223872\/kbGwIunY_normal.jpeg",
       "id" : 20660146,
       "verified" : true
     }

@@ -981,7 +981,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "rberger",
       "protected" : false,
       "id_str" : "607093",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442825445138911232\/a_Q-yeC__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/491463444323786752\/MfYq9t-g_normal.jpeg",
       "id" : 607093,
       "verified" : false
     }
@@ -2060,7 +2060,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469624814399787008\/XTstbLIG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492841940874850304\/PJ-vG-WR_normal.jpeg",
       "id" : 5780032,
       "verified" : false
     }
@@ -2747,7 +2747,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0F3C \u0CA0 \u0DF4 \u0CA0\u0F3D ~JEPH",
+      "name" : "\u220F\u220F\u220F\u220F\u220F J E P H \u220F\u220F\u220F\u220F\u220F",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
@@ -3431,13 +3431,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
-      "indices" : [ 3, 13 ],
-      "id_str" : "14740219",
-      "id" : 14740219
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3459,11 +3453,11 @@ Grailbird.data.tweets_2010_11 =
     "id" : 600052905017344,
     "created_at" : "2010-11-05 17:27:18 +0000",
     "user" : {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
+      "name" : "Amazon Music",
+      "screen_name" : "amazonmusic",
       "protected" : false,
       "id_str" : "14740219",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340137940\/twitteravatar_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477112938486972416\/Kmk5eaGf_normal.png",
       "id" : 14740219,
       "verified" : true
     }
@@ -4285,7 +4279,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "dresdencodak",
       "protected" : false,
       "id_str" : "17143528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475007449863163904\/TOO5hJ1p_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/494227950716207104\/M7oR1qHT_normal.jpeg",
       "id" : 17143528,
       "verified" : false
     }

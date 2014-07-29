@@ -256,7 +256,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -447,7 +447,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "20563182",
       "id" : 20563182
     }, {
-      "name" : "\u0F3C \u0CA0 \u0DF4 \u0CA0\u0F3D ~JEPH",
+      "name" : "\u220F\u220F\u220F\u220F\u220F J E P H \u220F\u220F\u220F\u220F\u220F",
       "screen_name" : "jephjacques",
       "indices" : [ 14, 26 ],
       "id_str" : "7670202",
@@ -1188,7 +1188,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "reiley",
       "protected" : false,
       "id_str" : "18475637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459113227272454144\/KS1h4Dea_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478407819431927808\/8yVwvN-n_normal.png",
       "id" : 18475637,
       "verified" : false
     }
@@ -1413,7 +1413,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "BenKuchera",
       "protected" : false,
       "id_str" : "14575846",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422899236443672576\/6UDJaFJv_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483676755354333186\/DY4bBVdQ_normal.png",
       "id" : 14575846,
       "verified" : true
     }
@@ -1996,7 +1996,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bradford Stephens",
+      "name" : "Thirstin' Howl",
       "screen_name" : "LusciousPear",
       "indices" : [ 0, 13 ],
       "id_str" : "15829680",
@@ -2575,7 +2575,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -3644,57 +3644,6 @@ Grailbird.data.tweets_2011_09 =
   "text" : "Checked my beer, I think it's ready to bottle at 1.006 FG. Works out to what I'm going to call 4.5%, probably a bit lower. Yep, it's beer.",
   "id" : 109464242247303168,
   "created_at" : "2011-09-02 03:14:43 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "danchoi",
-      "screen_name" : "danchoi",
-      "indices" : [ 3, 11 ],
-      "id_str" : "13526782",
-      "id" : 13526782
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "109412301374885889",
-  "text" : "RT @danchoi: my ideal social network is where everyone maintains plain text files in a git repo and friends can pull the diffs periodically",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/github.com\/danchoi\/twitter_monit\" rel=\"nofollow\"\u003Etmonit\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "108646585579225088",
-    "text" : "my ideal social network is where everyone maintains plain text files in a git repo and friends can pull the diffs periodically",
-    "id" : 108646585579225088,
-    "created_at" : "2011-08-30 21:05:39 +0000",
-    "user" : {
-      "name" : "danchoi",
-      "screen_name" : "danchoi",
-      "protected" : false,
-      "id_str" : "13526782",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/138532823\/twitter2_normal.png",
-      "id" : 13526782,
-      "verified" : false
-    }
-  },
-  "id" : 109412301374885889,
-  "created_at" : "2011-09-01 23:48:20 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

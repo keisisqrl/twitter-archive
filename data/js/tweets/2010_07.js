@@ -473,13 +473,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bradford Stephens",
+      "name" : "Thirstin' Howl",
       "screen_name" : "LusciousPear",
       "indices" : [ 1, 14 ],
       "id_str" : "15829680",
       "id" : 15829680
     }, {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 15, 26 ],
       "id_str" : "14202934",
@@ -1511,7 +1511,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "oskarblues",
       "protected" : false,
       "id_str" : "20785093",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2819469633\/7563c504d3410d7eb2f108820b866054_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484836640603385856\/OYST74iI_normal.png",
       "id" : 20785093,
       "verified" : false
     }

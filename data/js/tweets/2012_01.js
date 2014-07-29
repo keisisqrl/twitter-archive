@@ -454,7 +454,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "joshtrujillo",
       "protected" : false,
       "id_str" : "23845798",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449604218140123136\/EYSiRCyb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492004374931992576\/qgzUi1m0_normal.jpeg",
       "id" : 23845798,
       "verified" : false
     }
@@ -1188,6 +1188,57 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Peter D. Berg",
+      "screen_name" : "h0mfr0g",
+      "indices" : [ 3, 11 ],
+      "id_str" : "17241160",
+      "id" : 17241160
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "161717168013185024",
+  "text" : "RT @h0mfr0g: Darmok and Jalad Go To White Castle",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "161654830337757185",
+    "text" : "Darmok and Jalad Go To White Castle",
+    "id" : 161654830337757185,
+    "created_at" : "2012-01-24 03:41:29 +0000",
+    "user" : {
+      "name" : "Peter D. Berg",
+      "screen_name" : "h0mfr0g",
+      "protected" : false,
+      "id_str" : "17241160",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1601842924\/hans_arp_cropped_normal.png",
+      "id" : 17241160,
+      "verified" : false
+    }
+  },
+  "id" : 161717168013185024,
+  "created_at" : "2012-01-24 07:49:12 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "LycanthropeDoomspire",
       "screen_name" : "katrus",
       "indices" : [ 3, 10 ],
@@ -1242,57 +1293,6 @@ Grailbird.data.tweets_2012_01 =
     }
   },
   "id" : 161717168445194240,
-  "created_at" : "2012-01-24 07:49:12 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Peter D. Berg",
-      "screen_name" : "h0mfr0g",
-      "indices" : [ 3, 11 ],
-      "id_str" : "17241160",
-      "id" : 17241160
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "161717168013185024",
-  "text" : "RT @h0mfr0g: Darmok and Jalad Go To White Castle",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "161654830337757185",
-    "text" : "Darmok and Jalad Go To White Castle",
-    "id" : 161654830337757185,
-    "created_at" : "2012-01-24 03:41:29 +0000",
-    "user" : {
-      "name" : "Peter D. Berg",
-      "screen_name" : "h0mfr0g",
-      "protected" : false,
-      "id_str" : "17241160",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1601842924\/hans_arp_cropped_normal.png",
-      "id" : 17241160,
-      "verified" : false
-    }
-  },
-  "id" : 161717168013185024,
   "created_at" : "2012-01-24 07:49:12 +0000",
   "user" : {
     "name" : "Amy",
@@ -1610,7 +1610,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2716,7 +2716,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "malki",
       "protected" : false,
       "id_str" : "14766418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472529147441315840\/OAggskUN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493884031977533441\/E5vWvTVi_normal.jpeg",
       "id" : 14766418,
       "verified" : false
     }
@@ -3304,7 +3304,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0F3C \u0CA0 \u0DF4 \u0CA0\u0F3D ~JEPH",
+      "name" : "\u220F\u220F\u220F\u220F\u220F J E P H \u220F\u220F\u220F\u220F\u220F",
       "screen_name" : "jephjacques",
       "indices" : [ 3, 15 ],
       "id_str" : "7670202",
@@ -3331,11 +3331,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 157343583500910593,
     "created_at" : "2012-01-12 06:10:08 +0000",
     "user" : {
-      "name" : "\u0F3C \u0CA0 \u0DF4 \u0CA0\u0F3D ~JEPH",
+      "name" : "\u220F\u220F\u220F\u220F\u220F J E P H \u220F\u220F\u220F\u220F\u220F",
       "screen_name" : "jephjacques",
       "protected" : false,
       "id_str" : "7670202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456122423251726336\/bVNTtohC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484335339239006208\/ipD_pdS6_normal.png",
       "id" : 7670202,
       "verified" : true
     }

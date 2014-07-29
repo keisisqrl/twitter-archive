@@ -214,7 +214,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "283640557",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3179876174\/94fbdc7d55a806ecb102b5b169bb2f85_normal.jpeg",
       "id" : 283640557,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 208236566781509633,
@@ -1620,7 +1620,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "violet blue \u00AE",
+      "name" : "Violet Blue \u00AE",
       "screen_name" : "violetblue",
       "indices" : [ 3, 14 ],
       "id_str" : "5062341",
@@ -1657,7 +1657,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 202855366776721408,
     "created_at" : "2012-05-16 20:17:42 +0000",
     "user" : {
-      "name" : "violet blue \u00AE",
+      "name" : "Violet Blue \u00AE",
       "screen_name" : "violetblue",
       "protected" : false,
       "id_str" : "5062341",
@@ -1842,7 +1842,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Prototype Bird",
+      "name" : "Tori no ot\u014Dsan",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -2005,7 +2005,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eevee \u26A7 ",
+      "name" : "\u2729 eevee \u2729 \u202E\u2729 eevee \u2729",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2042,7 +2042,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 201420732058701824,
     "created_at" : "2012-05-12 21:16:59 +0000",
     "user" : {
-      "name" : "eevee \u26A7 ",
+      "name" : "\u2729 eevee \u2729 \u202E\u2729 eevee \u2729",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2297,7 +2297,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eevee \u26A7 ",
+      "name" : "\u2729 eevee \u2729 \u202E\u2729 eevee \u2729",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2324,7 +2324,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 200337188477603840,
     "created_at" : "2012-05-09 21:31:22 +0000",
     "user" : {
-      "name" : "eevee \u26A7 ",
+      "name" : "\u2729 eevee \u2729 \u202E\u2729 eevee \u2729",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2348,7 +2348,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eevee \u26A7 ",
+      "name" : "\u2729 eevee \u2729 \u202E\u2729 eevee \u2729",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2375,7 +2375,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 200336960072585218,
     "created_at" : "2012-05-09 21:30:28 +0000",
     "user" : {
-      "name" : "eevee \u26A7 ",
+      "name" : "\u2729 eevee \u2729 \u202E\u2729 eevee \u2729",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2601,7 +2601,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "Stepto",
       "protected" : false,
       "id_str" : "3443591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459530834635010048\/IO_2m91K_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/485325635808550913\/Xu_rjLfj_normal.jpeg",
       "id" : 3443591,
       "verified" : false
     }
@@ -2826,7 +2826,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "cartalk",
       "protected" : false,
       "id_str" : "161138433",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102191800\/cttwitterlogo_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/494221201976225792\/yigdTLC1_normal.jpeg",
       "id" : 161138433,
       "verified" : true
     }
@@ -3070,7 +3070,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 4, 15 ],
       "id_str" : "14202934",
@@ -3120,7 +3120,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eevee \u26A7 ",
+      "name" : "\u2729 eevee \u2729 \u202E\u2729 eevee \u2729",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -3157,7 +3157,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 198181037904375808,
     "created_at" : "2012-05-03 22:43:36 +0000",
     "user" : {
-      "name" : "eevee \u26A7 ",
+      "name" : "\u2729 eevee \u2729 \u202E\u2729 eevee \u2729",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -3468,7 +3468,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0F3C \u0CA0 \u0DF4 \u0CA0\u0F3D ~JEPH",
+      "name" : "\u220F\u220F\u220F\u220F\u220F J E P H \u220F\u220F\u220F\u220F\u220F",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",

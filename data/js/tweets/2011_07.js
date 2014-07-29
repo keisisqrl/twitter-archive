@@ -579,7 +579,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "iamwandasykes",
       "protected" : false,
       "id_str" : "262799542",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000614540040\/a2f959b2d5de6f7707b3dcc24104c3e7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488961475470708736\/ZFuUiGmA_normal.jpeg",
       "id" : 262799542,
       "verified" : true
     }
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MicroOptimizerRodney",
+      "name" : "Weir Dhaal",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -827,7 +827,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 96111980489867264,
     "created_at" : "2011-07-27 06:57:36 +0000",
     "user" : {
-      "name" : "MicroOptimizerRodney",
+      "name" : "Weir Dhaal",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -1145,7 +1145,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Groove",
+      "name" : "TAB COLA OFFICIAL",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -1765,7 +1765,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
+      "name" : "ANAMANAGUCHI",
       "screen_name" : "anamanaguchi",
       "indices" : [ 3, 16 ],
       "id_str" : "21056214",
@@ -1792,7 +1792,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 92734844940984320,
     "created_at" : "2011-07-17 23:18:04 +0000",
     "user" : {
-      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
+      "name" : "ANAMANAGUCHI",
       "screen_name" : "anamanaguchi",
       "protected" : false,
       "id_str" : "21056214",
@@ -1816,7 +1816,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
+      "name" : "ANAMANAGUCHI",
       "screen_name" : "anamanaguchi",
       "indices" : [ 0, 13 ],
       "id_str" : "21056214",
@@ -1849,7 +1849,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
+      "name" : "ANAMANAGUCHI",
       "screen_name" : "anamanaguchi",
       "indices" : [ 3, 16 ],
       "id_str" : "21056214",
@@ -1876,7 +1876,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 92734068038447104,
     "created_at" : "2011-07-17 23:14:59 +0000",
     "user" : {
-      "name" : "\u2234*\u2727*Anamanaguchi*\u2727*\u2234",
+      "name" : "ANAMANAGUCHI",
       "screen_name" : "anamanaguchi",
       "protected" : false,
       "id_str" : "21056214",
@@ -2517,7 +2517,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bradford Stephens",
+      "name" : "Thirstin' Howl",
       "screen_name" : "LusciousPear",
       "indices" : [ 0, 13 ],
       "id_str" : "15829680",
@@ -2822,7 +2822,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lis Mitchell",
+      "name" : "FishFish",
       "screen_name" : "Pixelfish",
       "indices" : [ 3, 13 ],
       "id_str" : "10695762",
@@ -2865,11 +2865,11 @@ Grailbird.data.tweets_2011_07 =
     "id" : 89769930265862144,
     "created_at" : "2011-07-09 18:56:33 +0000",
     "user" : {
-      "name" : "Lis Mitchell",
+      "name" : "FishFish",
       "screen_name" : "Pixelfish",
       "protected" : false,
       "id_str" : "10695762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/38222902\/lis001_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480448374039007233\/9nPFhTbu_normal.jpeg",
       "id" : 10695762,
       "verified" : false
     }
