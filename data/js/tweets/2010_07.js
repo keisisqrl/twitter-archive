@@ -172,7 +172,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -473,19 +473,19 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thirstin' Howl",
+      "name" : "Bradford Stephens",
       "screen_name" : "LusciousPear",
       "indices" : [ 1, 14 ],
       "id_str" : "15829680",
       "id" : 15829680
     }, {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 15, 26 ],
       "id_str" : "14202934",
       "id" : 14202934
     }, {
-      "name" : "Liger",
+      "name" : "Ghoules Ius",
       "screen_name" : "Liger",
       "indices" : [ 27, 33 ],
       "id_str" : "14055949",
@@ -791,11 +791,11 @@ Grailbird.data.tweets_2010_07 =
     "in_reply_to_screen_name" : "OniPress",
     "in_reply_to_user_id_str" : "14217624",
     "user" : {
-      "name" : "James Brothwell",
+      "name" : "J\u035D\u0340\u0341a\u0340\u0341\u0341m\u0340\u0358\u035F\u0322\u0362e\u0341\u035C\u0336\u031Bs",
       "screen_name" : "JamesBrothwell",
       "protected" : false,
       "id_str" : "30311550",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/412354047014756352\/Us2sYgH-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517689046789664768\/UN5-DJPC_normal.png",
       "id" : 30311550,
       "verified" : false
     }
@@ -928,7 +928,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1260,7 +1260,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1384,7 +1384,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Harvey Smith",
+      "name" : "Harvest Myth",
       "screen_name" : "Harvey1966",
       "indices" : [ 3, 14 ],
       "id_str" : "11420652",
@@ -1411,7 +1411,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18690247491,
     "created_at" : "2010-07-16 14:34:45 +0000",
     "user" : {
-      "name" : "Harvey Smith",
+      "name" : "Harvest Myth",
       "screen_name" : "Harvey1966",
       "protected" : false,
       "id_str" : "11420652",
@@ -1456,7 +1456,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18691675556,
     "created_at" : "2010-07-16 14:53:51 +0000",
     "user" : {
-      "name" : "J.S. Campbell",
+      "name" : "J.S. Camnibal",
       "screen_name" : "JefferyCampbell",
       "protected" : false,
       "id_str" : "944731",

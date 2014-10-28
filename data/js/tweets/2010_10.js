@@ -61,7 +61,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wil Wheaton",
+      "name" : "Wil SCREAMton",
       "screen_name" : "wilw",
       "indices" : [ 3, 8 ],
       "id_str" : "1183041",
@@ -105,11 +105,11 @@ Grailbird.data.tweets_2010_10 =
     "in_reply_to_screen_name" : "paulandstorm",
     "in_reply_to_user_id_str" : "8914942",
     "user" : {
-      "name" : "Wil Wheaton",
+      "name" : "Wil SCREAMton",
       "screen_name" : "wilw",
       "protected" : false,
       "id_str" : "1183041",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2449509523\/f0gkhyhpwmv7m6ncyxbl_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517813086216916992\/pWZncYeH_normal.png",
       "id" : 1183041,
       "verified" : true
     }
@@ -275,7 +275,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -855,7 +855,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -981,7 +981,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1332,7 +1332,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -1365,7 +1365,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -1423,7 +1423,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -1456,7 +1456,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -1489,7 +1489,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -1522,7 +1522,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -1692,7 +1692,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SmallLady ",
+      "name" : "HP Hatecraft",
       "screen_name" : "SmallLady0",
       "indices" : [ 3, 14 ],
       "id_str" : "52119790",
@@ -1719,11 +1719,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28794750582,
     "created_at" : "2010-10-26 14:16:31 +0000",
     "user" : {
-      "name" : "SmallLady ",
+      "name" : "HP Hatecraft",
       "screen_name" : "SmallLady0",
       "protected" : false,
       "id_str" : "52119790",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000540464274\/79c9d5e4af194dca76614c3142d5ca94_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/511897873043046401\/wEbmR_cN_normal.jpeg",
       "id" : 52119790,
       "verified" : false
     }
@@ -1806,7 +1806,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thirstin' Howl",
+      "name" : "Bradford Stephens",
       "screen_name" : "LusciousPear",
       "indices" : [ 0, 13 ],
       "id_str" : "15829680",
@@ -1860,13 +1860,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "SagaciousT",
-      "screen_name" : "SagaciousT",
-      "indices" : [ 3, 14 ],
-      "id_str" : "18561591",
-      "id" : 18561591
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "politics",
@@ -1894,8 +1888,8 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28721230742,
     "created_at" : "2010-10-25 20:08:55 +0000",
     "user" : {
-      "name" : "SagaciousT",
-      "screen_name" : "SagaciousT",
+      "name" : "GeektimusPrime",
+      "screen_name" : "GeektimusPrime",
       "protected" : false,
       "id_str" : "18561591",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1154001215\/MeToon800x800_normal.jpg",
@@ -2176,7 +2170,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2295,7 +2289,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2483,7 +2477,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shervyn",
+      "name" : "Scarevyn",
       "screen_name" : "Shervyn",
       "indices" : [ 0, 8 ],
       "id_str" : "13439042",
@@ -2545,7 +2539,7 @@ Grailbird.data.tweets_2010_10 =
     "user" : {
       "name" : "Lord_Moon",
       "screen_name" : "Lord_Moon",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15558198",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3189505375\/e86cf080d941b6d448c32e8db4cdf43d_normal.png",
       "id" : 15558198,
@@ -2698,7 +2692,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2731,7 +2725,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2764,7 +2758,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAB COLA OFFICIAL",
+      "name" : "Sweetz Freedum",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2794,7 +2788,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2994,7 +2988,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wil Wheaton",
+      "name" : "Wil SCREAMton",
       "screen_name" : "wilw",
       "indices" : [ 3, 8 ],
       "id_str" : "1183041",
@@ -3021,11 +3015,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27574649562,
     "created_at" : "2010-10-16 20:57:26 +0000",
     "user" : {
-      "name" : "Wil Wheaton",
+      "name" : "Wil SCREAMton",
       "screen_name" : "wilw",
       "protected" : false,
       "id_str" : "1183041",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2449509523\/f0gkhyhpwmv7m6ncyxbl_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517813086216916992\/pWZncYeH_normal.png",
       "id" : 1183041,
       "verified" : true
     }
@@ -3117,7 +3111,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3217,7 +3211,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u220F\u220F\u220F\u220F\u220F J E P H \u220F\u220F\u220F\u220F\u220F",
+      "name" : "Jacques O'Lantern",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
@@ -3253,7 +3247,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thirstin' Howl",
+      "name" : "Bradford Stephens",
       "screen_name" : "LusciousPear",
       "indices" : [ 3, 16 ],
       "id_str" : "15829680",
@@ -3286,11 +3280,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27395340434,
     "created_at" : "2010-10-15 01:13:06 +0000",
     "user" : {
-      "name" : "Thirstin' Howl",
+      "name" : "Bradford Stephens",
       "screen_name" : "LusciousPear",
       "protected" : false,
       "id_str" : "15829680",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431644339245023233\/EKwf9nB9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513086153667268610\/F-9F8O7P_normal.jpeg",
       "id" : 15829680,
       "verified" : false
     }
@@ -3437,7 +3431,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens 3.01",
+      "name" : "rstevens 3.01 ",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -3464,7 +3458,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27404864996,
     "created_at" : "2010-10-15 03:09:06 +0000",
     "user" : {
-      "name" : "rstevens 3.01",
+      "name" : "rstevens 3.01 ",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
@@ -3576,7 +3570,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3815,13 +3809,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "emily nagoski, phd",
-      "screen_name" : "enagoski",
-      "indices" : [ 3, 12 ],
-      "id_str" : "22252971",
-      "id" : 22252971
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3844,7 +3832,7 @@ Grailbird.data.tweets_2010_10 =
     "created_at" : "2010-10-07 15:13:48 +0000",
     "user" : {
       "name" : "emily nagoski, phd",
-      "screen_name" : "enagoski",
+      "screen_name" : "emilynagoski",
       "protected" : false,
       "id_str" : "22252971",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475634863274348544\/FAqXKwGQ_normal.jpeg",
@@ -3908,7 +3896,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4452,7 +4440,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4528,7 +4516,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Foursquare",
@@ -4556,7 +4544,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "M",
@@ -4634,13 +4622,13 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liger",
+      "name" : "Ghoules Ius",
       "screen_name" : "Liger",
       "indices" : [ 10, 16 ],
       "id_str" : "14055949",
       "id" : 14055949
     }, {
-      "name" : "FIRE IN THE HOLE!!!",
+      "name" : "To Skin A Bigger Cat",
       "screen_name" : "arnonaut",
       "indices" : [ 17, 26 ],
       "id_str" : "13916802",
@@ -4702,7 +4690,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "194876387",
       "id" : 194876387
     }, {
-      "name" : "Ryan Muscles North",
+      "name" : "Ryan Q. CORPSE",
       "screen_name" : "ryanqnorth",
       "indices" : [ 13, 24 ],
       "id_str" : "14162415",
@@ -4725,7 +4713,7 @@ Grailbird.data.tweets_2010_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ryan Muscles North",
+        "name" : "Ryan Q. CORPSE",
         "screen_name" : "ryanqnorth",
         "indices" : [ 0, 11 ],
         "id_str" : "14162415",
@@ -5061,13 +5049,13 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "12492842",
       "id" : 12492842
     }, {
-      "name" : "GoToMyPC",
+      "name" : "Citrix GoToMyPC",
       "screen_name" : "GoToMyPC",
       "indices" : [ 108, 117 ],
       "id_str" : "29513713",
       "id" : 29513713
     }, {
-      "name" : "GoToMeeting",
+      "name" : "Citrix GoToMeeting",
       "screen_name" : "GoToMeeting",
       "indices" : [ 118, 130 ],
       "id_str" : "50706891",
@@ -5090,13 +5078,13 @@ Grailbird.data.tweets_2010_10 =
         "id_str" : "12492842",
         "id" : 12492842
       }, {
-        "name" : "GoToMyPC",
+        "name" : "Citrix GoToMyPC",
         "screen_name" : "GoToMyPC",
         "indices" : [ 94, 103 ],
         "id_str" : "29513713",
         "id" : 29513713
       }, {
-        "name" : "GoToMeeting",
+        "name" : "Citrix GoToMeeting",
         "screen_name" : "GoToMeeting",
         "indices" : [ 104, 116 ],
         "id_str" : "50706891",
@@ -5158,7 +5146,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u220F\u220F\u220F\u220F\u220F J E P H \u220F\u220F\u220F\u220F\u220F",
+      "name" : "Jacques O'Lantern",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
@@ -5573,7 +5561,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Linstrom",
+      "name" : "Cthuldrew",
       "screen_name" : "entonfire",
       "indices" : [ 0, 10 ],
       "id_str" : "14354574",
