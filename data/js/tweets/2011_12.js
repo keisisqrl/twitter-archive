@@ -135,7 +135,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joe Hilloween",
+      "name" : "Joe Hill",
       "screen_name" : "joe_hill",
       "indices" : [ 3, 12 ],
       "id_str" : "18605897",
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2011_12 =
     "id" : 153303681922646017,
     "created_at" : "2012-01-01 02:37:00 +0000",
     "user" : {
-      "name" : "Joe Hilloween",
+      "name" : "Joe Hill",
       "screen_name" : "joe_hill",
       "protected" : false,
       "id_str" : "18605897",
@@ -624,7 +624,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Danhain",
+      "name" : "Darth Demmons",
       "screen_name" : "Danielemmons",
       "indices" : [ 0, 13 ],
       "id_str" : "11550852",
@@ -657,7 +657,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Danhain",
+      "name" : "Darth Demmons",
       "screen_name" : "Danielemmons",
       "indices" : [ 0, 13 ],
       "id_str" : "11550852",
@@ -972,7 +972,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ETHICAL CACTUS",
+      "name" : "Randi Harper",
       "screen_name" : "freebsdgirl",
       "indices" : [ 3, 15 ],
       "id_str" : "13857342",
@@ -999,7 +999,7 @@ Grailbird.data.tweets_2011_12 =
     "id" : 151124891364622337,
     "created_at" : "2011-12-26 02:19:16 +0000",
     "user" : {
-      "name" : "ETHICAL CACTUS",
+      "name" : "Randi Harper",
       "screen_name" : "freebsdgirl",
       "protected" : false,
       "id_str" : "13857342",
@@ -1335,7 +1335,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "That_Spooky_Bard",
+      "name" : "That_Spoony_Bard",
       "screen_name" : "Spoony_Bard",
       "indices" : [ 0, 12 ],
       "id_str" : "15900897",
@@ -1580,7 +1580,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bradford Stephens",
+      "name" : "PumpkinSpiceBradford",
       "screen_name" : "LusciousPear",
       "indices" : [ 3, 16 ],
       "id_str" : "15829680",
@@ -1617,11 +1617,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 149657710663712769,
     "created_at" : "2011-12-22 01:09:13 +0000",
     "user" : {
-      "name" : "Bradford Stephens",
+      "name" : "PumpkinSpiceBradford",
       "screen_name" : "LusciousPear",
       "protected" : false,
       "id_str" : "15829680",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513086153667268610\/F-9F8O7P_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542128147047518208\/HwVvJw14_normal.png",
       "id" : 15829680,
       "verified" : false
     }
@@ -1707,7 +1707,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Krypts StraaAOOOub",
+      "name" : "Kris Straub",
       "screen_name" : "krisstraub",
       "indices" : [ 0, 11 ],
       "id_str" : "965091",
@@ -1771,7 +1771,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "morninggloria",
       "protected" : false,
       "id_str" : "25375836",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498573197114363904\/zzryM7vz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540981105566822401\/-ivs0X7Y_normal.jpeg",
       "id" : 25375836,
       "verified" : false
     }
@@ -2431,7 +2431,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bradford Stephens",
+      "name" : "PumpkinSpiceBradford",
       "screen_name" : "LusciousPear",
       "indices" : [ 0, 13 ],
       "id_str" : "15829680",
@@ -2464,7 +2464,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SexyHemorrhagicFever",
+      "name" : "Elizabeth Bear",
       "screen_name" : "matociquala",
       "indices" : [ 3, 15 ],
       "id_str" : "15837189",
@@ -2513,11 +2513,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 147759272040734721,
     "created_at" : "2011-12-16 19:25:30 +0000",
     "user" : {
-      "name" : "SexyHemorrhagicFever",
+      "name" : "Elizabeth Bear",
       "screen_name" : "matociquala",
       "protected" : false,
       "id_str" : "15837189",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468356534359965697\/WdC8sxQi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/531136541637091328\/8fRiYSsR_normal.jpeg",
       "id" : 15837189,
       "verified" : false
     }
@@ -3845,11 +3845,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 142309491076120576,
     "created_at" : "2011-12-01 18:30:01 +0000",
     "user" : {
-      "name" : "SUBWAY Restaurants",
+      "name" : "SUBWAY\u00AE",
       "screen_name" : "SUBWAY",
       "protected" : false,
       "id_str" : "20632796",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2793353853\/cf98443be5b0ab0edc8a94a02dd66477_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540876656156475392\/G0s4y_GC_normal.png",
       "id" : 20632796,
       "verified" : true
     }

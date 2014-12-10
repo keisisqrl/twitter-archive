@@ -319,7 +319,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "KenJennings",
       "protected" : false,
       "id_str" : "234270825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428955606590844931\/pZ9YXvNV_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529017262204678145\/GZadN-Lf_normal.jpeg",
       "id" : 234270825,
       "verified" : true
     }
@@ -743,7 +743,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jacques O'Lantern",
+      "name" : "Apple Jacques",
       "screen_name" : "jephjacques",
       "indices" : [ 3, 15 ],
       "id_str" : "7670202",
@@ -770,11 +770,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 239381496723546113,
     "created_at" : "2012-08-25 15:19:30 +0000",
     "user" : {
-      "name" : "Jacques O'Lantern",
+      "name" : "Apple Jacques",
       "screen_name" : "jephjacques",
       "protected" : false,
       "id_str" : "7670202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514130501045465088\/yV0ITzXD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534753823902818305\/GKrtSy6I_normal.png",
       "id" : 7670202,
       "verified" : true
     }
@@ -1170,7 +1170,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "KateHarding",
       "protected" : false,
       "id_str" : "16906308",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487684549296414720\/a2x4Vb6b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530393086040358913\/ta-kXlmt_normal.jpeg",
       "id" : 16906308,
       "verified" : false
     }
@@ -1190,7 +1190,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jarrod Lombardo",
+      "name" : "Jarrod Lombardo ",
       "screen_name" : "jaberwocky",
       "indices" : [ 3, 14 ],
       "id_str" : "14505832",
@@ -1233,7 +1233,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 238419882738343936,
     "created_at" : "2012-08-22 23:38:24 +0000",
     "user" : {
-      "name" : "Jarrod Lombardo",
+      "name" : "Jarrod Lombardo ",
       "screen_name" : "jaberwocky",
       "protected" : false,
       "id_str" : "14505832",
@@ -1465,7 +1465,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cthuldrew",
+      "name" : "Andrew Linstrom",
       "screen_name" : "entonfire",
       "indices" : [ 0, 10 ],
       "id_str" : "14354574",
@@ -1531,7 +1531,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Haunt-na Marie Cox",
+      "name" : "Ana Marie Cox",
       "screen_name" : "anamariecox",
       "indices" : [ 3, 15 ],
       "id_str" : "11640472",
@@ -1558,7 +1558,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 237633143740436480,
     "created_at" : "2012-08-20 19:32:11 +0000",
     "user" : {
-      "name" : "Haunt-na Marie Cox",
+      "name" : "Ana Marie Cox",
       "screen_name" : "anamariecox",
       "protected" : false,
       "id_str" : "11640472",
@@ -1626,7 +1626,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "intersteller's jay",
+      "name" : "bird deluxe supreme",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -1659,68 +1659,17 @@ Grailbird.data.tweets_2012_08 =
     "id" : 237412698810368001,
     "created_at" : "2012-08-20 04:56:12 +0000",
     "user" : {
-      "name" : "intersteller's jay",
+      "name" : "bird deluxe supreme",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/524830233279492096\/G2KdTDvA_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541131999532961792\/j3SC74AC_normal.png",
       "id" : 96906330,
       "verified" : false
     }
   },
   "id" : 237414461152038912,
   "created_at" : "2012-08-20 05:03:13 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ben Jacobs",
-      "screen_name" : "benhjacobs",
-      "indices" : [ 3, 14 ],
-      "id_str" : "24399531",
-      "id" : 24399531
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "237308280001671168",
-  "text" : "RT @benhjacobs: Let's be clear, Todd Akin's comments are not a gaffe, they're what happens when a political party has no respect for wom ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "237261070773940224",
-    "text" : "Let's be clear, Todd Akin's comments are not a gaffe, they're what happens when a political party has no respect for women or science",
-    "id" : 237261070773940224,
-    "created_at" : "2012-08-19 18:53:42 +0000",
-    "user" : {
-      "name" : "Ben Jacobs",
-      "screen_name" : "benhjacobs",
-      "protected" : false,
-      "id_str" : "24399531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489798165122396161\/xoKiv0mS_normal.jpeg",
-      "id" : 24399531,
-      "verified" : false
-    }
-  },
-  "id" : 237308280001671168,
-  "created_at" : "2012-08-19 22:01:17 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -1792,67 +1741,6 @@ Grailbird.data.tweets_2012_08 =
   "text" : "New Humble Bundle for Android and it's fucking awesome. Android launch of Uplink and SpaceChem.",
   "id" : 235795113505349633,
   "created_at" : "2012-08-15 17:48:30 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nada Bakos",
-      "screen_name" : "nadabakos",
-      "indices" : [ 3, 13 ],
-      "id_str" : "104271823",
-      "id" : 104271823
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 85, 105 ],
-      "url" : "http:\/\/t.co\/h8YgnbZy",
-      "expanded_url" : "http:\/\/www.guardian.co.uk\/commentisfree\/2012\/aug\/14\/privilege-blindness-roots-of-terrorism",
-      "display_url" : "guardian.co.uk\/commentisfree\/\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "235732466348982273",
-  "text" : "RT @nadabakos: How privilege-blindness stops us understanding the roots of terrorism http:\/\/t.co\/h8YgnbZy",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 70, 90 ],
-        "url" : "http:\/\/t.co\/h8YgnbZy",
-        "expanded_url" : "http:\/\/www.guardian.co.uk\/commentisfree\/2012\/aug\/14\/privilege-blindness-roots-of-terrorism",
-        "display_url" : "guardian.co.uk\/commentisfree\/\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "235606229379055616",
-    "text" : "How privilege-blindness stops us understanding the roots of terrorism http:\/\/t.co\/h8YgnbZy",
-    "id" : 235606229379055616,
-    "created_at" : "2012-08-15 05:17:57 +0000",
-    "user" : {
-      "name" : "Nada Bakos",
-      "screen_name" : "nadabakos",
-      "protected" : false,
-      "id_str" : "104271823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517878761879252992\/5mudFbja_normal.jpeg",
-      "id" : 104271823,
-      "verified" : false
-    }
-  },
-  "id" : 235732466348982273,
-  "created_at" : "2012-08-15 13:39:34 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -2199,7 +2087,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Manservant Lexubus",
+      "name" : "The Dreaded Alex",
       "screen_name" : "alex_navarro",
       "indices" : [ 3, 16 ],
       "id_str" : "18892183",
@@ -2226,7 +2114,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 235044124565323776,
     "created_at" : "2012-08-13 16:04:20 +0000",
     "user" : {
-      "name" : "Manservant Lexubus",
+      "name" : "The Dreaded Alex",
       "screen_name" : "alex_navarro",
       "protected" : false,
       "id_str" : "18892183",
@@ -2532,7 +2420,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ANAMANA... SPOOKY",
+      "name" : "ANAMANA... GUCHI",
       "screen_name" : "anamanaguchi",
       "indices" : [ 3, 16 ],
       "id_str" : "21056214",
@@ -2559,11 +2447,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 234064391761440771,
     "created_at" : "2012-08-10 23:11:14 +0000",
     "user" : {
-      "name" : "ANAMANA... SPOOKY",
+      "name" : "ANAMANA... GUCHI",
       "screen_name" : "anamanaguchi",
       "protected" : false,
       "id_str" : "21056214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/523571948853272576\/DPyvhh66_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528763562676613120\/JHMVB3B5_normal.png",
       "id" : 21056214,
       "verified" : true
     }
@@ -2692,7 +2580,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 233721497036931073,
     "created_at" : "2012-08-10 00:28:41 +0000",
     "user" : {
-      "name" : "Mx. Heather McNamara",
+      "name" : "bideo game feminist",
       "screen_name" : "GivMeUrIndieLit",
       "protected" : false,
       "id_str" : "614812040",
@@ -2725,67 +2613,6 @@ Grailbird.data.tweets_2012_08 =
   "text" : "dubstep is actually a secret plot to confuse YouTube's copyright filters",
   "id" : 233805207371411456,
   "created_at" : "2012-08-10 06:01:19 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andre\u24D0",
-      "screen_name" : "puellavulnerata",
-      "indices" : [ 3, 19 ],
-      "id_str" : "54666727",
-      "id" : 54666727
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 21, 41 ],
-      "url" : "http:\/\/t.co\/CpfuUADY",
-      "expanded_url" : "http:\/\/boingboing.net\/2012\/08\/07\/what-do-christian-fundamentali.html",
-      "display_url" : "boingboing.net\/2012\/08\/07\/wha\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "233623720034443264",
-  "text" : "RT @puellavulnerata: http:\/\/t.co\/CpfuUADY Wow, there really is a whole weird sect of set theory rejectionists.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 0, 20 ],
-        "url" : "http:\/\/t.co\/CpfuUADY",
-        "expanded_url" : "http:\/\/boingboing.net\/2012\/08\/07\/what-do-christian-fundamentali.html",
-        "display_url" : "boingboing.net\/2012\/08\/07\/wha\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "233013579845099520",
-    "text" : "http:\/\/t.co\/CpfuUADY Wow, there really is a whole weird sect of set theory rejectionists.",
-    "id" : 233013579845099520,
-    "created_at" : "2012-08-08 01:35:41 +0000",
-    "user" : {
-      "name" : "Andre\u24D0",
-      "screen_name" : "puellavulnerata",
-      "protected" : false,
-      "id_str" : "54666727",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1239788528\/andrea_profile_normal.png",
-      "id" : 54666727,
-      "verified" : false
-    }
-  },
-  "id" : 233623720034443264,
-  "created_at" : "2012-08-09 18:00:10 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -2982,7 +2809,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Stepto",
       "protected" : false,
       "id_str" : "3443591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512357184764522496\/GRjbyqVu_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541341819598942209\/gAdaaE8w_normal.jpeg",
       "id" : 3443591,
       "verified" : false
     }
@@ -3324,7 +3151,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "intersteller's jay",
+      "name" : "bird deluxe supreme",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -3418,7 +3245,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "intersteller's jay",
+      "name" : "bird deluxe supreme",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -3738,7 +3565,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "intersteller's jay",
+      "name" : "bird deluxe supreme",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",

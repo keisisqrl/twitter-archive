@@ -202,7 +202,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SpoopyRobot",
+      "name" : "awesomerobot",
       "screen_name" : "AwesomeRobot",
       "indices" : [ 0, 13 ],
       "id_str" : "7918032",
@@ -351,7 +351,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sweetz Freedum",
+      "name" : "Smarf Official",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -390,7 +390,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sweetz Freedum",
+      "name" : "Smarf Official",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -864,7 +864,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Cuzza",
+      "name" : "\u24BA\u24CD\u24C9\u24BA\u24C3\u24B9",
       "screen_name" : "cuzza",
       "indices" : [ 0, 6 ],
       "id_str" : "9751422",
@@ -984,7 +984,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sweetz Freedum",
+      "name" : "Smarf Official",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -1186,7 +1186,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "Stepto",
       "protected" : false,
       "id_str" : "3443591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512357184764522496\/GRjbyqVu_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541341819598942209\/gAdaaE8w_normal.jpeg",
       "id" : 3443591,
       "verified" : false
     }
@@ -1340,7 +1340,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HP Hatecraft",
+      "name" : "SmallLady",
       "screen_name" : "SmallLady0",
       "indices" : [ 0, 11 ],
       "id_str" : "52119790",
@@ -1433,7 +1433,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "12331382",
       "id" : 12331382
     }, {
-      "name" : "Wil SCREAMton",
+      "name" : "Wil Wheaton",
       "screen_name" : "wilw",
       "indices" : [ 18, 23 ],
       "id_str" : "1183041",
@@ -1450,7 +1450,7 @@ Grailbird.data.tweets_2010_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Wil SCREAMton",
+        "name" : "Wil Wheaton",
         "screen_name" : "wilw",
         "indices" : [ 0, 5 ],
         "id_str" : "1183041",
@@ -2212,7 +2212,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "DeschutesBeer",
       "protected" : false,
       "id_str" : "15042296",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2311343032\/qne2ya2qyzjvso5ggiee_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527493423226302464\/j0wJaURf_normal.jpeg",
       "id" : 15042296,
       "verified" : false
     }
@@ -2431,7 +2431,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sweetz Freedum",
+      "name" : "Smarf Official",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -2536,7 +2536,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "14055949",
       "id" : 14055949
     }, {
-      "name" : "To Skin A Bigger Cat",
+      "name" : "Get Kappy!",
       "screen_name" : "arnonaut",
       "indices" : [ 7, 16 ],
       "id_str" : "13916802",
@@ -2716,7 +2716,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "WilliamShatner",
       "protected" : false,
       "id_str" : "15227791",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/524767304198791170\/glQ3K0zS_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528560236123422720\/hMFVgN-e_normal.jpeg",
       "id" : 15227791,
       "verified" : true
     }
@@ -3229,7 +3229,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sweetz Freedum",
+      "name" : "Smarf Official",
       "screen_name" : "groovetini",
       "indices" : [ 18, 29 ],
       "id_str" : "14202934",
@@ -3764,10 +3764,7 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "24690238797",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.682662, -122.343148 ]
-  },
+  "geo" : { },
   "id_str" : "24690436568",
   "in_reply_to_user_id" : 14498592,
   "text" : "@cwknight I see",
@@ -3800,10 +3797,7 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "24690773943",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.682662, -122.343148 ]
-  },
+  "geo" : { },
   "id_str" : "24691125082",
   "in_reply_to_user_id" : 8049642,
   "text" : "@Zaranai and now the GOP has no choice but to! Politics this year is hilarious. And terrifying.",
@@ -3836,10 +3830,7 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "24690996840",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.682662, -122.343148 ]
-  },
+  "geo" : { },
   "id_str" : "24691182870",
   "in_reply_to_user_id" : 14904089,
   "text" : "@two_pi_r somebody doesn't understand latex",
@@ -3969,7 +3960,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sweetz Freedum",
+      "name" : "Smarf Official",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -4107,7 +4098,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "49073166",
       "id" : 49073166
     }, {
-      "name" : "Sweetz Freedum",
+      "name" : "Smarf Official",
       "screen_name" : "groovetini",
       "indices" : [ 10, 21 ],
       "id_str" : "14202934",
@@ -4292,7 +4283,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "Stepto",
       "protected" : false,
       "id_str" : "3443591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512357184764522496\/GRjbyqVu_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541341819598942209\/gAdaaE8w_normal.jpeg",
       "id" : 3443591,
       "verified" : false
     }
@@ -4340,7 +4331,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jarrod Lombardo",
+      "name" : "Jarrod Lombardo ",
       "screen_name" : "jaberwocky",
       "indices" : [ 0, 11 ],
       "id_str" : "14505832",
@@ -4534,7 +4525,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sweetz Freedum",
+      "name" : "Smarf Official",
       "screen_name" : "groovetini",
       "indices" : [ 0, 11 ],
       "id_str" : "14202934",
@@ -4726,7 +4717,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jarrod Lombardo",
+      "name" : "Jarrod Lombardo ",
       "screen_name" : "jaberwocky",
       "indices" : [ 0, 11 ],
       "id_str" : "14505832",
@@ -5697,7 +5688,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GRAVEriel",
+      "name" : "Gabe",
       "screen_name" : "cwgabriel",
       "indices" : [ 3, 13 ],
       "id_str" : "14464369",
@@ -5724,7 +5715,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 22842488309,
     "created_at" : "2010-09-03 00:15:25 +0000",
     "user" : {
-      "name" : "GRAVEriel",
+      "name" : "Gabe",
       "screen_name" : "cwgabriel",
       "protected" : false,
       "id_str" : "14464369",
