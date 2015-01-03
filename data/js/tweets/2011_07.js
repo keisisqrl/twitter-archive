@@ -1,157 +1,5 @@
 Grailbird.data.tweets_2011_07 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Cox",
-      "screen_name" : "CplMakenzie",
-      "indices" : [ 0, 12 ],
-      "id_str" : "35354131",
-      "id" : 35354131
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "97899121796591617",
-  "in_reply_to_user_id" : 35354131,
-  "text" : "@CplMakenzie mak check your password",
-  "id" : 97899121796591617,
-  "created_at" : "2011-08-01 05:19:04 +0000",
-  "in_reply_to_screen_name" : "CplMakenzie",
-  "in_reply_to_user_id_str" : "35354131",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Wil Wheaton",
-      "screen_name" : "wilw",
-      "indices" : [ 0, 5 ],
-      "id_str" : "1183041",
-      "id" : 1183041
-    }, {
-      "name" : "Stephen Toulouse",
-      "screen_name" : "Stepto",
-      "indices" : [ 6, 13 ],
-      "id_str" : "3443591",
-      "id" : 3443591
-    }, {
-      "name" : "Twitter",
-      "screen_name" : "twitter",
-      "indices" : [ 45, 53 ],
-      "id_str" : "783214",
-      "id" : 783214
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "97754391662170112",
-  "geo" : { },
-  "id_str" : "97763416948748289",
-  "in_reply_to_user_id" : 1183041,
-  "text" : "@wilw @Stepto well, you know, naughty words. @twitter is an American company after all.",
-  "id" : 97763416948748289,
-  "in_reply_to_status_id" : 97754391662170112,
-  "created_at" : "2011-07-31 20:19:49 +0000",
-  "in_reply_to_screen_name" : "wilw",
-  "in_reply_to_user_id_str" : "1183041",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "God",
-      "screen_name" : "TheTweetOfGod",
-      "indices" : [ 3, 17 ],
-      "id_str" : "204832963",
-      "id" : 204832963
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "97762093012488193",
-  "text" : "RT @TheTweetOfGod: Two wrongs make a right wing.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "97732842607484928",
-    "text" : "Two wrongs make a right wing.",
-    "id" : 97732842607484928,
-    "created_at" : "2011-07-31 18:18:20 +0000",
-    "user" : {
-      "name" : "God",
-      "screen_name" : "TheTweetOfGod",
-      "protected" : false,
-      "id_str" : "204832963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513044464038711297\/UJxbq8I5_normal.jpeg",
-      "id" : 204832963,
-      "verified" : false
-    }
-  },
-  "id" : 97762093012488193,
-  "created_at" : "2011-07-31 20:14:33 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "reasonstobeatyourgirlfriend",
-      "indices" : [ 20, 48 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "97712746535190528",
-  "text" : "Currently trending: #reasonstobeatyourgirlfriend \u0CA0_\u0CA0",
-  "id" : 97712746535190528,
-  "created_at" : "2011-07-31 16:58:28 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -800,7 +648,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ACL More",
+      "name" : "Herbie Vore",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -827,7 +675,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 96111980489867264,
     "created_at" : "2011-07-27 06:57:36 +0000",
     "user" : {
-      "name" : "ACL More",
+      "name" : "Herbie Vore",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -3572,7 +3420,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "Karnythia",
       "protected" : false,
       "id_str" : "100136358",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/466626850525954048\/BxBJdQsT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549987952219021312\/0m_SSBJr_normal.jpeg",
       "id" : 100136358,
       "verified" : false
     }
@@ -3625,7 +3473,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elder Wombat UrsulaV",
+      "name" : "Nightjar UrsulaV",
       "screen_name" : "UrsulaV",
       "indices" : [ 3, 11 ],
       "id_str" : "11342242",
@@ -3652,7 +3500,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 88385099514654721,
     "created_at" : "2011-07-05 23:13:44 +0000",
     "user" : {
-      "name" : "Elder Wombat UrsulaV",
+      "name" : "Nightjar UrsulaV",
       "screen_name" : "UrsulaV",
       "protected" : false,
       "id_str" : "11342242",
@@ -3997,7 +3845,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "grantimahara",
       "protected" : false,
       "id_str" : "28521141",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000781039008\/055b00b2c59c19e88e8acb7258342470_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550386661440237568\/1vpfhjVQ_normal.jpeg",
       "id" : 28521141,
       "verified" : true
     }
@@ -4360,6 +4208,91 @@ Grailbird.data.tweets_2011_07 =
   "text" : "I'm at Mecca Cafe (526 Queen Anne Ave N, Seattle) http:\/\/4sq.com\/jJltFG",
   "id" : 87026488171446272,
   "created_at" : "2011-07-02 05:15:06 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86612644651466753",
+  "text" : "Well so much for that too, I guess",
+  "id" : 86612644651466753,
+  "created_at" : "2011-07-01 01:50:38 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "M",
+      "screen_name" : "Fitchman",
+      "indices" : [ 0, 9 ],
+      "id_str" : "17005388",
+      "id" : 17005388
+    }, {
+      "name" : "Smarf Official",
+      "screen_name" : "groovetini",
+      "indices" : [ 10, 21 ],
+      "id_str" : "14202934",
+      "id" : 14202934
+    }, {
+      "name" : "Ted Hahn",
+      "screen_name" : "GauntletWizard",
+      "indices" : [ 22, 37 ],
+      "id_str" : "14006082",
+      "id" : 14006082
+    }, {
+      "name" : "Anon Anon",
+      "screen_name" : "TheNewParlance",
+      "indices" : [ 47, 62 ],
+      "id_str" : "89857596",
+      "id" : 89857596
+    }, {
+      "name" : "Kim",
+      "screen_name" : "ViciousPlatypus",
+      "indices" : [ 63, 79 ],
+      "id_str" : "43131705",
+      "id" : 43131705
+    }, {
+      "name" : "Accalon",
+      "screen_name" : "Accalon",
+      "indices" : [ 80, 88 ],
+      "id_str" : "14502965",
+      "id" : 14502965
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "86579722762469376",
+  "geo" : { },
+  "id_str" : "86582710604275713",
+  "in_reply_to_user_id" : 17005388,
+  "text" : "@Fitchman @groovetini @GauntletWizard @JakWote @TheNewParlance @ViciousPlatypus @Accalon sounds doable",
+  "id" : 86582710604275713,
+  "in_reply_to_status_id" : 86579722762469376,
+  "created_at" : "2011-06-30 23:51:41 +0000",
+  "in_reply_to_screen_name" : "Fitchman",
+  "in_reply_to_user_id_str" : "17005388",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

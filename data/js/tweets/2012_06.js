@@ -1,27 +1,5 @@
 Grailbird.data.tweets_2012_06 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "219122969367154688",
-  "text" : "It took me a while after watching Avengers to recognize \"tesseract\" was a pun... it's another word for \"hypercube\". &lt;3 Whedon",
-  "id" : 219122969367154688,
-  "created_at" : "2012-06-30 17:39:21 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1304,7 +1282,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ACL More",
+      "name" : "Herbie Vore",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -1341,7 +1319,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 215242950584700928,
     "created_at" : "2012-06-20 00:41:33 +0000",
     "user" : {
-      "name" : "ACL More",
+      "name" : "Herbie Vore",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -2459,7 +2437,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2486,7 +2464,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 211197566644264960,
     "created_at" : "2012-06-08 20:46:38 +0000",
     "user" : {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2965,6 +2943,235 @@ Grailbird.data.tweets_2012_06 =
   "text" : "Every once in a while the good folks at SCP wiki write some fucking good tales of dread. I'm not sleeping tonight. Thanks 087.",
   "id" : 208498980894679040,
   "created_at" : "2012-06-01 10:03:25 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Lord_Moon",
+      "screen_name" : "Lord_Moon",
+      "indices" : [ 0, 10 ],
+      "id_str" : "15558198",
+      "id" : 15558198
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "208411023483473920",
+  "geo" : { },
+  "id_str" : "208441096135643136",
+  "in_reply_to_user_id" : 15558198,
+  "text" : "@Lord_Moon lower QA and crown hill Safeways have",
+  "id" : 208441096135643136,
+  "in_reply_to_status_id" : 208411023483473920,
+  "created_at" : "2012-06-01 06:13:24 +0000",
+  "in_reply_to_screen_name" : "Lord_Moon",
+  "in_reply_to_user_id_str" : "15558198",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "208392015451398144",
+  "text" : "Harry Potter and the Methods of Rationality is the strangest and best fanfiction I have ever read",
+  "id" : 208392015451398144,
+  "created_at" : "2012-06-01 02:58:22 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Finn Ellis",
+      "screen_name" : "relsqui",
+      "indices" : [ 3, 11 ],
+      "id_str" : "14251472",
+      "id" : 14251472
+    }, {
+      "name" : "Bee Stapler",
+      "screen_name" : "BeeStapler",
+      "indices" : [ 20, 31 ],
+      "id_str" : "252159156",
+      "id" : 252159156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "208345611538415617",
+  "text" : "RT @relsqui: o_o RT @beestapler: Star Trek has existed for almost exactly half the time that women in the US have had the right to vote.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Bee Stapler",
+        "screen_name" : "BeeStapler",
+        "indices" : [ 7, 18 ],
+        "id_str" : "252159156",
+        "id" : 252159156
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "208343630174367744",
+    "text" : "o_o RT @beestapler: Star Trek has existed for almost exactly half the time that women in the US have had the right to vote.",
+    "id" : 208343630174367744,
+    "created_at" : "2012-05-31 23:46:06 +0000",
+    "user" : {
+      "name" : "Finn Ellis",
+      "screen_name" : "relsqui",
+      "protected" : false,
+      "id_str" : "14251472",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000866021928\/v-KBMemp_normal.jpeg",
+      "id" : 14251472,
+      "verified" : false
+    }
+  },
+  "id" : 208345611538415617,
+  "created_at" : "2012-05-31 23:53:59 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tim Stanley",
+      "screen_name" : "timothy_stanley",
+      "indices" : [ 3, 19 ],
+      "id_str" : "283640557",
+      "id" : 283640557
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/timothy_stanley\/status\/208228945580138496\/photo\/1",
+      "indices" : [ 88, 108 ],
+      "url" : "http:\/\/t.co\/9HK16d7N",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/AuPHH22CIAA6oex.jpg",
+      "id_str" : "208228945584332800",
+      "id" : 208228945584332800,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AuPHH22CIAA6oex.jpg",
+      "sizes" : [ {
+        "h" : 212,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 536,
+        "resize" : "fit",
+        "w" : 857
+      }, {
+        "h" : 374,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 536,
+        "resize" : "fit",
+        "w" : 858
+      } ],
+      "display_url" : "pic.twitter.com\/9HK16d7N"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "208236566781509633",
+  "text" : "RT @timothy_stanley: Queen Elizabeth II firing a machine gun (this is real and amazing) http:\/\/t.co\/9HK16d7N",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/timothy_stanley\/status\/208228945580138496\/photo\/1",
+        "indices" : [ 67, 87 ],
+        "url" : "http:\/\/t.co\/9HK16d7N",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/AuPHH22CIAA6oex.jpg",
+        "id_str" : "208228945584332800",
+        "id" : 208228945584332800,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AuPHH22CIAA6oex.jpg",
+        "sizes" : [ {
+          "h" : 212,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 536,
+          "resize" : "fit",
+          "w" : 857
+        }, {
+          "h" : 374,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 536,
+          "resize" : "fit",
+          "w" : 858
+        } ],
+        "display_url" : "pic.twitter.com\/9HK16d7N"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "208228945580138496",
+    "text" : "Queen Elizabeth II firing a machine gun (this is real and amazing) http:\/\/t.co\/9HK16d7N",
+    "id" : 208228945580138496,
+    "created_at" : "2012-05-31 16:10:24 +0000",
+    "user" : {
+      "name" : "Tim Stanley",
+      "screen_name" : "timothy_stanley",
+      "protected" : false,
+      "id_str" : "283640557",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3179876174\/94fbdc7d55a806ecb102b5b169bb2f85_normal.jpeg",
+      "id" : 283640557,
+      "verified" : true
+    }
+  },
+  "id" : 208236566781509633,
+  "created_at" : "2012-05-31 16:40:41 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

@@ -4,145 +4,6 @@ Grailbird.data.tweets_2010_08 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 130, 133 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "22690112330",
-  "text" : "1107 needs to fail, Eyman is likely to kill the state's ability to implement taxes for two years again. Couldn't be a worse time. #fb",
-  "id" : 22690112330,
-  "created_at" : "2010-09-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "QuickSnap",
-      "screen_name" : "QuickSnap",
-      "indices" : [ 0, 10 ],
-      "id_str" : "867525734",
-      "id" : 867525734
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "22690164514",
-  "geo" : { },
-  "id_str" : "22690269397",
-  "in_reply_to_user_id" : 14357913,
-  "text" : "@QuickSnap 1053 requires a 2\/3 majority of the legislature to raise taxes. Same thing passed in 07, can be repealed after 2 yrs",
-  "id" : 22690269397,
-  "in_reply_to_status_id" : 22690164514,
-  "created_at" : "2010-09-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Treyalt",
-  "in_reply_to_user_id_str" : "14357913",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Conservatives",
-      "screen_name" : "Conservatives",
-      "indices" : [ 19, 33 ],
-      "id_str" : "14281853",
-      "id" : 14281853
-    }, {
-      "name" : "Liberal Democrats",
-      "screen_name" : "LibDems",
-      "indices" : [ 34, 42 ],
-      "id_str" : "5680622",
-      "id" : 5680622
-    }, {
-      "name" : "BBC News (UK)",
-      "screen_name" : "BBCNews",
-      "indices" : [ 93, 101 ],
-      "id_str" : "612473",
-      "id" : 612473
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "22693358719",
-  "text" : "RT @LeonBaloo: Hey @conservatives @libdems, look what happens when you invest in science- RT @bbcnews: Australian economy doubles pace h ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Conservatives",
-        "screen_name" : "Conservatives",
-        "indices" : [ 4, 18 ],
-        "id_str" : "14281853",
-        "id" : 14281853
-      }, {
-        "name" : "Liberal Democrats",
-        "screen_name" : "LibDems",
-        "indices" : [ 19, 27 ],
-        "id_str" : "5680622",
-        "id" : 5680622
-      }, {
-        "name" : "BBC News (UK)",
-        "screen_name" : "BBCNews",
-        "indices" : [ 78, 86 ],
-        "id_str" : "612473",
-        "id" : 612473
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "22692441102",
-    "text" : "Hey @conservatives @libdems, look what happens when you invest in science- RT @bbcnews: Australian economy doubles pace http:\/\/bbc.in\/9l628G",
-    "id" : 22692441102,
-    "created_at" : "2010-09-01 09:16:25 +0000",
-    "user" : {
-      "name" : "Leon B",
-      "screen_name" : "crashtronomy",
-      "protected" : false,
-      "id_str" : "31282687",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2728733657\/5f413249e53d1359da439af1618c7281_normal.jpeg",
-      "id" : 31282687,
-      "verified" : false
-    }
-  },
-  "id" : 22693358719,
-  "created_at" : "2010-09-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -523,7 +384,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "14387843",
       "id" : 14387843
     }, {
-      "name" : "Ghoules Ius",
+      "name" : "Jules Ius",
       "screen_name" : "Liger",
       "indices" : [ 16, 22 ],
       "id_str" : "14055949",
@@ -795,7 +656,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "wsdot",
       "protected" : false,
       "id_str" : "14124059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/507903737650638850\/8JwJBW3o_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548574632756797440\/iGh29NMm_normal.png",
       "id" : 14124059,
       "verified" : true
     }
@@ -1312,7 +1173,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Allison",
+      "name" : "Allie",
       "screen_name" : "reiley",
       "indices" : [ 3, 10 ],
       "id_str" : "18475637",
@@ -1345,11 +1206,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22115830186,
     "created_at" : "2010-08-25 20:09:37 +0000",
     "user" : {
-      "name" : "Allison",
+      "name" : "Allie",
       "screen_name" : "reiley",
       "protected" : false,
       "id_str" : "18475637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539928057696374785\/yJMM3bZm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549039622752202752\/AAi8dEGc_normal.png",
       "id" : 18475637,
       "verified" : false
     }
@@ -2496,7 +2357,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ghoules Ius",
+      "name" : "Jules Ius",
       "screen_name" : "Liger",
       "indices" : [ 0, 6 ],
       "id_str" : "14055949",
@@ -3137,7 +2998,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Broken Angel",
+      "name" : "Erica Waters",
       "screen_name" : "BrokenAngel",
       "indices" : [ 0, 12 ],
       "id_str" : "6141622",
@@ -3203,7 +3064,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Broken Angel",
+      "name" : "Erica Waters",
       "screen_name" : "BrokenAngel",
       "indices" : [ 0, 12 ],
       "id_str" : "6141622",
@@ -4755,6 +4616,57 @@ Grailbird.data.tweets_2010_08 =
   "created_at" : "2010-08-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "ViciousPlatypus",
   "in_reply_to_user_id_str" : "43131705",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Cheap Ass Gamer",
+      "screen_name" : "videogamedeals",
+      "indices" : [ 3, 18 ],
+      "id_str" : "19631395",
+      "id" : 19631395
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20058685992",
+  "text" : "RT @videogamedeals: Beatles: Rock Band (360\/PS3\/Wii) $19.99 or less - Amazon DotD - The 360 version is $16.99 via 3rd party merchant htt ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "20056931115",
+    "text" : "Beatles: Rock Band (360\/PS3\/Wii) $19.99 or less - Amazon DotD - The 360 version is $16.99 via 3rd party merchant http:\/\/ow.ly\/2josw",
+    "id" : 20056931115,
+    "created_at" : "2010-08-01 11:46:04 +0000",
+    "user" : {
+      "name" : "Cheap Ass Gamer",
+      "screen_name" : "videogamedeals",
+      "protected" : false,
+      "id_str" : "19631395",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/73653541\/cag_normal.png",
+      "id" : 19631395,
+      "verified" : true
+    }
+  },
+  "id" : 20058685992,
+  "created_at" : "2010-08-01 00:00:00 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

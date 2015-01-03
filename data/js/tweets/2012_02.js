@@ -1,100 +1,5 @@
 Grailbird.data.tweets_2012_02 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "175054376421961728",
-  "text" : "I think this is the first time I've heard \"the bluest skies you've ever seen are in Seattle \" since Almost Live",
-  "id" : 175054376421961728,
-  "created_at" : "2012-03-01 03:06:30 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "174996566338314240",
-  "text" : "Why do people never read? Read the fucking screen and you wouldn't have had to ask me the last two dozen stupid questions",
-  "id" : 174996566338314240,
-  "created_at" : "2012-02-29 23:16:47 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "FOSS News Channel",
-      "screen_name" : "FOSSNewsChannel",
-      "indices" : [ 3, 19 ],
-      "id_str" : "456683688",
-      "id" : 456683688
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "174932194693890050",
-  "text" : "RT @FOSSNewsChannel: BREAKING: In order to build a positive image, HP declares that open source is more than \"free as in beer\". It is al ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "174893152950423553",
-    "text" : "BREAKING: In order to build a positive image, HP declares that open source is more than \"free as in beer\". It is also \"free as in labor\".",
-    "id" : 174893152950423553,
-    "created_at" : "2012-02-29 16:25:51 +0000",
-    "user" : {
-      "name" : "FOSS News Channel",
-      "screen_name" : "FOSSNewsChannel",
-      "protected" : false,
-      "id_str" : "456683688",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1765988987\/fossnews_normal.png",
-      "id" : 456683688,
-      "verified" : false
-    }
-  },
-  "id" : 174932194693890050,
-  "created_at" : "2012-02-29 19:00:59 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1924,7 +1829,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "epstein",
       "protected" : false,
       "id_str" : "14352599",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2276119034\/F50ED005-8BBF-43C9-B640-047BE427BAF0_normal",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545985615527809025\/O8Ywn29w_normal.jpeg",
       "id" : 14352599,
       "verified" : false
     }
@@ -1985,7 +1890,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "dgardner",
       "protected" : false,
       "id_str" : "132231788",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532658401977712640\/xsB3MnVF_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544951495175589888\/s6r_73_x_normal.jpeg",
       "id" : 132231788,
       "verified" : false
     }
@@ -2141,7 +2046,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "indices" : [ 0, 12 ],
       "id_str" : "13857342",
@@ -2581,7 +2486,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "TheTweetOfGod",
       "protected" : false,
       "id_str" : "204832963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513044464038711297\/UJxbq8I5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549069543088590849\/dfsEuHa1_normal.jpeg",
       "id" : 204832963,
       "verified" : false
     }
@@ -3730,7 +3635,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 0, 6 ],
       "id_str" : "14412937",
@@ -4316,7 +4221,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "AdamSerwer",
       "protected" : false,
       "id_str" : "16326882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530208592465776640\/VSzlYcS9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544260890384924672\/1Q_rr3XH_normal.jpeg",
       "id" : 16326882,
       "verified" : true
     }
@@ -4759,7 +4664,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "markmilian",
       "protected" : false,
       "id_str" : "15199539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1674683161\/IMG_4806_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550149086339289088\/P9AkQI3-_normal.jpeg",
       "id" : 15199539,
       "verified" : true
     }
@@ -5611,6 +5516,94 @@ Grailbird.data.tweets_2012_02 =
   "text" : ".@komenforthecure fire your new VP and start using your funds for what they were given to you for again",
   "id" : 164802377621307392,
   "created_at" : "2012-02-01 20:08:43 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "164573347827548160",
+  "text" : "noted that's based on about 2 minutes of new looney tunes but it was so bad i don't want to give it another chance",
+  "id" : 164573347827548160,
+  "created_at" : "2012-02-01 04:58:38 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "164573279259070465",
+  "text" : "fuck, what happened to looney tunes. this new stuff isn't funny, it's just horrible and lacking subtlety",
+  "id" : 164573279259070465,
+  "created_at" : "2012-02-01 04:58:22 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "164457183772278785",
+  "text" : "Spokane office has a Keurig. I kinda want one now because it's kinda nifty.",
+  "id" : 164457183772278785,
+  "created_at" : "2012-01-31 21:17:02 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "164410883030794240",
+  "text" : "somafm drone zone makes a really good backdrop for training videos",
+  "id" : 164410883030794240,
+  "created_at" : "2012-01-31 18:13:03 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

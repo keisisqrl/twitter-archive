@@ -1,235 +1,5 @@
 Grailbird.data.tweets_2013_03 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "318483359087095808",
-  "geo" : { },
-  "id_str" : "318483738763874304",
-  "in_reply_to_user_id" : 16819090,
-  "text" : "@bridgeportcat it kinda looks like they turned 3's shark jumping up to 11 and it looks awesome",
-  "id" : 318483738763874304,
-  "in_reply_to_status_id" : 318483359087095808,
-  "created_at" : "2013-03-31 22:03:35 +0000",
-  "in_reply_to_screen_name" : "catinahelmet",
-  "in_reply_to_user_id_str" : "16819090",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "318483313339817984",
-  "text" : "Overheard: \"Hey! You look more sober this morning.\"",
-  "id" : 318483313339817984,
-  "created_at" : "2013-03-31 22:01:53 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "318482398130098176",
-  "geo" : { },
-  "id_str" : "318482953317543936",
-  "in_reply_to_user_id" : 16819090,
-  "text" : "@bridgeportcat did you see the trailer for 4?",
-  "id" : 318482953317543936,
-  "in_reply_to_status_id" : 318482398130098176,
-  "created_at" : "2013-03-31 22:00:27 +0000",
-  "in_reply_to_screen_name" : "catinahelmet",
-  "in_reply_to_user_id_str" : "16819090",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "318481695965847553",
-  "geo" : { },
-  "id_str" : "318482100263215104",
-  "in_reply_to_user_id" : 16819090,
-  "text" : "@bridgeportcat heh, I leave cars stock mostly. I have no taste for color selection and I REALLY like the Syndicate theme",
-  "id" : 318482100263215104,
-  "in_reply_to_status_id" : 318481695965847553,
-  "created_at" : "2013-03-31 21:57:04 +0000",
-  "in_reply_to_screen_name" : "catinahelmet",
-  "in_reply_to_user_id_str" : "16819090",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ian Bogost",
-      "screen_name" : "ibogost",
-      "indices" : [ 3, 11 ],
-      "id_str" : "6825792",
-      "id" : 6825792
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "318481503099170817",
-  "text" : "RT @ibogost: How long until people start naming their kids \"Austerity,\" thinking its a virtue-name like Chastity or Grace?",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "318470287240863744",
-    "text" : "How long until people start naming their kids \"Austerity,\" thinking its a virtue-name like Chastity or Grace?",
-    "id" : 318470287240863744,
-    "created_at" : "2013-03-31 21:10:08 +0000",
-    "user" : {
-      "name" : "Ian Bogost",
-      "screen_name" : "ibogost",
-      "protected" : false,
-      "id_str" : "6825792",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000781335947\/35cf1c51da400cb25d07c6c471e12f2c_normal.jpeg",
-      "id" : 6825792,
-      "verified" : true
-    }
-  },
-  "id" : 318481503099170817,
-  "created_at" : "2013-03-31 21:54:42 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "318481055940214784",
-  "geo" : { },
-  "id_str" : "318481380415766529",
-  "in_reply_to_user_id" : 16819090,
-  "text" : "@bridgeportcat yeah I just went pretty hardcore sexy femme but... Well at the time that's what felt uh, validating",
-  "id" : 318481380415766529,
-  "in_reply_to_status_id" : 318481055940214784,
-  "created_at" : "2013-03-31 21:54:12 +0000",
-  "in_reply_to_screen_name" : "catinahelmet",
-  "in_reply_to_user_id_str" : "16819090",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "318479429791776768",
-  "geo" : { },
-  "id_str" : "318480667962929153",
-  "in_reply_to_user_id" : 16819090,
-  "text" : "@bridgeportcat I can't really manage to make a character that looks like me in 3 but it was nice to make one that felt right",
-  "id" : 318480667962929153,
-  "in_reply_to_status_id" : 318479429791776768,
-  "created_at" : "2013-03-31 21:51:22 +0000",
-  "in_reply_to_screen_name" : "catinahelmet",
-  "in_reply_to_user_id_str" : "16819090",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "318389496641105920",
-  "text" : "Wikipedia talking about known states of Bas Lag: \"Hell - maintains an embassy in New Crobuzon.\"",
-  "id" : 318389496641105920,
-  "created_at" : "2013-03-31 15:49:06 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -523,16 +293,11 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "318251761011920896",
   "geo" : { },
   "id_str" : "318258109338488832",
-  "in_reply_to_user_id" : 892400503,
   "text" : "@drymangobird imma try to legal threat insurance into paying for that maybe(hello HR pay no attention to the drunk queer behind the curtain)",
   "id" : 318258109338488832,
-  "in_reply_to_status_id" : 318251761011920896,
   "created_at" : "2013-03-31 07:07:00 +0000",
-  "in_reply_to_screen_name" : "0x0acebabe",
-  "in_reply_to_user_id_str" : "892400503",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -546,7 +311,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christmas Snowman",
+      "name" : "Christopher Whitman",
       "screen_name" : "SeeBeeWhitman",
       "indices" : [ 0, 14 ],
       "id_str" : "50209640",
@@ -579,7 +344,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christmas Snowman",
+      "name" : "Christopher Whitman",
       "screen_name" : "SeeBeeWhitman",
       "indices" : [ 0, 14 ],
       "id_str" : "50209640",
@@ -2787,16 +2552,11 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "316668656606130176",
   "geo" : { },
   "id_str" : "316668843294597120",
-  "in_reply_to_user_id" : 892400503,
   "text" : "@drymangobird @sugarandsplice @amydentata the last version I had started to crash a lot so one time I looked at the startup message",
   "id" : 316668843294597120,
-  "in_reply_to_status_id" : 316668656606130176,
   "created_at" : "2013-03-26 21:51:50 +0000",
-  "in_reply_to_screen_name" : "0x0acebabe",
-  "in_reply_to_user_id_str" : "892400503",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -2860,16 +2620,11 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "316667897021878273",
   "geo" : { },
   "id_str" : "316668163406319617",
-  "in_reply_to_user_id" : 892400503,
   "text" : "@drymangobird @sugarandsplice @amydentata the latest version does, at least sometimes",
   "id" : 316668163406319617,
-  "in_reply_to_status_id" : 316667897021878273,
   "created_at" : "2013-03-26 21:49:08 +0000",
-  "in_reply_to_screen_name" : "0x0acebabe",
-  "in_reply_to_user_id_str" : "892400503",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -3567,7 +3322,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "greysea",
+      "name" : "pan demon lizard",
       "screen_name" : "adeerable",
       "indices" : [ 0, 10 ],
       "id_str" : "2305698925",
@@ -3646,7 +3401,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -3673,7 +3428,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 315614438843617283,
     "created_at" : "2013-03-24 00:02:00 +0000",
     "user" : {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -3718,7 +3473,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 314805040370044929,
     "created_at" : "2013-03-21 18:25:45 +0000",
     "user" : {
-      "name" : "Literally Jon",
+      "name" : "Jongle All The Way",
       "screen_name" : "AScribbledEagle",
       "protected" : false,
       "id_str" : "20108321",
@@ -5001,6 +4756,57 @@ Grailbird.data.tweets_2013_03 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Trudy",
+      "screen_name" : "thetrudz",
+      "indices" : [ 3, 12 ],
+      "id_str" : "32238490",
+      "id" : 32238490
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "314834642928799744",
+  "text" : "RT @thetrudz: I've been racially and sexually harassed at EVERY SINGLE JOB I've ever had and it's PROVEN that speak up = you quit or acc ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "314783532121739264",
+    "text" : "I've been racially and sexually harassed at EVERY SINGLE JOB I've ever had and it's PROVEN that speak up = you quit or accept being fired.",
+    "id" : 314783532121739264,
+    "created_at" : "2013-03-21 17:00:17 +0000",
+    "user" : {
+      "name" : "Trudy",
+      "screen_name" : "thetrudz",
+      "protected" : false,
+      "id_str" : "32238490",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548810749317902340\/hEMbX1de_normal.png",
+      "id" : 32238490,
+      "verified" : false
+    }
+  },
+  "id" : 314834642928799744,
+  "created_at" : "2013-03-21 20:23:22 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -5345,7 +5151,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "42126617",
       "id" : 42126617
     }, {
-      "name" : "Adria Richards",
+      "name" : "null move",
       "screen_name" : "adriarichards",
       "indices" : [ 52, 66 ],
       "id_str" : "14268164",
@@ -5373,7 +5179,7 @@ Grailbird.data.tweets_2013_03 =
         "id_str" : "42126617",
         "id" : 42126617
       }, {
-        "name" : "Adria Richards",
+        "name" : "null move",
         "screen_name" : "adriarichards",
         "indices" : [ 39, 53 ],
         "id_str" : "14268164",
@@ -5591,7 +5397,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 0, 6 ],
       "id_str" : "14412937",
@@ -6264,7 +6070,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "BhopalHouse",
       "protected" : false,
       "id_str" : "203827751",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/518650864802594816\/kQNt34sC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547359411098763264\/-8EjHBZw_normal.jpeg",
       "id" : 203827751,
       "verified" : false
     }
@@ -6720,7 +6526,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "lartist",
       "protected" : false,
       "id_str" : "1132461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540353918614511618\/ngSlke0F_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551253447337451520\/sA4cY0O-_normal.jpeg",
       "id" : 1132461,
       "verified" : false
     }
@@ -7420,7 +7226,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -7447,11 +7253,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 307897476227149827,
     "created_at" : "2013-03-02 16:57:33 +0000",
     "user" : {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492841940874850304\/PJ-vG-WR_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545059500340682752\/xsXubcne_normal.png",
       "id" : 5780032,
       "verified" : false
     }
@@ -7518,7 +7324,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -7569,6 +7375,398 @@ Grailbird.data.tweets_2013_03 =
   "created_at" : "2013-03-01 22:47:13 +0000",
   "in_reply_to_screen_name" : "Support",
   "in_reply_to_user_id_str" : "17874544",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twitter",
+      "screen_name" : "twitter",
+      "indices" : [ 1, 9 ],
+      "id_str" : "783214",
+      "id" : 783214
+    }, {
+      "name" : "In Which Nire(s)",
+      "screen_name" : "NireBryce",
+      "indices" : [ 10, 20 ],
+      "id_str" : "398859493",
+      "id" : 398859493
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307388622280200192",
+  "text" : ".@twitter @nirebryce it SAYS your entire twitter history and it has the right count (over 7k) but nearly 2000 of my tweets are missing...",
+  "id" : 307388622280200192,
+  "created_at" : "2013-03-01 07:15:33 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twitter",
+      "screen_name" : "twitter",
+      "indices" : [ 4, 12 ],
+      "id_str" : "783214",
+      "id" : 783214
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307387356669939712",
+  "text" : "Hey @twitter why does my twitter archive only go back to mid-2010 I know that's not when I joined :(",
+  "id" : 307387356669939712,
+  "created_at" : "2013-03-01 07:10:31 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307386272840839168",
+  "text" : "Ooh, my twitter archive is ready!",
+  "id" : 307386272840839168,
+  "created_at" : "2013-03-01 07:06:13 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307385472194314240",
+  "text" : "I hate shopping (this is a stale thought from earlier) I mean in principle I like it these days but in practice it's just depressing",
+  "id" : 307385472194314240,
+  "created_at" : "2013-03-01 07:03:02 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "#OpPenPal",
+      "screen_name" : "OpPenPal",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1164900542",
+      "id" : 1164900542
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "freeCeCe",
+      "indices" : [ 46, 55 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "304910986912088065",
+  "geo" : { },
+  "id_str" : "307367168402665473",
+  "in_reply_to_user_id" : 1164900542,
+  "text" : "@OpPenPal where's CeCe McDonald on that list? #freeCeCe",
+  "id" : 307367168402665473,
+  "in_reply_to_status_id" : 304910986912088065,
+  "created_at" : "2013-03-01 05:50:18 +0000",
+  "in_reply_to_screen_name" : "OpPenPal",
+  "in_reply_to_user_id_str" : "1164900542",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307363262511591424",
+  "text" : "The Javascript monoculture annoys the fuck out of me but like... This could conceivably help break it maybe.",
+  "id" : 307363262511591424,
+  "created_at" : "2013-03-01 05:34:46 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307362656849891328",
+  "text" : "I feel more conflicted about asm.js than I realized I could about that sort of thing, I think.",
+  "id" : 307362656849891328,
+  "created_at" : "2013-03-01 05:32:22 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Melissa, Bas\u00EDlissa",
+      "screen_name" : "0xabad1dea",
+      "indices" : [ 0, 11 ],
+      "id_str" : "126030998",
+      "id" : 126030998
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "307358904029949952",
+  "geo" : { },
+  "id_str" : "307361498580262912",
+  "in_reply_to_user_id" : 126030998,
+  "text" : "@0xabad1dea unsigned long long entish",
+  "id" : 307361498580262912,
+  "in_reply_to_status_id" : 307358904029949952,
+  "created_at" : "2013-03-01 05:27:46 +0000",
+  "in_reply_to_screen_name" : "0xabad1dea",
+  "in_reply_to_user_id_str" : "126030998",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "T\u1ECD\u0301p\u1EB9\u0301 F\u00E1d\u00ECran",
+      "screen_name" : "graceishuman",
+      "indices" : [ 3, 16 ],
+      "id_str" : "167426475",
+      "id" : 167426475
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307355333066641408",
+  "text" : "RT @graceishuman: Who are these alleged gay and lesbian friends evangelical leaders are always claiming they have? I want receipts.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "307342003027472384",
+    "text" : "Who are these alleged gay and lesbian friends evangelical leaders are always claiming they have? I want receipts.",
+    "id" : 307342003027472384,
+    "created_at" : "2013-03-01 04:10:18 +0000",
+    "user" : {
+      "name" : "T\u1ECD\u0301p\u1EB9\u0301 F\u00E1d\u00ECran",
+      "screen_name" : "graceishuman",
+      "protected" : false,
+      "id_str" : "167426475",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/490009724234911746\/cUJKEzUQ_normal.png",
+      "id" : 167426475,
+      "verified" : false
+    }
+  },
+  "id" : 307355333066641408,
+  "created_at" : "2013-03-01 05:03:16 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307352464414347264",
+  "text" : "To be fair, part of the improvement in last week's episode was Joel McHale taking off his shirt.",
+  "id" : 307352464414347264,
+  "created_at" : "2013-03-01 04:51:52 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307351972661587969",
+  "text" : "This season of Community got off to a shitty start but it is improving.",
+  "id" : 307351972661587969,
+  "created_at" : "2013-03-01 04:49:55 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "307203673983942657",
+  "geo" : { },
+  "id_str" : "307205813498417153",
+  "in_reply_to_user_id" : 16819090,
+  "text" : "@bridgeportcat cop boots are hot. One of my girlfriends has a pretty awesome pair from a law enforcement supply company",
+  "id" : 307205813498417153,
+  "in_reply_to_status_id" : 307203673983942657,
+  "created_at" : "2013-02-28 19:09:08 +0000",
+  "in_reply_to_screen_name" : "catinahelmet",
+  "in_reply_to_user_id_str" : "16819090",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Amadi",
+      "screen_name" : "amaditalks",
+      "indices" : [ 3, 14 ],
+      "id_str" : "23004495",
+      "id" : 23004495
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307205425424629761",
+  "text" : "RT @amaditalks: If I never hear another word about the ex-pope, the finding of the next pope or any fucking pope again it'll be too soon.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "307202074586783744",
+    "text" : "If I never hear another word about the ex-pope, the finding of the next pope or any fucking pope again it'll be too soon.",
+    "id" : 307202074586783744,
+    "created_at" : "2013-02-28 18:54:16 +0000",
+    "user" : {
+      "name" : "Amadi",
+      "screen_name" : "amaditalks",
+      "protected" : false,
+      "id_str" : "23004495",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550932365019992064\/Z-pAK0eG_normal.jpeg",
+      "id" : 23004495,
+      "verified" : false
+    }
+  },
+  "id" : 307205425424629761,
+  "created_at" : "2013-02-28 19:07:35 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

@@ -1,63 +1,5 @@
 Grailbird.data.tweets_2010_10 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 74, 77 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "29349898912",
-  "text" : "Hey Alaska: Write in Mike Wazowski for Senator! Wait, that's not right... #fb",
-  "id" : 29349898912,
-  "created_at" : "2010-11-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "TPB",
-      "screen_name" : "ThePaleBlue",
-      "indices" : [ 0, 12 ],
-      "id_str" : "18263735",
-      "id" : 18263735
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "29357672267",
-  "geo" : { },
-  "id_str" : "29357973518",
-  "in_reply_to_user_id" : 18263735,
-  "text" : "@ThePaleBlue I'm so more VMware than V8 I was thinking for a second you meant the Chrome javascript engine",
-  "id" : 29357973518,
-  "in_reply_to_status_id" : 29357672267,
-  "created_at" : "2010-11-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ThePaleBlue",
-  "in_reply_to_user_id_str" : "18263735",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -3211,7 +3153,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
@@ -3462,7 +3404,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1828254293\/coffeepot-twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546430717585285120\/8QiwFtGZ_normal.jpeg",
       "id" : 643653,
       "verified" : false
     }
@@ -4622,13 +4564,13 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ghoules Ius",
+      "name" : "Jules Ius",
       "screen_name" : "Liger",
       "indices" : [ 10, 16 ],
       "id_str" : "14055949",
       "id" : 14055949
     }, {
-      "name" : "Get Kappy!",
+      "name" : "Velcro Gloves...",
       "screen_name" : "arnonaut",
       "indices" : [ 17, 26 ],
       "id_str" : "13916802",
@@ -4690,7 +4632,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "194876387",
       "id" : 194876387
     }, {
-      "name" : "Ryan Q. North",
+      "name" : "Low-Rez Bojo North",
       "screen_name" : "ryanqnorth",
       "indices" : [ 13, 24 ],
       "id_str" : "14162415",
@@ -4713,7 +4655,7 @@ Grailbird.data.tweets_2010_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ryan Q. North",
+        "name" : "Low-Rez Bojo North",
         "screen_name" : "ryanqnorth",
         "indices" : [ 0, 11 ],
         "id_str" : "14162415",
@@ -5146,7 +5088,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
@@ -5561,7 +5503,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Linstrom",
+      "name" : "Happy Drew Year",
       "screen_name" : "entonfire",
       "indices" : [ 0, 10 ],
       "id_str" : "14354574",
@@ -5594,7 +5536,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "aSleepyPanda",
+      "name" : "aSleepyPanda (\uFFE3(\uFF74)\uFFE3)",
       "screen_name" : "asleepypanda",
       "indices" : [ 0, 13 ],
       "id_str" : "73437395",
@@ -5835,6 +5777,62 @@ Grailbird.data.tweets_2010_10 =
   "text" : "Waiting for the ferry",
   "id" : 26204689681,
   "created_at" : "2010-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "AMradio",
+      "indices" : [ 39, 47 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 47.6869581, -122.3501525 ]
+  },
+  "id_str" : "26069512304",
+  "text" : "Barbershop quartet singing hymns. Huh. #AMradio",
+  "id" : 26069512304,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fb",
+      "indices" : [ 42, 45 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 47.6869581, -122.3501525 ]
+  },
+  "id_str" : "26070091709",
+  "text" : "Getting a country station in Alberta now. #fb",
+  "id" : 26070091709,
+  "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

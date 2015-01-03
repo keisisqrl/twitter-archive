@@ -1,254 +1,5 @@
 Grailbird.data.tweets_2011_12 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "crypticproclamationsofpersonalnonsense",
-      "indices" : [ 0, 39 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153376406435401729",
-  "text" : "#crypticproclamationsofpersonalnonsense",
-  "id" : 153376406435401729,
-  "created_at" : "2012-01-01 07:25:59 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153376234892562433",
-  "text" : "New year always seemed like shitty motivation to get things done. I'll drink to finding better motivation.",
-  "id" : 153376234892562433,
-  "created_at" : "2012-01-01 07:25:18 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Segmentation Fox",
-      "screen_name" : "foxboxpdx",
-      "indices" : [ 3, 13 ],
-      "id_str" : "239139507",
-      "id" : 239139507
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "scienceguy",
-      "indices" : [ 115, 126 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153375376490500096",
-  "text" : "RT @foxboxpdx: I keep seeing 'NYE Party' and thinking 'Awesome, everybody is celebrating how awesome Bill Nye is!' #scienceguy",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "scienceguy",
-        "indices" : [ 100, 111 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "153354145452142592",
-    "text" : "I keep seeing 'NYE Party' and thinking 'Awesome, everybody is celebrating how awesome Bill Nye is!' #scienceguy",
-    "id" : 153354145452142592,
-    "created_at" : "2012-01-01 05:57:32 +0000",
-    "user" : {
-      "name" : "Segmentation Fox",
-      "screen_name" : "foxboxpdx",
-      "protected" : false,
-      "id_str" : "239139507",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451461691348242432\/8xI1RkMZ_normal.png",
-      "id" : 239139507,
-      "verified" : false
-    }
-  },
-  "id" : 153375376490500096,
-  "created_at" : "2012-01-01 07:21:53 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Occupy Wall Street",
-      "screen_name" : "OccupyWallSt",
-      "indices" : [ 11, 24 ],
-      "id_str" : "335369838",
-      "id" : 335369838
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153343597322842112",
-  "text" : "Apparently @OccupyWallSt has their own idea to ring in the new year. Rock on.",
-  "id" : 153343597322842112,
-  "created_at" : "2012-01-01 05:15:37 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joe Hill",
-      "screen_name" : "joe_hill",
-      "indices" : [ 3, 12 ],
-      "id_str" : "18605897",
-      "id" : 18605897
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153341907236433920",
-  "text" : "RT @joe_hill: 2011 would like to thank her agent, her therapist, her lawyer who was always there for her even in the bad times & all her ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "153303681922646017",
-    "text" : "2011 would like to thank her agent, her therapist, her lawyer who was always there for her even in the bad times & all her fans.",
-    "id" : 153303681922646017,
-    "created_at" : "2012-01-01 02:37:00 +0000",
-    "user" : {
-      "name" : "Joe Hill",
-      "screen_name" : "joe_hill",
-      "protected" : false,
-      "id_str" : "18605897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489105859926966272\/azM-5XTv_normal.jpeg",
-      "id" : 18605897,
-      "verified" : true
-    }
-  },
-  "id" : 153341907236433920,
-  "created_at" : "2012-01-01 05:08:54 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153252442769850368",
-  "text" : "Jamming does not work like that, BS-75 \u0CA0_\u0CA0",
-  "id" : 153252442769850368,
-  "created_at" : "2011-12-31 23:13:24 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153220054736052224",
-  "text" : "in other news the sun is really hot guys i mean like so hot",
-  "id" : 153220054736052224,
-  "created_at" : "2011-12-31 21:04:42 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "153219807058206721",
-  "text" : "today on r\/atheism: the UAE is a theocratic hellhole with no sane concept of human rights. News at 11.",
-  "id" : 153219807058206721,
-  "created_at" : "2011-12-31 21:03:43 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -972,7 +723,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "indices" : [ 3, 15 ],
       "id_str" : "13857342",
@@ -999,7 +750,7 @@ Grailbird.data.tweets_2011_12 =
     "id" : 151124891364622337,
     "created_at" : "2011-12-26 02:19:16 +0000",
     "user" : {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "protected" : false,
       "id_str" : "13857342",
@@ -2933,7 +2684,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "mollycrabapple",
       "protected" : false,
       "id_str" : "15644999",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481220548874469376\/NVdIc_rP_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550817542101823488\/LR8EgueK_normal.jpeg",
       "id" : 15644999,
       "verified" : true
     }
@@ -2984,7 +2735,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "mollycrabapple",
       "protected" : false,
       "id_str" : "15644999",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481220548874469376\/NVdIc_rP_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550817542101823488\/LR8EgueK_normal.jpeg",
       "id" : 15644999,
       "verified" : true
     }
@@ -3884,6 +3635,50 @@ Grailbird.data.tweets_2011_12 =
   "text" : "wordpress plugin to count tweets and retweets as pingbacks #pleaseadvise #tumblrpress",
   "id" : 142381707834830848,
   "created_at" : "2011-12-01 23:16:59 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "141996077246201856",
+  "text" : "Today at [redacted]: \"Can I get a Mezcal?\" \"The wine?\" \"...no.\"",
+  "id" : 141996077246201856,
+  "created_at" : "2011-11-30 21:44:37 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "141950213689585664",
+  "text" : "Hey Google where's the \"compact\" setting for this godawful header bar?",
+  "id" : 141950213689585664,
+  "created_at" : "2011-11-30 18:42:22 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

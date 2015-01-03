@@ -8,127 +8,6 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "109130954035036160",
-  "text" : "That's enough rosin smoke inhaled for tonight. Tomorrow I buy some 60\/40 solder. This lead-free silver stuff is bullshit.",
-  "id" : 109130954035036160,
-  "created_at" : "2011-09-01 05:10:21 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Kane",
-      "screen_name" : "codemastermm",
-      "indices" : [ 0, 13 ],
-      "id_str" : "15375238",
-      "id" : 15375238
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "109095524233261056",
-  "geo" : { },
-  "id_str" : "109095996792913921",
-  "in_reply_to_user_id" : 15375238,
-  "text" : "@codemastermm embedded hardware! it sounded like they see it a lot, support figured it out as soon as I gave them the error code.",
-  "id" : 109095996792913921,
-  "in_reply_to_status_id" : 109095524233261056,
-  "created_at" : "2011-09-01 02:51:27 +0000",
-  "in_reply_to_screen_name" : "codemastermm",
-  "in_reply_to_user_id_str" : "15375238",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "109095446521192448",
-  "text" : "Turns out ethernet needs to be connected before power. Weird.",
-  "id" : 109095446521192448,
-  "created_at" : "2011-09-01 02:49:16 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "109093873237762048",
-  "text" : "Whelp hooked up my OnLive console and... doesn't work. Awesome.",
-  "id" : 109093873237762048,
-  "created_at" : "2011-09-01 02:43:00 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "108962103867609090",
-  "text" : "Decided to buy a Blu-Ray player. Debating just getting a PS3. Not all that interested in any exclusives but flower was made to be a trip toy",
-  "id" : 108962103867609090,
-  "created_at" : "2011-08-31 17:59:24 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "108810219437568000",
   "text" : "Need to label the lab UPS at work \"Emergency Defibrillator\"",
   "id" : 108810219437568000,
@@ -1070,7 +949,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "TheTweetOfGod",
       "protected" : false,
       "id_str" : "204832963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513044464038711297\/UJxbq8I5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549069543088590849\/dfsEuHa1_normal.jpeg",
       "id" : 204832963,
       "verified" : false
     }
@@ -2079,7 +1958,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "kevinmarks",
       "protected" : false,
       "id_str" : "57203",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2309131403\/xailq7cl8vzr30pr53u7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546420657190219776\/-MacEGsX_normal.jpeg",
       "id" : 57203,
       "verified" : false
     }
@@ -3010,7 +2889,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "TheTweetOfGod",
       "protected" : false,
       "id_str" : "204832963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513044464038711297\/UJxbq8I5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549069543088590849\/dfsEuHa1_normal.jpeg",
       "id" : 204832963,
       "verified" : false
     }
@@ -3503,7 +3382,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "indices" : [ 3, 15 ],
       "id_str" : "13857342",
@@ -3530,7 +3409,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 100696247429627904,
     "created_at" : "2011-08-08 22:33:50 +0000",
     "user" : {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "protected" : false,
       "id_str" : "13857342",
@@ -3958,7 +3837,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "TheTweetOfGod",
       "protected" : false,
       "id_str" : "204832963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513044464038711297\/UJxbq8I5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549069543088590849\/dfsEuHa1_normal.jpeg",
       "id" : 204832963,
       "verified" : false
     }
@@ -4299,7 +4178,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "yesbutnosara",
       "protected" : false,
       "id_str" : "13684172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482065782965149696\/79T0cZxO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544962274926927872\/sy2EJBqo_normal.jpeg",
       "id" : 13684172,
       "verified" : false
     }
@@ -4833,6 +4712,158 @@ Grailbird.data.tweets_2011_08 =
   "text" : "Ariel is building a motorcycle. Yes, the Ariel responsible for the Atom.",
   "id" : 98057783861190664,
   "created_at" : "2011-08-01 15:49:32 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrew Cox",
+      "screen_name" : "CplMakenzie",
+      "indices" : [ 0, 12 ],
+      "id_str" : "35354131",
+      "id" : 35354131
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "97899121796591617",
+  "in_reply_to_user_id" : 35354131,
+  "text" : "@CplMakenzie mak check your password",
+  "id" : 97899121796591617,
+  "created_at" : "2011-08-01 05:19:04 +0000",
+  "in_reply_to_screen_name" : "CplMakenzie",
+  "in_reply_to_user_id_str" : "35354131",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Wil Wheaton",
+      "screen_name" : "wilw",
+      "indices" : [ 0, 5 ],
+      "id_str" : "1183041",
+      "id" : 1183041
+    }, {
+      "name" : "Stephen Toulouse",
+      "screen_name" : "Stepto",
+      "indices" : [ 6, 13 ],
+      "id_str" : "3443591",
+      "id" : 3443591
+    }, {
+      "name" : "Twitter",
+      "screen_name" : "twitter",
+      "indices" : [ 45, 53 ],
+      "id_str" : "783214",
+      "id" : 783214
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "97754391662170112",
+  "geo" : { },
+  "id_str" : "97763416948748289",
+  "in_reply_to_user_id" : 1183041,
+  "text" : "@wilw @Stepto well, you know, naughty words. @twitter is an American company after all.",
+  "id" : 97763416948748289,
+  "in_reply_to_status_id" : 97754391662170112,
+  "created_at" : "2011-07-31 20:19:49 +0000",
+  "in_reply_to_screen_name" : "wilw",
+  "in_reply_to_user_id_str" : "1183041",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "God",
+      "screen_name" : "TheTweetOfGod",
+      "indices" : [ 3, 17 ],
+      "id_str" : "204832963",
+      "id" : 204832963
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "97762093012488193",
+  "text" : "RT @TheTweetOfGod: Two wrongs make a right wing.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "97732842607484928",
+    "text" : "Two wrongs make a right wing.",
+    "id" : 97732842607484928,
+    "created_at" : "2011-07-31 18:18:20 +0000",
+    "user" : {
+      "name" : "God",
+      "screen_name" : "TheTweetOfGod",
+      "protected" : false,
+      "id_str" : "204832963",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549069543088590849\/dfsEuHa1_normal.jpeg",
+      "id" : 204832963,
+      "verified" : false
+    }
+  },
+  "id" : 97762093012488193,
+  "created_at" : "2011-07-31 20:14:33 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "reasonstobeatyourgirlfriend",
+      "indices" : [ 20, 48 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "97712746535190528",
+  "text" : "Currently trending: #reasonstobeatyourgirlfriend \u0CA0_\u0CA0",
+  "id" : 97712746535190528,
+  "created_at" : "2011-07-31 16:58:28 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

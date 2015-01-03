@@ -1,234 +1,5 @@
 Grailbird.data.tweets_2012_05 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lord_Moon",
-      "screen_name" : "Lord_Moon",
-      "indices" : [ 0, 10 ],
-      "id_str" : "15558198",
-      "id" : 15558198
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "208411023483473920",
-  "geo" : { },
-  "id_str" : "208441096135643136",
-  "in_reply_to_user_id" : 15558198,
-  "text" : "@Lord_Moon lower QA and crown hill Safeways have",
-  "id" : 208441096135643136,
-  "in_reply_to_status_id" : 208411023483473920,
-  "created_at" : "2012-06-01 06:13:24 +0000",
-  "in_reply_to_screen_name" : "Lord_Moon",
-  "in_reply_to_user_id_str" : "15558198",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "208392015451398144",
-  "text" : "Harry Potter and the Methods of Rationality is the strangest and best fanfiction I have ever read",
-  "id" : 208392015451398144,
-  "created_at" : "2012-06-01 02:58:22 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Finn Ellis",
-      "screen_name" : "relsqui",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14251472",
-      "id" : 14251472
-    }, {
-      "name" : "Bee Stapler",
-      "screen_name" : "BeeStapler",
-      "indices" : [ 20, 31 ],
-      "id_str" : "252159156",
-      "id" : 252159156
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "208345611538415617",
-  "text" : "RT @relsqui: o_o RT @beestapler: Star Trek has existed for almost exactly half the time that women in the US have had the right to vote.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Bee Stapler",
-        "screen_name" : "BeeStapler",
-        "indices" : [ 7, 18 ],
-        "id_str" : "252159156",
-        "id" : 252159156
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "208343630174367744",
-    "text" : "o_o RT @beestapler: Star Trek has existed for almost exactly half the time that women in the US have had the right to vote.",
-    "id" : 208343630174367744,
-    "created_at" : "2012-05-31 23:46:06 +0000",
-    "user" : {
-      "name" : "Finn Ellis",
-      "screen_name" : "relsqui",
-      "protected" : false,
-      "id_str" : "14251472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000866021928\/v-KBMemp_normal.jpeg",
-      "id" : 14251472,
-      "verified" : false
-    }
-  },
-  "id" : 208345611538415617,
-  "created_at" : "2012-05-31 23:53:59 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim Stanley",
-      "screen_name" : "timothy_stanley",
-      "indices" : [ 3, 19 ],
-      "id_str" : "283640557",
-      "id" : 283640557
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/timothy_stanley\/status\/208228945580138496\/photo\/1",
-      "indices" : [ 88, 108 ],
-      "url" : "http:\/\/t.co\/9HK16d7N",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/AuPHH22CIAA6oex.jpg",
-      "id_str" : "208228945584332800",
-      "id" : 208228945584332800,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AuPHH22CIAA6oex.jpg",
-      "sizes" : [ {
-        "h" : 212,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 536,
-        "resize" : "fit",
-        "w" : 857
-      }, {
-        "h" : 374,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 536,
-        "resize" : "fit",
-        "w" : 858
-      } ],
-      "display_url" : "pic.twitter.com\/9HK16d7N"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "208236566781509633",
-  "text" : "RT @timothy_stanley: Queen Elizabeth II firing a machine gun (this is real and amazing) http:\/\/t.co\/9HK16d7N",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/timothy_stanley\/status\/208228945580138496\/photo\/1",
-        "indices" : [ 67, 87 ],
-        "url" : "http:\/\/t.co\/9HK16d7N",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/AuPHH22CIAA6oex.jpg",
-        "id_str" : "208228945584332800",
-        "id" : 208228945584332800,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AuPHH22CIAA6oex.jpg",
-        "sizes" : [ {
-          "h" : 212,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 536,
-          "resize" : "fit",
-          "w" : 857
-        }, {
-          "h" : 374,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 536,
-          "resize" : "fit",
-          "w" : 858
-        } ],
-        "display_url" : "pic.twitter.com\/9HK16d7N"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "208228945580138496",
-    "text" : "Queen Elizabeth II firing a machine gun (this is real and amazing) http:\/\/t.co\/9HK16d7N",
-    "id" : 208228945580138496,
-    "created_at" : "2012-05-31 16:10:24 +0000",
-    "user" : {
-      "name" : "Tim Stanley",
-      "screen_name" : "timothy_stanley",
-      "protected" : false,
-      "id_str" : "283640557",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3179876174\/94fbdc7d55a806ecb102b5b169bb2f85_normal.jpeg",
-      "id" : 283640557,
-      "verified" : true
-    }
-  },
-  "id" : 208236566781509633,
-  "created_at" : "2012-05-31 16:40:41 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -955,7 +726,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Linstrom",
+      "name" : "Happy Drew Year",
       "screen_name" : "entonfire",
       "indices" : [ 0, 10 ],
       "id_str" : "14354574",
@@ -1061,7 +832,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "revmagdalen",
       "protected" : false,
       "id_str" : "33531486",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/471880053215592450\/ny3eOaLZ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543590456035008512\/ZnvmukoK_normal.jpeg",
       "id" : 33531486,
       "verified" : false
     }
@@ -1618,7 +1389,7 @@ Grailbird.data.tweets_2012_05 =
     "user" : {
       "name" : "Melissa S.",
       "screen_name" : "ainilome",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "16052838",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473616329224622080\/bd-5QGxj_normal.jpeg",
       "id" : 16052838,
@@ -1706,7 +1477,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -1869,7 +1640,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -1906,7 +1677,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 201420732058701824,
     "created_at" : "2012-05-12 21:16:59 +0000",
     "user" : {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2161,7 +1932,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2188,7 +1959,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 200337188477603840,
     "created_at" : "2012-05-09 21:31:22 +0000",
     "user" : {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2212,7 +1983,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -2239,7 +2010,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 200336960072585218,
     "created_at" : "2012-05-09 21:30:28 +0000",
     "user" : {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -2984,7 +2755,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 3, 9 ],
       "id_str" : "14412937",
@@ -3021,7 +2792,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 198181037904375808,
     "created_at" : "2012-05-03 22:43:36 +0000",
     "user" : {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "protected" : false,
       "id_str" : "14412937",
@@ -3332,7 +3103,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "indices" : [ 0, 12 ],
       "id_str" : "7670202",
@@ -3410,6 +3181,155 @@ Grailbird.data.tweets_2012_05 =
   "text" : "Greyhound is launching BoltBus SEA&lt;-&gt;PDX, fares starting at $7. http:\/\/t.co\/xmgyXB0O",
   "id" : 197367333126283265,
   "created_at" : "2012-05-01 16:50:13 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "197173219197857792",
+  "text" : "Rotti Largo is Worf's stepbrother? Explains everything.",
+  "id" : 197173219197857792,
+  "created_at" : "2012-05-01 03:58:53 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "197130180588867584",
+  "text" : "Some day social media is going to be in dictionaries as an idiom for \"well, I thought it was clever anyway\"",
+  "id" : 197130180588867584,
+  "created_at" : "2012-05-01 01:07:52 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "197118208652746754",
+  "text" : "Portmanteau: not a town in Quebec.",
+  "id" : 197118208652746754,
+  "created_at" : "2012-05-01 00:20:17 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ben",
+      "screen_name" : "BeerBrewin",
+      "indices" : [ 3, 14 ],
+      "id_str" : "14288359",
+      "id" : 14288359
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 74, 94 ],
+      "url" : "http:\/\/t.co\/ZqDznBcq",
+      "expanded_url" : "http:\/\/ti.me\/JJhvdW",
+      "display_url" : "ti.me\/JJhvdW"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "197112458475868163",
+  "text" : "RT @BeerBrewin: U.S. Post Office Considering Shipping Beer, Wine, Alcohol http:\/\/t.co\/ZqDznBcq",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 58, 78 ],
+        "url" : "http:\/\/t.co\/ZqDznBcq",
+        "expanded_url" : "http:\/\/ti.me\/JJhvdW",
+        "display_url" : "ti.me\/JJhvdW"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "197016228865384448",
+    "text" : "U.S. Post Office Considering Shipping Beer, Wine, Alcohol http:\/\/t.co\/ZqDznBcq",
+    "id" : 197016228865384448,
+    "created_at" : "2012-04-30 17:35:04 +0000",
+    "user" : {
+      "name" : "Ben",
+      "screen_name" : "BeerBrewin",
+      "protected" : false,
+      "id_str" : "14288359",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779458135\/Hop_normal.png",
+      "id" : 14288359,
+      "verified" : false
+    }
+  },
+  "id" : 197112458475868163,
+  "created_at" : "2012-04-30 23:57:26 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "197086813502971904",
+  "text" : "Suddenly, 72 glowsticks.",
+  "id" : 197086813502971904,
+  "created_at" : "2012-04-30 22:15:32 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

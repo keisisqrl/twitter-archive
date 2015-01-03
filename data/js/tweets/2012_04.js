@@ -1,154 +1,5 @@
 Grailbird.data.tweets_2012_04 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "197173219197857792",
-  "text" : "Rotti Largo is Worf's stepbrother? Explains everything.",
-  "id" : 197173219197857792,
-  "created_at" : "2012-05-01 03:58:53 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "197130180588867584",
-  "text" : "Some day social media is going to be in dictionaries as an idiom for \"well, I thought it was clever anyway\"",
-  "id" : 197130180588867584,
-  "created_at" : "2012-05-01 01:07:52 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "197118208652746754",
-  "text" : "Portmanteau: not a town in Quebec.",
-  "id" : 197118208652746754,
-  "created_at" : "2012-05-01 00:20:17 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ben",
-      "screen_name" : "BeerBrewin",
-      "indices" : [ 3, 14 ],
-      "id_str" : "14288359",
-      "id" : 14288359
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 74, 94 ],
-      "url" : "http:\/\/t.co\/ZqDznBcq",
-      "expanded_url" : "http:\/\/ti.me\/JJhvdW",
-      "display_url" : "ti.me\/JJhvdW"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "197112458475868163",
-  "text" : "RT @BeerBrewin: U.S. Post Office Considering Shipping Beer, Wine, Alcohol http:\/\/t.co\/ZqDznBcq",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 58, 78 ],
-        "url" : "http:\/\/t.co\/ZqDznBcq",
-        "expanded_url" : "http:\/\/ti.me\/JJhvdW",
-        "display_url" : "ti.me\/JJhvdW"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "197016228865384448",
-    "text" : "U.S. Post Office Considering Shipping Beer, Wine, Alcohol http:\/\/t.co\/ZqDznBcq",
-    "id" : 197016228865384448,
-    "created_at" : "2012-04-30 17:35:04 +0000",
-    "user" : {
-      "name" : "Ben",
-      "screen_name" : "BeerBrewin",
-      "protected" : false,
-      "id_str" : "14288359",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779458135\/Hop_normal.png",
-      "id" : 14288359,
-      "verified" : false
-    }
-  },
-  "id" : 197112458475868163,
-  "created_at" : "2012-04-30 23:57:26 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "197086813502971904",
-  "text" : "Suddenly, 72 glowsticks.",
-  "id" : 197086813502971904,
-  "created_at" : "2012-04-30 22:15:32 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -795,7 +646,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "indices" : [ 3, 15 ],
       "id_str" : "13857342",
@@ -822,7 +673,7 @@ Grailbird.data.tweets_2012_04 =
     "id" : 195684654332919809,
     "created_at" : "2012-04-27 01:23:51 +0000",
     "user" : {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "protected" : false,
       "id_str" : "13857342",
@@ -1516,7 +1367,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "nyatagarasu",
       "protected" : false,
       "id_str" : "395243334",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000680527088\/3f36815c7951d78cc8dfa5c75418cdc9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545294356777668608\/SF5D6aGm_normal.jpeg",
       "id" : 395243334,
       "verified" : false
     }
@@ -1619,7 +1470,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elf Lord",
+      "name" : "Mike Sacco",
       "screen_name" : "mikesacco",
       "indices" : [ 3, 13 ],
       "id_str" : "17889697",
@@ -1646,7 +1497,7 @@ Grailbird.data.tweets_2012_04 =
     "id" : 171442047063040000,
     "created_at" : "2012-02-20 03:52:23 +0000",
     "user" : {
-      "name" : "Elf Lord",
+      "name" : "Mike Sacco",
       "screen_name" : "mikesacco",
       "protected" : false,
       "id_str" : "17889697",
@@ -1843,7 +1694,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "TheTweetOfGod",
       "protected" : false,
       "id_str" : "204832963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513044464038711297\/UJxbq8I5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549069543088590849\/dfsEuHa1_normal.jpeg",
       "id" : 204832963,
       "verified" : false
     }
@@ -2417,7 +2268,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mayonnaise fuckboy",
+      "name" : "danger in the manger",
       "screen_name" : "mariapaprika",
       "indices" : [ 3, 16 ],
       "id_str" : "15600431",
@@ -2456,11 +2307,11 @@ Grailbird.data.tweets_2012_04 =
     "id" : 191959904104353792,
     "created_at" : "2012-04-16 18:43:02 +0000",
     "user" : {
-      "name" : "mayonnaise fuckboy",
+      "name" : "danger in the manger",
       "screen_name" : "mariapaprika",
       "protected" : false,
       "id_str" : "15600431",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528525902993305600\/hdy02Gnt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545587670999924736\/TUIVCW7S_normal.jpeg",
       "id" : 15600431,
       "verified" : false
     }
@@ -2840,7 +2691,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "14904089",
       "id" : 14904089
     }, {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 17, 23 ],
       "id_str" : "14412937",
@@ -2862,7 +2713,7 @@ Grailbird.data.tweets_2012_04 =
     "source" : "\u003Ca href=\"http:\/\/twmode.sf.net\/\" rel=\"nofollow\"\u003Etwmode\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+        "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
         "screen_name" : "eevee",
         "indices" : [ 3, 9 ],
         "id_str" : "14412937",
@@ -3106,7 +2957,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1828254293\/coffeepot-twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546430717585285120\/8QiwFtGZ_normal.jpeg",
       "id" : 643653,
       "verified" : false
     }
@@ -4253,7 +4104,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "cnnbrk",
       "protected" : false,
       "id_str" : "428333",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1762504301\/128x128_cnnbrk_avatar_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550063386914852865\/4JHr5H_Y_normal.jpeg",
       "id" : 428333,
       "verified" : true
     }
@@ -4438,7 +4289,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Linstrom",
+      "name" : "Happy Drew Year",
       "screen_name" : "entonfire",
       "indices" : [ 0, 10 ],
       "id_str" : "14354574",
@@ -4535,6 +4386,157 @@ Grailbird.data.tweets_2012_04 =
   "text" : "Today's XKCD includes the most accurate description of [new] twitter I have ever seen",
   "id" : 186509313760690177,
   "created_at" : "2012-04-01 17:44:20 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "186313891259744256",
+  "text" : "There is SO MUCH foreshadowing in Death Race 2000 that you can't possibly get unless you've seen the whole thing",
+  "id" : 186313891259744256,
+  "created_at" : "2012-04-01 04:47:47 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nathaniel Reindl",
+      "screen_name" : "nrr",
+      "indices" : [ 3, 7 ],
+      "id_str" : "14498961",
+      "id" : 14498961
+    }, {
+      "name" : "Andrew Auernheimer",
+      "screen_name" : "rabite",
+      "indices" : [ 18, 25 ],
+      "id_str" : "15707229",
+      "id" : 15707229
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "186313406716985344",
+  "text" : "RT @nrr: I'm with @rabite on this one. April Fool's is a linear time lie. Those of us who use cubic calendars face no goofy fate such as ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Andrew Auernheimer",
+        "screen_name" : "rabite",
+        "indices" : [ 9, 16 ],
+        "id_str" : "15707229",
+        "id" : 15707229
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "186309505003429890",
+    "text" : "I'm with @rabite on this one. April Fool's is a linear time lie. Those of us who use cubic calendars face no goofy fate such as that.",
+    "id" : 186309505003429890,
+    "created_at" : "2012-04-01 04:30:22 +0000",
+    "user" : {
+      "name" : "Nathaniel Reindl",
+      "screen_name" : "nrr",
+      "protected" : false,
+      "id_str" : "14498961",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472605318006853633\/lL89ffRF_normal.png",
+      "id" : 14498961,
+      "verified" : false
+    }
+  },
+  "id" : 186313406716985344,
+  "created_at" : "2012-04-01 04:45:52 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "186297457527898112",
+  "text" : "Person I was talking to on IRC said she added me on facebook, at the same second my phone dinged. Welcome to the future. It's creepy here.",
+  "id" : 186297457527898112,
+  "created_at" : "2012-04-01 03:42:29 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "186216305148428288",
+  "text" : "OK GO: because every music video should be live-action Yellow Submarine. We have the technology.",
+  "id" : 186216305148428288,
+  "created_at" : "2012-03-31 22:20:01 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "186157262769881088",
+  "text" : "Google getting an early start, I see.",
+  "id" : 186157262769881088,
+  "created_at" : "2012-03-31 18:25:24 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

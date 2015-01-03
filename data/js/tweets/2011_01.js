@@ -8,204 +8,6 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "32337477486256128",
-  "text" : "I bet it was Nintendo.",
-  "id" : 32337477486256128,
-  "created_at" : "2011-02-01 07:20:30 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Broken Angel",
-      "screen_name" : "BrokenAngel",
-      "indices" : [ 0, 12 ],
-      "id_str" : "6141622",
-      "id" : 6141622
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "32291658460565504",
-  "geo" : { },
-  "id_str" : "32292355386114048",
-  "in_reply_to_user_id" : 6141622,
-  "text" : "@BrokenAngel probably a good call. Happened to me on the [E] forums, the public ones are... scum and villainy",
-  "id" : 32292355386114048,
-  "in_reply_to_status_id" : 32291658460565504,
-  "created_at" : "2011-02-01 04:21:12 +0000",
-  "in_reply_to_screen_name" : "BrokenAngel",
-  "in_reply_to_user_id_str" : "6141622",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Smarf Official",
-      "screen_name" : "groovetini",
-      "indices" : [ 0, 11 ],
-      "id_str" : "14202934",
-      "id" : 14202934
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "32276722426580995",
-  "geo" : { },
-  "id_str" : "32282348833738752",
-  "in_reply_to_user_id" : 14202934,
-  "text" : "@groovetini not unless someone dares to speak out against PA. Then they all pile on the heretic.",
-  "id" : 32282348833738752,
-  "in_reply_to_status_id" : 32276722426580995,
-  "created_at" : "2011-02-01 03:41:26 +0000",
-  "in_reply_to_screen_name" : "groovetini",
-  "in_reply_to_user_id_str" : "14202934",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "32275554166120450",
-  "text" : "But enough laconic locution. To reddit game night!",
-  "id" : 32275554166120450,
-  "created_at" : "2011-02-01 03:14:26 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "32274613018820608",
-  "text" : "Battle lines divide the gaming community. The golden gods of gaming comics seem to revel in it, their cult of personality secure regardless.",
-  "id" : 32274613018820608,
-  "created_at" : "2011-02-01 03:10:42 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "freckle",
-      "screen_name" : "iheartbunnies",
-      "indices" : [ 0, 14 ],
-      "id_str" : "15489716",
-      "id" : 15489716
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "32265331539976192",
-  "geo" : { },
-  "id_str" : "32268787399004160",
-  "in_reply_to_user_id" : 15489716,
-  "text" : "@iheartbunnies hehe. (sorry)",
-  "id" : 32268787399004160,
-  "in_reply_to_status_id" : 32265331539976192,
-  "created_at" : "2011-02-01 02:47:33 +0000",
-  "in_reply_to_screen_name" : "iheartbunnies",
-  "in_reply_to_user_id_str" : "15489716",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Totally Normal Guy",
-      "screen_name" : "wootimus",
-      "indices" : [ 0, 9 ],
-      "id_str" : "22427914",
-      "id" : 22427914
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "32213369284984832",
-  "geo" : { },
-  "id_str" : "32214349649018880",
-  "in_reply_to_user_id" : 22427914,
-  "text" : "@wootimus try twt.fm for music. Or maybe grooveshark",
-  "id" : 32214349649018880,
-  "in_reply_to_status_id" : 32213369284984832,
-  "created_at" : "2011-01-31 23:11:14 +0000",
-  "in_reply_to_screen_name" : "wootimus",
-  "in_reply_to_user_id_str" : "22427914",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "32003467019034624",
   "text" : "I love that ED has a worksafe site. It's so deliciously wrong.",
   "id" : 32003467019034624,
@@ -1637,7 +1439,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1807,7 +1609,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ghoules Ius",
+      "name" : "Jules Ius",
       "screen_name" : "Liger",
       "indices" : [ 0, 6 ],
       "id_str" : "14055949",
@@ -3252,7 +3054,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "14202934",
       "id" : 14202934
     }, {
-      "name" : "Andrew Linstrom",
+      "name" : "Happy Drew Year",
       "screen_name" : "entonfire",
       "indices" : [ 26, 36 ],
       "id_str" : "14354574",
@@ -3718,7 +3520,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "14202934",
       "id" : 14202934
     }, {
-      "name" : "Ghoules Ius",
+      "name" : "Jules Ius",
       "screen_name" : "Liger",
       "indices" : [ 12, 18 ],
       "id_str" : "14055949",
@@ -3823,7 +3625,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ghoules Ius",
+      "name" : "Jules Ius",
       "screen_name" : "Liger",
       "indices" : [ 0, 6 ],
       "id_str" : "14055949",
@@ -5060,6 +4862,111 @@ Grailbird.data.tweets_2011_01 =
   "text" : "Happy new year",
   "id" : 21114978677297153,
   "created_at" : "2011-01-01 08:06:17 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "happynewyear",
+      "indices" : [ 70, 83 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21078649448964096",
+  "text" : "Free tow home courtesy of AAA to combat drunk driving: 1-800-222-4357 #happynewyear",
+  "id" : 21078649448964096,
+  "created_at" : "2011-01-01 05:41:56 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21036438237749248",
+  "text" : "Anyone doing anything interesting for new year's eve? Seems Haethaus and AFK are both a bit short on space.",
+  "id" : 21036438237749248,
+  "created_at" : "2011-01-01 02:54:12 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jarrod Lombardo ",
+      "screen_name" : "jaberwocky",
+      "indices" : [ 0, 11 ],
+      "id_str" : "14505832",
+      "id" : 14505832
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "20940950813548544",
+  "geo" : { },
+  "id_str" : "20969953972723713",
+  "in_reply_to_user_id" : 14505832,
+  "text" : "@jaberwocky I'm there",
+  "id" : 20969953972723713,
+  "in_reply_to_status_id" : 20940950813548544,
+  "created_at" : "2010-12-31 22:30:01 +0000",
+  "in_reply_to_screen_name" : "jaberwocky",
+  "in_reply_to_user_id_str" : "14505832",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "breakfastofchampions",
+      "indices" : [ 86, 107 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20883831502405633",
+  "text" : "Reconstituted latte, corn dogs, and slush of what used to be supercooled day-old soda #breakfastofchampions",
+  "id" : 20883831502405633,
+  "created_at" : "2010-12-31 16:47:48 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

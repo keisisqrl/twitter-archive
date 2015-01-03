@@ -3,90 +3,6 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Kane",
-      "screen_name" : "codemastermm",
-      "indices" : [ 0, 13 ],
-      "id_str" : "15375238",
-      "id" : 15375238
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "230463888108421120",
-  "geo" : { },
-  "id_str" : "230465356211318786",
-  "in_reply_to_user_id" : 15375238,
-  "text" : "@codemastermm new meaning to \"left join\"",
-  "id" : 230465356211318786,
-  "in_reply_to_status_id" : 230463888108421120,
-  "created_at" : "2012-08-01 00:49:57 +0000",
-  "in_reply_to_screen_name" : "codemastermm",
-  "in_reply_to_user_id_str" : "15375238",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shinsters",
-      "screen_name" : "shinaku",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14355014",
-      "id" : 14355014
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "230427294156603392",
-  "text" : "RT @shinaku: I've never really been a fan of Sasha Baron Cohen, but his new character 'Mitt Romney' is *hilarious*.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "230288985719709696",
-    "text" : "I've never really been a fan of Sasha Baron Cohen, but his new character 'Mitt Romney' is *hilarious*.",
-    "id" : 230288985719709696,
-    "created_at" : "2012-07-31 13:09:07 +0000",
-    "user" : {
-      "name" : "Shinsters",
-      "screen_name" : "shinaku",
-      "protected" : false,
-      "id_str" : "14355014",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541379248376664064\/18nCT93f_normal.jpeg",
-      "id" : 14355014,
-      "verified" : false
-    }
-  },
-  "id" : 230427294156603392,
-  "created_at" : "2012-07-31 22:18:42 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "awesomerobot",
       "screen_name" : "AwesomeRobot",
       "indices" : [ 3, 16 ],
@@ -185,7 +101,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "mudron",
       "protected" : false,
       "id_str" : "18518084",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528563543977623552\/yjMw9mLz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548388037474779136\/t32jjdyd_normal.jpeg",
       "id" : 18518084,
       "verified" : false
     }
@@ -691,7 +607,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "DavidpbFerguson",
       "protected" : false,
       "id_str" : "154977208",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541670412900646912\/J7lal5ws_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549508943886954496\/7HIKIrOr_normal.jpeg",
       "id" : 154977208,
       "verified" : false
     }
@@ -1339,7 +1255,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "Popehat",
       "protected" : false,
       "id_str" : "18839937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538453044359221248\/-3RJBQDs_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548374924587307009\/UNbz2XDl_normal.jpeg",
       "id" : 18839937,
       "verified" : false
     }
@@ -1359,7 +1275,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -1392,7 +1308,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -1419,7 +1335,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 227267228532342784,
     "created_at" : "2012-07-23 05:01:44 +0000",
     "user" : {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
@@ -1850,7 +1766,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mayonnaise fuckboy",
+      "name" : "danger in the manger",
       "screen_name" : "mariapaprika",
       "indices" : [ 0, 13 ],
       "id_str" : "15600431",
@@ -2190,7 +2106,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "SincerelyTumblr",
       "protected" : false,
       "id_str" : "226690054",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521747542371889152\/GJtG6Epb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550323102823895040\/NdzpaKef_normal.png",
       "id" : 226690054,
       "verified" : false
     }
@@ -2507,7 +2423,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\u2745\u2746 eevee \u2746\u2745\u2603",
+      "name" : "\u2603\u2745\u2746 eeveebutts \u2746\u2745\u2603",
       "screen_name" : "eevee",
       "indices" : [ 15, 21 ],
       "id_str" : "14412937",
@@ -2897,7 +2813,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BooDoo Goat",
+      "name" : "BooDoo Ram",
       "screen_name" : "BooDooPerson",
       "indices" : [ 3, 16 ],
       "id_str" : "14951588",
@@ -2936,11 +2852,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 222711987224850432,
     "created_at" : "2012-07-10 15:20:50 +0000",
     "user" : {
-      "name" : "BooDoo Goat",
+      "name" : "BooDoo Ram",
       "screen_name" : "BooDooPerson",
       "protected" : false,
       "id_str" : "14951588",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539491730731438080\/F2n9qTiU_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550864808057135104\/SkZQ-EW3_normal.png",
       "id" : 14951588,
       "verified" : false
     }
@@ -3011,7 +2927,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tyler Hollybells",
+      "name" : "Tyler Huckabee",
       "screen_name" : "TylerHuckabee",
       "indices" : [ 3, 17 ],
       "id_str" : "39321718",
@@ -3038,7 +2954,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 222483202235830272,
     "created_at" : "2012-07-10 00:11:43 +0000",
     "user" : {
-      "name" : "Tyler Hollybells",
+      "name" : "Tyler Huckabee",
       "screen_name" : "TylerHuckabee",
       "protected" : false,
       "id_str" : "39321718",
@@ -3147,7 +3063,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "snpsnpsnp",
       "protected" : false,
       "id_str" : "17714266",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510840600657014784\/e1leCP-L_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542605718482722817\/tGusaPLR_normal.png",
       "id" : 17714266,
       "verified" : false
     }
@@ -3189,7 +3105,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "indices" : [ 0, 12 ],
       "id_str" : "13857342",
@@ -3731,7 +3647,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "mtigas",
       "protected" : false,
       "id_str" : "13036632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533022243194822656\/lUq-nbRv_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543155730157543424\/y9aEmCif_normal.png",
       "id" : 13036632,
       "verified" : true
     }
@@ -4321,7 +4237,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "dropkickpikachu",
       "protected" : false,
       "id_str" : "106578068",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534870135224270848\/9FolnVRT_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547941549917478912\/TBOl6tI2_normal.png",
       "id" : 106578068,
       "verified" : false
     }
@@ -4350,6 +4266,28 @@ Grailbird.data.tweets_2012_07 =
   "text" : "I think Too Close is what dubstep jumping the shark sounds like. It's kind of a horrifying thought.",
   "id" : 219525005074120704,
   "created_at" : "2012-07-01 20:16:54 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "219122969367154688",
+  "text" : "It took me a while after watching Avengers to recognize \"tesseract\" was a pun... it's another word for \"hypercube\". &lt;3 Whedon",
+  "id" : 219122969367154688,
+  "created_at" : "2012-06-30 17:39:21 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

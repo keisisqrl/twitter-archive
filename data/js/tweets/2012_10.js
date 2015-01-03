@@ -8,105 +8,6 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "263872907833389056",
-  "text" : "@turbobeta if you need a ride and don't arrange one in the next hour or so I suppose I could help",
-  "id" : 263872907833389056,
-  "created_at" : "2012-11-01 05:19:38 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "263852379412250625",
-  "text" : "@turbobeta I look forward to it &lt;3",
-  "id" : 263852379412250625,
-  "created_at" : "2012-11-01 03:58:04 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "263849461338476545",
-  "text" : "@turbobeta I can help!",
-  "id" : 263849461338476545,
-  "created_at" : "2012-11-01 03:46:28 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "raingirllori",
-      "screen_name" : "raingirllori",
-      "indices" : [ 0, 13 ],
-      "id_str" : "14499719",
-      "id" : 14499719
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "263708538822598656",
-  "geo" : { },
-  "id_str" : "263786446228447233",
-  "in_reply_to_user_id" : 14499719,
-  "text" : "@raingirllori I would love that! We should totally do it sometime.",
-  "id" : 263786446228447233,
-  "in_reply_to_status_id" : 263708538822598656,
-  "created_at" : "2012-10-31 23:36:04 +0000",
-  "in_reply_to_screen_name" : "raingirllori",
-  "in_reply_to_user_id_str" : "14499719",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "263544413085638656",
   "text" : "The rain sounds nice.",
   "id" : 263544413085638656,
@@ -271,7 +172,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "TheTaskForce",
       "protected" : false,
       "id_str" : "21314814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522971490090614785\/a3bvJU9O_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550861269805170689\/8CKw7G1O_normal.jpeg",
       "id" : 21314814,
       "verified" : false
     }
@@ -507,7 +408,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "mattyglesias",
       "protected" : false,
       "id_str" : "15446531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539145304210018304\/Nn2JjVhQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548702536211767296\/E0Sgh2gl_normal.jpeg",
       "id" : 15446531,
       "verified" : true
     }
@@ -1159,7 +1060,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "JWagstaffe",
       "protected" : false,
       "id_str" : "121417367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464231317215772673\/7oQ0vdLx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551074064337367043\/ml_GLpcN_normal.jpeg",
       "id" : 121417367,
       "verified" : true
     }
@@ -2006,11 +1907,11 @@ Grailbird.data.tweets_2012_10 =
     "id" : 261694017958449152,
     "created_at" : "2012-10-26 05:01:30 +0000",
     "user" : {
-      "name" : "\u2764Feral Catgirl\u2764",
+      "name" : "Fix Society Butts",
       "screen_name" : "ThatSabineGirl",
       "protected" : false,
       "id_str" : "594454673",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542020461555900418\/tZkvNHfS_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551033631591120896\/Lwxg_mkp_normal.jpeg",
       "id" : 594454673,
       "verified" : false
     }
@@ -2937,16 +2838,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "260285106583920640",
   "geo" : { },
   "id_str" : "260289044297158656",
-  "in_reply_to_user_id" : 892400503,
   "text" : "@drymangobird and would probably handle 12V just fine but I'd rather undervolt than overvolt, since it seems to work.",
   "id" : 260289044297158656,
-  "in_reply_to_status_id" : 260285106583920640,
   "created_at" : "2012-10-22 07:58:38 +0000",
-  "in_reply_to_screen_name" : "0x0acebabe",
-  "in_reply_to_user_id_str" : "892400503",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -2970,16 +2866,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "260285106583920640",
   "geo" : { },
   "id_str" : "260288760548323328",
-  "in_reply_to_user_id" : 892400503,
   "text" : "@drymangobird I know, right? I'm about 90% sure charge base is just an 8.4V regulator and a really simple lipo overcharge protection circuit",
   "id" : 260288760548323328,
-  "in_reply_to_status_id" : 260285106583920640,
   "created_at" : "2012-10-22 07:57:31 +0000",
-  "in_reply_to_screen_name" : "0x0acebabe",
-  "in_reply_to_user_id_str" : "892400503",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -3751,7 +3642,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "indices" : [ 3, 15 ],
       "id_str" : "7670202",
@@ -3778,7 +3669,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 258792317186621441,
     "created_at" : "2012-10-18 04:51:11 +0000",
     "user" : {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "protected" : false,
       "id_str" : "7670202",
@@ -4052,7 +3943,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paisley Wonderland",
+      "name" : "9 Paisley Toes",
       "screen_name" : "DrPaisley",
       "indices" : [ 3, 13 ],
       "id_str" : "362875273",
@@ -4102,7 +3993,7 @@ Grailbird.data.tweets_2012_10 =
     "in_reply_to_screen_name" : "fakedansavage",
     "in_reply_to_user_id_str" : "313091751",
     "user" : {
-      "name" : "Paisley Wonderland",
+      "name" : "9 Paisley Toes",
       "screen_name" : "DrPaisley",
       "protected" : false,
       "id_str" : "362875273",
@@ -4601,7 +4492,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "14195930",
       "id" : 14195930
     }, {
-      "name" : "Literally an eggnog",
+      "name" : "I made a meat dragon",
       "screen_name" : "cjjmiller",
       "indices" : [ 31, 41 ],
       "id_str" : "118506978",
@@ -4629,7 +4520,7 @@ Grailbird.data.tweets_2012_10 =
         "id_str" : "14195930",
         "id" : 14195930
       }, {
-        "name" : "Literally an eggnog",
+        "name" : "I made a meat dragon",
         "screen_name" : "cjjmiller",
         "indices" : [ 17, 27 ],
         "id_str" : "118506978",
@@ -8074,7 +7965,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "62110060",
       "id" : 62110060
     }, {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "indices" : [ 11, 23 ],
       "id_str" : "13857342",
@@ -8146,7 +8037,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "indices" : [ 3, 15 ],
       "id_str" : "13857342",
@@ -8173,7 +8064,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 255111567849422848,
     "created_at" : "2012-10-08 01:05:12 +0000",
     "user" : {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "protected" : false,
       "id_str" : "13857342",
@@ -8318,7 +8209,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ghoules Ius",
+      "name" : "Jules Ius",
       "screen_name" : "Liger",
       "indices" : [ 0, 6 ],
       "id_str" : "14055949",
@@ -8634,7 +8525,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -9158,7 +9049,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "LOLGOP",
       "protected" : false,
       "id_str" : "11866582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520609785419272192\/bRb0e3oe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548604298095886336\/ZmsoghDo_normal.jpeg",
       "id" : 11866582,
       "verified" : false
     }
@@ -10027,7 +9918,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "TheTweetOfGod",
       "protected" : false,
       "id_str" : "204832963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513044464038711297\/UJxbq8I5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549069543088590849\/dfsEuHa1_normal.jpeg",
       "id" : 204832963,
       "verified" : false
     }
@@ -10265,7 +10156,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "fakedansavage",
       "protected" : false,
       "id_str" : "313091751",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530614297270177794\/Lb6kffBJ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545640288958828544\/ntJ1NyaC_normal.jpeg",
       "id" : 313091751,
       "verified" : true
     }
@@ -10509,7 +10400,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BooDoo Goat",
+      "name" : "BooDoo Ram",
       "screen_name" : "BooDooPerson",
       "indices" : [ 3, 16 ],
       "id_str" : "14951588",
@@ -10542,11 +10433,11 @@ Grailbird.data.tweets_2012_10 =
     "id" : 253674036314378241,
     "created_at" : "2012-10-04 01:52:57 +0000",
     "user" : {
-      "name" : "BooDoo Goat",
+      "name" : "BooDoo Ram",
       "screen_name" : "BooDooPerson",
       "protected" : false,
       "id_str" : "14951588",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539491730731438080\/F2n9qTiU_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550864808057135104\/SkZQ-EW3_normal.png",
       "id" : 14951588,
       "verified" : false
     }
@@ -10746,7 +10637,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "prismofstars",
       "protected" : true,
       "id_str" : "162972832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1902795912\/avatary_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549412708378873857\/y7hXW467_normal.png",
       "id" : 162972832,
       "verified" : false
     }
@@ -11318,7 +11209,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "SincerelyTumblr",
       "protected" : false,
       "id_str" : "226690054",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521747542371889152\/GJtG6Epb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550323102823895040\/NdzpaKef_normal.png",
       "id" : 226690054,
       "verified" : false
     }
@@ -11423,7 +11314,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -11450,7 +11341,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 252851764263542785,
     "created_at" : "2012-10-01 19:25:33 +0000",
     "user" : {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",

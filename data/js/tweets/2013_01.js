@@ -616,16 +616,11 @@ Grailbird.data.tweets_2013_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "294676749818671104",
   "geo" : { },
   "id_str" : "294678159171932161",
-  "in_reply_to_user_id" : 892400503,
   "text" : "@drymangobird oh wow... I just did.",
   "id" : 294678159171932161,
-  "in_reply_to_status_id" : 294676749818671104,
   "created_at" : "2013-01-25 05:28:42 +0000",
-  "in_reply_to_screen_name" : "0x0acebabe",
-  "in_reply_to_user_id_str" : "892400503",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -654,16 +649,11 @@ Grailbird.data.tweets_2013_01 =
       "display_url" : "github.com\/rigormotis\/dot\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "294672717272186881",
   "geo" : { },
   "id_str" : "294675123645054976",
-  "in_reply_to_user_id" : 892400503,
   "text" : "@drymangobird somebody found this guy's .zsh_history (tw: CP filenames)  https:\/\/t.co\/FSwlHQjJ search for mplayer",
   "id" : 294675123645054976,
-  "in_reply_to_status_id" : 294672717272186881,
   "created_at" : "2013-01-25 05:16:38 +0000",
-  "in_reply_to_screen_name" : "0x0acebabe",
-  "in_reply_to_user_id_str" : "892400503",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -940,7 +930,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -973,7 +963,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1006,7 +996,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1039,7 +1029,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -1196,7 +1186,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kyle Machulis",
+      "name" : "\u041F\u043E\u043B\u043D\u044B\u0439 \u043F\u0435\u0441\u0435\u0446",
       "screen_name" : "qDot",
       "indices" : [ 0, 5 ],
       "id_str" : "770318",
@@ -1605,7 +1595,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Neon Xmas Lights",
+      "name" : "Lydia Neon",
       "screen_name" : "LifeInNeon",
       "indices" : [ 0, 11 ],
       "id_str" : "264434173",
@@ -2252,63 +2242,6 @@ Grailbird.data.tweets_2013_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Network Jesus",
-      "screen_name" : "networkjesus",
-      "indices" : [ 3, 16 ],
-      "id_str" : "456351938",
-      "id" : 456351938
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "PathToSalvation",
-      "indices" : [ 65, 81 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "291767854494277632",
-  "text" : "RT @networkjesus: Be excellent to each other and party on dudes. #PathToSalvation",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "PathToSalvation",
-        "indices" : [ 47, 63 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "291766364182564864",
-    "text" : "Be excellent to each other and party on dudes. #PathToSalvation",
-    "id" : 291766364182564864,
-    "created_at" : "2013-01-17 04:38:16 +0000",
-    "user" : {
-      "name" : "Network Jesus",
-      "screen_name" : "networkjesus",
-      "protected" : false,
-      "id_str" : "456351938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3217370252\/549eaeddee76129986ca2fa6c7be8781_normal.jpeg",
-      "id" : 456351938,
-      "verified" : false
-    }
-  },
-  "id" : 291767854494277632,
-  "created_at" : "2013-01-17 04:44:11 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2853,7 +2786,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -2880,11 +2813,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 290536545738432516,
     "created_at" : "2013-01-13 19:11:25 +0000",
     "user" : {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492841940874850304\/PJ-vG-WR_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545059500340682752\/xsXubcne_normal.png",
       "id" : 5780032,
       "verified" : false
     }
@@ -3791,7 +3724,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 0, 8 ],
       "id_str" : "5780032",
@@ -4460,7 +4393,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "Pebble",
       "protected" : false,
       "id_str" : "515766653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498221742326681600\/bZ78zXvE_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544569798420480000\/fo7RxyHq_normal.jpeg",
       "id" : 515766653,
       "verified" : false
     }
@@ -5441,7 +5374,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BooDoo Goat",
+      "name" : "BooDoo Ram",
       "screen_name" : "BooDooPerson",
       "indices" : [ 0, 13 ],
       "id_str" : "14951588",
@@ -5872,7 +5805,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "indices" : [ 3, 11 ],
       "id_str" : "5780032",
@@ -5915,11 +5848,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 287685587576688643,
     "created_at" : "2013-01-05 22:22:43 +0000",
     "user" : {
-      "name" : "zinnia wreath whatev",
+      "name" : "All glory to 2015",
       "screen_name" : "ZJemptv",
       "protected" : false,
       "id_str" : "5780032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492841940874850304\/PJ-vG-WR_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545059500340682752\/xsXubcne_normal.png",
       "id" : 5780032,
       "verified" : false
     }
@@ -6671,6 +6604,145 @@ Grailbird.data.tweets_2013_01 =
   "text" : "Ooooooooooooh, rainbow fireworks",
   "id" : 286020240972865537,
   "created_at" : "2013-01-01 08:05:14 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "285980424990232577",
+  "text" : "When people ask me what I've been up to I laugh, block, or look at them incredulously.",
+  "id" : 285980424990232577,
+  "created_at" : "2013-01-01 05:27:01 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "The Rude Pundit",
+      "screen_name" : "rudepundit",
+      "indices" : [ 3, 14 ],
+      "id_str" : "23954775",
+      "id" : 23954775
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "285941366570229760",
+  "text" : "RT @rudepundit: Can we exile to Mars the first asshole who says no one likes the fiscal cliff deal, so it must be good?",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "285941258621448193",
+    "text" : "Can we exile to Mars the first asshole who says no one likes the fiscal cliff deal, so it must be good?",
+    "id" : 285941258621448193,
+    "created_at" : "2013-01-01 02:51:23 +0000",
+    "user" : {
+      "name" : "The Rude Pundit",
+      "screen_name" : "rudepundit",
+      "protected" : false,
+      "id_str" : "23954775",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546996900\/IMG_6109_normal.jpg",
+      "id" : 23954775,
+      "verified" : false
+    }
+  },
+  "id" : 285941366570229760,
+  "created_at" : "2013-01-01 02:51:48 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "285932658138181633",
+  "text" : "Where's my driver's license? Social Security told me 8 weeks and I got the new card in 3 business days. DOL said two weeks... getting close.",
+  "id" : 285932658138181633,
+  "created_at" : "2013-01-01 02:17:12 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "285909292987584513",
+  "text" : "Headlined by Sharon Needles, because, you know, the heroin addiction and AIDS epidemics among queers are hilarious.",
+  "id" : 285909292987584513,
+  "created_at" : "2013-01-01 00:44:22 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "285907305134948353",
+  "text" : "Tonight, Neumos hosts a drag show titled \"Hey Tranny It's Tranny\". Next month, minstrel show \"Hey Nigger It's Nigger\".",
+  "id" : 285907305134948353,
+  "created_at" : "2013-01-01 00:36:28 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

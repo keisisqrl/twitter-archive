@@ -8,203 +8,6 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "241787324411826177",
-  "text" : "11:38 and I'm watching The Empire Strikes Back",
-  "id" : 241787324411826177,
-  "created_at" : "2012-09-01 06:39:24 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241760389874982913",
-  "text" : "Awww, poor Scruffy the walrus",
-  "id" : 241760389874982913,
-  "created_at" : "2012-09-01 04:52:23 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "R. Tyler Croy",
-      "screen_name" : "agentdero",
-      "indices" : [ 3, 13 ],
-      "id_str" : "674593",
-      "id" : 674593
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241659465210929152",
-  "text" : "RT @agentdero: Now am I become Rails, the destroyer of worlds.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/choqok.gnufolks.org\/\" rel=\"nofollow\"\u003EChoqok\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "241632364931973120",
-    "text" : "Now am I become Rails, the destroyer of worlds.",
-    "id" : 241632364931973120,
-    "created_at" : "2012-08-31 20:23:39 +0000",
-    "user" : {
-      "name" : "R. Tyler Croy",
-      "screen_name" : "agentdero",
-      "protected" : false,
-      "id_str" : "674593",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3358921304\/c674374e3fc81c7469c69eeeee5a421a_normal.jpeg",
-      "id" : 674593,
-      "verified" : false
-    }
-  },
-  "id" : 241659465210929152,
-  "created_at" : "2012-08-31 22:11:20 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sir Cumfrence",
-      "screen_name" : "two_pi_r",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14904089",
-      "id" : 14904089
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241633395778678784",
-  "text" : "RT @two_pi_r: also yesterday the Times said the Republicans want to turn the country around. They seem to think that's a good thing; rea ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twmode.sf.net\/\" rel=\"nofollow\"\u003Etwmode\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "241623063215603713",
-    "text" : "also yesterday the Times said the Republicans want to turn the country around. They seem to think that's a good thing; reality disagrees.",
-    "id" : 241623063215603713,
-    "created_at" : "2012-08-31 19:46:42 +0000",
-    "user" : {
-      "name" : "Sir Cumfrence",
-      "screen_name" : "two_pi_r",
-      "protected" : false,
-      "id_str" : "14904089",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525157415\/pi_normal.png",
-      "id" : 14904089,
-      "verified" : false
-    }
-  },
-  "id" : 241633395778678784,
-  "created_at" : "2012-08-31 20:27:45 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sir Cumfrence",
-      "screen_name" : "two_pi_r",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14904089",
-      "id" : 14904089
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241633384600858624",
-  "text" : "RT @two_pi_r: Seattle Times today said that Romney says we deserve better. I don't disagree, but i take issue with Romney's implicit ass ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twmode.sf.net\/\" rel=\"nofollow\"\u003Etwmode\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "241622750567993344",
-    "text" : "Seattle Times today said that Romney says we deserve better. I don't disagree, but i take issue with Romney's implicit assertion there.",
-    "id" : 241622750567993344,
-    "created_at" : "2012-08-31 19:45:27 +0000",
-    "user" : {
-      "name" : "Sir Cumfrence",
-      "screen_name" : "two_pi_r",
-      "protected" : false,
-      "id_str" : "14904089",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525157415\/pi_normal.png",
-      "id" : 14904089,
-      "verified" : false
-    }
-  },
-  "id" : 241633384600858624,
-  "created_at" : "2012-08-31 20:27:42 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "241378737092976640",
   "text" : "Ron Paul George and Ringo 2012",
   "id" : 241378737092976640,
@@ -743,7 +546,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "indices" : [ 3, 15 ],
       "id_str" : "7670202",
@@ -770,7 +573,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 239381496723546113,
     "created_at" : "2012-08-25 15:19:30 +0000",
     "user" : {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "protected" : false,
       "id_str" : "7670202",
@@ -1465,7 +1268,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Linstrom",
+      "name" : "Happy Drew Year",
       "screen_name" : "entonfire",
       "indices" : [ 0, 10 ],
       "id_str" : "14354574",
@@ -1562,7 +1365,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "anamariecox",
       "protected" : false,
       "id_str" : "11640472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514446843426504705\/AZBYW0fV_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542738090771496960\/PYcu0JMP_normal.jpeg",
       "id" : 11640472,
       "verified" : true
     }
@@ -1626,7 +1429,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -1659,7 +1462,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 237412698810368001,
     "created_at" : "2012-08-20 04:56:12 +0000",
     "user" : {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
@@ -1741,6 +1544,67 @@ Grailbird.data.tweets_2012_08 =
   "text" : "New Humble Bundle for Android and it's fucking awesome. Android launch of Uplink and SpaceChem.",
   "id" : 235795113505349633,
   "created_at" : "2012-08-15 17:48:30 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Khan's chew toy",
+      "screen_name" : "nadabakos",
+      "indices" : [ 3, 13 ],
+      "id_str" : "104271823",
+      "id" : 104271823
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 85, 105 ],
+      "url" : "http:\/\/t.co\/h8YgnbZy",
+      "expanded_url" : "http:\/\/www.guardian.co.uk\/commentisfree\/2012\/aug\/14\/privilege-blindness-roots-of-terrorism",
+      "display_url" : "guardian.co.uk\/commentisfree\/\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "235732466348982273",
+  "text" : "RT @nadabakos: How privilege-blindness stops us understanding the roots of terrorism http:\/\/t.co\/h8YgnbZy",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 70, 90 ],
+        "url" : "http:\/\/t.co\/h8YgnbZy",
+        "expanded_url" : "http:\/\/www.guardian.co.uk\/commentisfree\/2012\/aug\/14\/privilege-blindness-roots-of-terrorism",
+        "display_url" : "guardian.co.uk\/commentisfree\/\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "235606229379055616",
+    "text" : "How privilege-blindness stops us understanding the roots of terrorism http:\/\/t.co\/h8YgnbZy",
+    "id" : 235606229379055616,
+    "created_at" : "2012-08-15 05:17:57 +0000",
+    "user" : {
+      "name" : "Khan's chew toy",
+      "screen_name" : "nadabakos",
+      "protected" : false,
+      "id_str" : "104271823",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551059003887742976\/TmifdEDH_normal.jpeg",
+      "id" : 104271823,
+      "verified" : false
+    }
+  },
+  "id" : 235732466348982273,
+  "created_at" : "2012-08-15 13:39:34 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
@@ -2067,7 +1931,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "radiomaru",
       "protected" : false,
       "id_str" : "15279452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478010762783244288\/7u6yVbjo_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548012356887142400\/yhecjIRs_normal.jpeg",
       "id" : 15279452,
       "verified" : true
     }
@@ -2997,7 +2861,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris\u202EelbmaG \u202D",
+      "name" : "Chris ",
       "screen_name" : "Fugiman",
       "indices" : [ 3, 11 ],
       "id_str" : "18919799",
@@ -3036,11 +2900,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 232365293635252224,
     "created_at" : "2012-08-06 06:39:37 +0000",
     "user" : {
-      "name" : "Chris\u202EelbmaG \u202D",
+      "name" : "Chris ",
       "screen_name" : "Fugiman",
       "protected" : false,
       "id_str" : "18919799",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/524855486797983746\/x4u5gVZI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542851815180488704\/qbbgX-V__normal.jpeg",
       "id" : 18919799,
       "verified" : false
     }
@@ -3151,7 +3015,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -3245,7 +3109,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -3565,7 +3429,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -3642,7 +3506,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WW2 Tweets from 1942",
+      "name" : "WW2 Tweets from 1943",
       "screen_name" : "RealTimeWWII",
       "indices" : [ 3, 16 ],
       "id_str" : "364488011",
@@ -3735,7 +3599,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 230673630504300545,
     "created_at" : "2012-08-01 14:37:34 +0000",
     "user" : {
-      "name" : "WW2 Tweets from 1942",
+      "name" : "WW2 Tweets from 1943",
       "screen_name" : "RealTimeWWII",
       "protected" : false,
       "id_str" : "364488011",
@@ -3793,6 +3657,90 @@ Grailbird.data.tweets_2012_08 =
   "text" : "Penis \u2013 the main religion in the adult game, Red Light Sex-House. #wikipedia",
   "id" : 230559557166964737,
   "created_at" : "2012-08-01 07:04:16 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrew Kane",
+      "screen_name" : "codemastermm",
+      "indices" : [ 0, 13 ],
+      "id_str" : "15375238",
+      "id" : 15375238
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "230463888108421120",
+  "geo" : { },
+  "id_str" : "230465356211318786",
+  "in_reply_to_user_id" : 15375238,
+  "text" : "@codemastermm new meaning to \"left join\"",
+  "id" : 230465356211318786,
+  "in_reply_to_status_id" : 230463888108421120,
+  "created_at" : "2012-08-01 00:49:57 +0000",
+  "in_reply_to_screen_name" : "codemastermm",
+  "in_reply_to_user_id_str" : "15375238",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shinsters",
+      "screen_name" : "shinaku",
+      "indices" : [ 3, 11 ],
+      "id_str" : "14355014",
+      "id" : 14355014
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "230427294156603392",
+  "text" : "RT @shinaku: I've never really been a fan of Sasha Baron Cohen, but his new character 'Mitt Romney' is *hilarious*.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "230288985719709696",
+    "text" : "I've never really been a fan of Sasha Baron Cohen, but his new character 'Mitt Romney' is *hilarious*.",
+    "id" : 230288985719709696,
+    "created_at" : "2012-07-31 13:09:07 +0000",
+    "user" : {
+      "name" : "Shinsters",
+      "screen_name" : "shinaku",
+      "protected" : false,
+      "id_str" : "14355014",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541379248376664064\/18nCT93f_normal.jpeg",
+      "id" : 14355014,
+      "verified" : false
+    }
+  },
+  "id" : 230427294156603392,
+  "created_at" : "2012-07-31 22:18:42 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

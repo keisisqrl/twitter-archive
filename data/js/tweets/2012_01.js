@@ -1,93 +1,5 @@
 Grailbird.data.tweets_2012_01 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "164573347827548160",
-  "text" : "noted that's based on about 2 minutes of new looney tunes but it was so bad i don't want to give it another chance",
-  "id" : 164573347827548160,
-  "created_at" : "2012-02-01 04:58:38 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "164573279259070465",
-  "text" : "fuck, what happened to looney tunes. this new stuff isn't funny, it's just horrible and lacking subtlety",
-  "id" : 164573279259070465,
-  "created_at" : "2012-02-01 04:58:22 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "164457183772278785",
-  "text" : "Spokane office has a Keurig. I kinda want one now because it's kinda nifty.",
-  "id" : 164457183772278785,
-  "created_at" : "2012-01-31 21:17:02 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "164410883030794240",
-  "text" : "somafm drone zone makes a really good backdrop for training videos",
-  "id" : 164410883030794240,
-  "created_at" : "2012-01-31 18:13:03 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -456,7 +368,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "23845798",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512292916450963456\/idwOm_ej_normal.jpeg",
       "id" : 23845798,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 163154112760922112,
@@ -3247,7 +3159,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "indices" : [ 3, 15 ],
       "id_str" : "7670202",
@@ -3274,7 +3186,7 @@ Grailbird.data.tweets_2012_01 =
     "id" : 157343583500910593,
     "created_at" : "2012-01-12 06:10:08 +0000",
     "user" : {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "protected" : false,
       "id_str" : "7670202",
@@ -3902,7 +3814,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1828254293\/coffeepot-twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546430717585285120\/8QiwFtGZ_normal.jpeg",
       "id" : 643653,
       "verified" : false
     }
@@ -4218,7 +4130,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1828254293\/coffeepot-twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546430717585285120\/8QiwFtGZ_normal.jpeg",
       "id" : 643653,
       "verified" : false
     }
@@ -4269,7 +4181,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1828254293\/coffeepot-twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546430717585285120\/8QiwFtGZ_normal.jpeg",
       "id" : 643653,
       "verified" : false
     }
@@ -5426,6 +5338,255 @@ Grailbird.data.tweets_2012_01 =
   "text" : "Happy new year. Make it a good one.",
   "id" : 153388189749493761,
   "created_at" : "2012-01-01 08:12:48 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "crypticproclamationsofpersonalnonsense",
+      "indices" : [ 0, 39 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153376406435401729",
+  "text" : "#crypticproclamationsofpersonalnonsense",
+  "id" : 153376406435401729,
+  "created_at" : "2012-01-01 07:25:59 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153376234892562433",
+  "text" : "New year always seemed like shitty motivation to get things done. I'll drink to finding better motivation.",
+  "id" : 153376234892562433,
+  "created_at" : "2012-01-01 07:25:18 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Segmentation Fox",
+      "screen_name" : "foxboxpdx",
+      "indices" : [ 3, 13 ],
+      "id_str" : "239139507",
+      "id" : 239139507
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "scienceguy",
+      "indices" : [ 115, 126 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153375376490500096",
+  "text" : "RT @foxboxpdx: I keep seeing 'NYE Party' and thinking 'Awesome, everybody is celebrating how awesome Bill Nye is!' #scienceguy",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "scienceguy",
+        "indices" : [ 100, 111 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "153354145452142592",
+    "text" : "I keep seeing 'NYE Party' and thinking 'Awesome, everybody is celebrating how awesome Bill Nye is!' #scienceguy",
+    "id" : 153354145452142592,
+    "created_at" : "2012-01-01 05:57:32 +0000",
+    "user" : {
+      "name" : "Segmentation Fox",
+      "screen_name" : "foxboxpdx",
+      "protected" : false,
+      "id_str" : "239139507",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451461691348242432\/8xI1RkMZ_normal.png",
+      "id" : 239139507,
+      "verified" : false
+    }
+  },
+  "id" : 153375376490500096,
+  "created_at" : "2012-01-01 07:21:53 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Occupy Wall Street",
+      "screen_name" : "OccupyWallSt",
+      "indices" : [ 11, 24 ],
+      "id_str" : "335369838",
+      "id" : 335369838
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153343597322842112",
+  "text" : "Apparently @OccupyWallSt has their own idea to ring in the new year. Rock on.",
+  "id" : 153343597322842112,
+  "created_at" : "2012-01-01 05:15:37 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joe Hill",
+      "screen_name" : "joe_hill",
+      "indices" : [ 3, 12 ],
+      "id_str" : "18605897",
+      "id" : 18605897
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153341907236433920",
+  "text" : "RT @joe_hill: 2011 would like to thank her agent, her therapist, her lawyer who was always there for her even in the bad times & all her ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "153303681922646017",
+    "text" : "2011 would like to thank her agent, her therapist, her lawyer who was always there for her even in the bad times & all her fans.",
+    "id" : 153303681922646017,
+    "created_at" : "2012-01-01 02:37:00 +0000",
+    "user" : {
+      "name" : "Joe Hill",
+      "screen_name" : "joe_hill",
+      "protected" : false,
+      "id_str" : "18605897",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489105859926966272\/azM-5XTv_normal.jpeg",
+      "id" : 18605897,
+      "verified" : true
+    }
+  },
+  "id" : 153341907236433920,
+  "created_at" : "2012-01-01 05:08:54 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153252442769850368",
+  "text" : "Jamming does not work like that, BS-75 \u0CA0_\u0CA0",
+  "id" : 153252442769850368,
+  "created_at" : "2011-12-31 23:13:24 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153220054736052224",
+  "text" : "in other news the sun is really hot guys i mean like so hot",
+  "id" : 153220054736052224,
+  "created_at" : "2011-12-31 21:04:42 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153219807058206721",
+  "text" : "today on r\/atheism: the UAE is a theocratic hellhole with no sane concept of human rights. News at 11.",
+  "id" : 153219807058206721,
+  "created_at" : "2011-12-31 21:03:43 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

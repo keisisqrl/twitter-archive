@@ -462,7 +462,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 251204895246540800,
     "created_at" : "2012-09-27 06:21:28 +0000",
     "user" : {
-      "name" : "poopdeck the halls",
+      "name" : "THE P STANDS FOR POO",
       "screen_name" : "PDOGGYBALLS",
       "protected" : false,
       "id_str" : "25774471",
@@ -486,7 +486,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 3, 12 ],
       "id_str" : "96906330",
@@ -513,7 +513,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 251168219421876224,
     "created_at" : "2012-09-27 03:55:44 +0000",
     "user" : {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "protected" : false,
       "id_str" : "96906330",
@@ -1111,7 +1111,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 248842668208185345,
     "created_at" : "2012-09-20 17:54:50 +0000",
     "user" : {
-      "name" : "Rescue Cat, Squad 30",
+      "name" : "Rescue Cat, Squad 31",
       "screen_name" : "catinahelmet",
       "protected" : false,
       "id_str" : "16819090",
@@ -1207,7 +1207,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 248842567117070337,
     "created_at" : "2012-09-20 17:54:25 +0000",
     "user" : {
-      "name" : "Rescue Cat, Squad 30",
+      "name" : "Rescue Cat, Squad 31",
       "screen_name" : "catinahelmet",
       "protected" : false,
       "id_str" : "16819090",
@@ -2013,7 +2013,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247527825844875265,
     "created_at" : "2012-09-17 02:50:07 +0000",
     "user" : {
-      "name" : "Tim Chevalier",
+      "name" : "Move slow\/fix things",
       "screen_name" : "fatneckbeardguy",
       "protected" : false,
       "id_str" : "165453873",
@@ -2821,7 +2821,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "F0reverBr0ken",
       "protected" : false,
       "id_str" : "164138622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/535244076107304960\/LLtg6QvJ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547961667251109888\/EcTupubj_normal.jpeg",
       "id" : 164138622,
       "verified" : false
     }
@@ -2992,7 +2992,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Kluwe",
+      "name" : "Chris Warbutts",
       "screen_name" : "ChrisWarcraft",
       "indices" : [ 3, 17 ],
       "id_str" : "175378976",
@@ -3047,7 +3047,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 244141743174467585,
     "created_at" : "2012-09-07 18:35:02 +0000",
     "user" : {
-      "name" : "Chris Kluwe",
+      "name" : "Chris Warbutts",
       "screen_name" : "ChrisWarcraft",
       "protected" : false,
       "id_str" : "175378976",
@@ -4162,7 +4162,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bird deluxe supreme",
+      "name" : "okay, cap'n jay",
       "screen_name" : "FlakeJay",
       "indices" : [ 0, 9 ],
       "id_str" : "96906330",
@@ -4238,13 +4238,7 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Karl S. Green",
-      "screen_name" : "KarlSGreen",
-      "indices" : [ 3, 14 ],
-      "id_str" : "184450162",
-      "id" : 184450162
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4266,8 +4260,8 @@ Grailbird.data.tweets_2012_09 =
     "id" : 241861636502216704,
     "created_at" : "2012-09-01 11:34:42 +0000",
     "user" : {
-      "name" : "Karl S. Green",
-      "screen_name" : "KarlSGreen",
+      "name" : "Sophie Green",
+      "screen_name" : "SophieKGreen",
       "protected" : false,
       "id_str" : "184450162",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1519396480\/KSG2_normal.jpg",
@@ -4328,6 +4322,203 @@ Grailbird.data.tweets_2012_09 =
   },
   "id" : 241915005090553856,
   "created_at" : "2012-09-01 15:06:46 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241787324411826177",
+  "text" : "11:38 and I'm watching The Empire Strikes Back",
+  "id" : 241787324411826177,
+  "created_at" : "2012-09-01 06:39:24 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241760389874982913",
+  "text" : "Awww, poor Scruffy the walrus",
+  "id" : 241760389874982913,
+  "created_at" : "2012-09-01 04:52:23 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "R. Tyler Croy",
+      "screen_name" : "agentdero",
+      "indices" : [ 3, 13 ],
+      "id_str" : "674593",
+      "id" : 674593
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241659465210929152",
+  "text" : "RT @agentdero: Now am I become Rails, the destroyer of worlds.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/choqok.gnufolks.org\/\" rel=\"nofollow\"\u003EChoqok\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "241632364931973120",
+    "text" : "Now am I become Rails, the destroyer of worlds.",
+    "id" : 241632364931973120,
+    "created_at" : "2012-08-31 20:23:39 +0000",
+    "user" : {
+      "name" : "R. Tyler Croy",
+      "screen_name" : "agentdero",
+      "protected" : false,
+      "id_str" : "674593",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3358921304\/c674374e3fc81c7469c69eeeee5a421a_normal.jpeg",
+      "id" : 674593,
+      "verified" : false
+    }
+  },
+  "id" : 241659465210929152,
+  "created_at" : "2012-08-31 22:11:20 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sir Cumfrence",
+      "screen_name" : "two_pi_r",
+      "indices" : [ 3, 12 ],
+      "id_str" : "14904089",
+      "id" : 14904089
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241633395778678784",
+  "text" : "RT @two_pi_r: also yesterday the Times said the Republicans want to turn the country around. They seem to think that's a good thing; rea ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twmode.sf.net\/\" rel=\"nofollow\"\u003Etwmode\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "241623063215603713",
+    "text" : "also yesterday the Times said the Republicans want to turn the country around. They seem to think that's a good thing; reality disagrees.",
+    "id" : 241623063215603713,
+    "created_at" : "2012-08-31 19:46:42 +0000",
+    "user" : {
+      "name" : "Sir Cumfrence",
+      "screen_name" : "two_pi_r",
+      "protected" : false,
+      "id_str" : "14904089",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525157415\/pi_normal.png",
+      "id" : 14904089,
+      "verified" : false
+    }
+  },
+  "id" : 241633395778678784,
+  "created_at" : "2012-08-31 20:27:45 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.floodgap.com\/software\/ttytter\/\" rel=\"nofollow\"\u003ETTYtter\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sir Cumfrence",
+      "screen_name" : "two_pi_r",
+      "indices" : [ 3, 12 ],
+      "id_str" : "14904089",
+      "id" : 14904089
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241633384600858624",
+  "text" : "RT @two_pi_r: Seattle Times today said that Romney says we deserve better. I don't disagree, but i take issue with Romney's implicit ass ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twmode.sf.net\/\" rel=\"nofollow\"\u003Etwmode\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "241622750567993344",
+    "text" : "Seattle Times today said that Romney says we deserve better. I don't disagree, but i take issue with Romney's implicit assertion there.",
+    "id" : 241622750567993344,
+    "created_at" : "2012-08-31 19:45:27 +0000",
+    "user" : {
+      "name" : "Sir Cumfrence",
+      "screen_name" : "two_pi_r",
+      "protected" : false,
+      "id_str" : "14904089",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525157415\/pi_normal.png",
+      "id" : 14904089,
+      "verified" : false
+    }
+  },
+  "id" : 241633384600858624,
+  "created_at" : "2012-08-31 20:27:42 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

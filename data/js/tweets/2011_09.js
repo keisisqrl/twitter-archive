@@ -2,111 +2,6 @@ Grailbird.data.tweets_2011_09 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "119858740458557440",
-  "text" : "Social networks: because the Internet isn't just your exocortex, it's your exomonkeysphere.",
-  "id" : 119858740458557440,
-  "created_at" : "2011-09-30 19:38:45 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "119854989802881024",
-  "text" : "reddit (the company) is talking about redditcon. ...huh. I think I would have to be at that.",
-  "id" : 119854989802881024,
-  "created_at" : "2011-09-30 19:23:51 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mr. Trolololololo",
-      "screen_name" : "trolololololo",
-      "indices" : [ 3, 17 ],
-      "id_str" : "119928553",
-      "id" : 119928553
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 40, 60 ],
-      "url" : "http:\/\/t.co\/TVCrVGMG",
-      "expanded_url" : "http:\/\/bit.ly\/roBkaI",
-      "display_url" : "bit.ly\/roBkaI"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "119798432692051968",
-  "text" : "RT @trolololololo: TROLOLOLOLOOOOOOOOOO http:\/\/t.co\/TVCrVGMG",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 21, 41 ],
-        "url" : "http:\/\/t.co\/TVCrVGMG",
-        "expanded_url" : "http:\/\/bit.ly\/roBkaI",
-        "display_url" : "bit.ly\/roBkaI"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "119797887143120897",
-    "text" : "TROLOLOLOLOOOOOOOOOO http:\/\/t.co\/TVCrVGMG",
-    "id" : 119797887143120897,
-    "created_at" : "2011-09-30 15:36:56 +0000",
-    "user" : {
-      "name" : "Mr. Trolololololo",
-      "screen_name" : "trolololololo",
-      "protected" : false,
-      "id_str" : "119928553",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732877080\/Imagem1_normal.png",
-      "id" : 119928553,
-      "verified" : false
-    }
-  },
-  "id" : 119798432692051968,
-  "created_at" : "2011-09-30 15:39:06 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "awesomerobot",
       "screen_name" : "AwesomeRobot",
@@ -447,7 +342,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "20563182",
       "id" : 20563182
     }, {
-      "name" : "Apple Jacques",
+      "name" : "Jacques Frost",
       "screen_name" : "jephjacques",
       "indices" : [ 14, 26 ],
       "id_str" : "7670202",
@@ -1140,7 +1035,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Allison",
+      "name" : "Allie",
       "screen_name" : "reiley",
       "indices" : [ 3, 10 ],
       "id_str" : "18475637",
@@ -1184,11 +1079,11 @@ Grailbird.data.tweets_2011_09 =
     "in_reply_to_screen_name" : "dresdencodak",
     "in_reply_to_user_id_str" : "17143528",
     "user" : {
-      "name" : "Allison",
+      "name" : "Allie",
       "screen_name" : "reiley",
       "protected" : false,
       "id_str" : "18475637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539928057696374785\/yJMM3bZm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549039622752202752\/AAi8dEGc_normal.png",
       "id" : 18475637,
       "verified" : false
     }
@@ -1869,7 +1764,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benbo Baggins",
+      "name" : "Ben Kuchera",
       "screen_name" : "BenKuchera",
       "indices" : [ 3, 14 ],
       "id_str" : "14575846",
@@ -1906,11 +1801,11 @@ Grailbird.data.tweets_2011_09 =
     "id" : 115315083957116928,
     "created_at" : "2011-09-18 06:43:53 +0000",
     "user" : {
-      "name" : "Benbo Baggins",
+      "name" : "Ben Kuchera",
       "screen_name" : "BenKuchera",
       "protected" : false,
       "id_str" : "14575846",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538225860482842624\/1ZGdtVJ0_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547652876462346241\/GLxjgDpP_normal.png",
       "id" : 14575846,
       "verified" : true
     }
@@ -2151,7 +2046,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "AnneBillson",
       "protected" : false,
       "id_str" : "42499983",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/414482013869973504\/oeEzohiN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550779834045956096\/mR8UiIOH_normal.jpeg",
       "id" : 42499983,
       "verified" : false
     }
@@ -2279,7 +2174,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "apelad",
       "protected" : false,
       "id_str" : "6688272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541008902091833344\/LdPrCAGJ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550186314247598080\/XWbFXEut_normal.jpeg",
       "id" : 6688272,
       "verified" : false
     }
@@ -2913,7 +2808,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534851779511349248\/VvUqbYoN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545415835675033600\/gDuSi44o_normal.jpeg",
       "id" : 14246782,
       "verified" : false
     }
@@ -3666,6 +3561,127 @@ Grailbird.data.tweets_2011_09 =
   "text" : "Mars Hill is expanding aggressively, apparently. That's horrifyingly unfortunate.",
   "id" : 109377529302876160,
   "created_at" : "2011-09-01 21:30:09 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "109130954035036160",
+  "text" : "That's enough rosin smoke inhaled for tonight. Tomorrow I buy some 60\/40 solder. This lead-free silver stuff is bullshit.",
+  "id" : 109130954035036160,
+  "created_at" : "2011-09-01 05:10:21 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrew Kane",
+      "screen_name" : "codemastermm",
+      "indices" : [ 0, 13 ],
+      "id_str" : "15375238",
+      "id" : 15375238
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "109095524233261056",
+  "geo" : { },
+  "id_str" : "109095996792913921",
+  "in_reply_to_user_id" : 15375238,
+  "text" : "@codemastermm embedded hardware! it sounded like they see it a lot, support figured it out as soon as I gave them the error code.",
+  "id" : 109095996792913921,
+  "in_reply_to_status_id" : 109095524233261056,
+  "created_at" : "2011-09-01 02:51:27 +0000",
+  "in_reply_to_screen_name" : "codemastermm",
+  "in_reply_to_user_id_str" : "15375238",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "109095446521192448",
+  "text" : "Turns out ethernet needs to be connected before power. Weird.",
+  "id" : 109095446521192448,
+  "created_at" : "2011-09-01 02:49:16 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "109093873237762048",
+  "text" : "Whelp hooked up my OnLive console and... doesn't work. Awesome.",
+  "id" : 109093873237762048,
+  "created_at" : "2011-09-01 02:43:00 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "108962103867609090",
+  "text" : "Decided to buy a Blu-Ray player. Debating just getting a PS3. Not all that interested in any exclusives but flower was made to be a trip toy",
+  "id" : 108962103867609090,
+  "created_at" : "2011-08-31 17:59:24 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",

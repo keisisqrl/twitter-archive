@@ -1,56 +1,5 @@
 Grailbird.data.tweets_2010_07 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Cheap Ass Gamer",
-      "screen_name" : "videogamedeals",
-      "indices" : [ 3, 18 ],
-      "id_str" : "19631395",
-      "id" : 19631395
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20058685992",
-  "text" : "RT @videogamedeals: Beatles: Rock Band (360\/PS3\/Wii) $19.99 or less - Amazon DotD - The 360 version is $16.99 via 3rd party merchant htt ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "20056931115",
-    "text" : "Beatles: Rock Band (360\/PS3\/Wii) $19.99 or less - Amazon DotD - The 360 version is $16.99 via 3rd party merchant http:\/\/ow.ly\/2josw",
-    "id" : 20056931115,
-    "created_at" : "2010-08-01 11:46:04 +0000",
-    "user" : {
-      "name" : "Cheap Ass Gamer",
-      "screen_name" : "videogamedeals",
-      "protected" : false,
-      "id_str" : "19631395",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/73653541\/cag_normal.png",
-      "id" : 19631395,
-      "verified" : true
-    }
-  },
-  "id" : 20058685992,
-  "created_at" : "2010-08-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -485,7 +434,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "14202934",
       "id" : 14202934
     }, {
-      "name" : "Ghoules Ius",
+      "name" : "Jules Ius",
       "screen_name" : "Liger",
       "indices" : [ 27, 33 ],
       "id_str" : "14055949",
@@ -753,9 +702,15 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "James Grimlee",
+      "screen_name" : "JamesGrimlee",
+      "indices" : [ 3, 16 ],
+      "id_str" : "30311550",
+      "id" : 30311550
+    }, {
       "name" : "Oni Press",
       "screen_name" : "OniPress",
-      "indices" : [ 78, 79 ],
+      "indices" : [ 18, 27 ],
       "id_str" : "14217624",
       "id" : 14217624
     } ],
@@ -791,11 +746,11 @@ Grailbird.data.tweets_2010_07 =
     "in_reply_to_screen_name" : "OniPress",
     "in_reply_to_user_id_str" : "14217624",
     "user" : {
-      "name" : "James Brothwell",
-      "screen_name" : "JamesBrothwell",
+      "name" : "James Grimlee",
+      "screen_name" : "JamesGrimlee",
       "protected" : false,
       "id_str" : "30311550",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542111439050117121\/s1u9eiZP_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547639853853073408\/55Yvzsoa_normal.png",
       "id" : 30311550,
       "verified" : false
     }

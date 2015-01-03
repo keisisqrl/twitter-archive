@@ -2,111 +2,6 @@ Grailbird.data.tweets_2010_12 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "happynewyear",
-      "indices" : [ 70, 83 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21078649448964096",
-  "text" : "Free tow home courtesy of AAA to combat drunk driving: 1-800-222-4357 #happynewyear",
-  "id" : 21078649448964096,
-  "created_at" : "2011-01-01 05:41:56 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21036438237749248",
-  "text" : "Anyone doing anything interesting for new year's eve? Seems Haethaus and AFK are both a bit short on space.",
-  "id" : 21036438237749248,
-  "created_at" : "2011-01-01 02:54:12 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jarrod Lombardo ",
-      "screen_name" : "jaberwocky",
-      "indices" : [ 0, 11 ],
-      "id_str" : "14505832",
-      "id" : 14505832
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "20940950813548544",
-  "geo" : { },
-  "id_str" : "20969953972723713",
-  "in_reply_to_user_id" : 14505832,
-  "text" : "@jaberwocky I'm there",
-  "id" : 20969953972723713,
-  "in_reply_to_status_id" : 20940950813548544,
-  "created_at" : "2010-12-31 22:30:01 +0000",
-  "in_reply_to_screen_name" : "jaberwocky",
-  "in_reply_to_user_id_str" : "14505832",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "breakfastofchampions",
-      "indices" : [ 86, 107 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20883831502405633",
-  "text" : "Reconstituted latte, corn dogs, and slush of what used to be supercooled day-old soda #breakfastofchampions",
-  "id" : 20883831502405633,
-  "created_at" : "2010-12-31 16:47:48 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Markus Persson",
       "screen_name" : "notch",
@@ -3345,7 +3240,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jillian C. York",
+      "name" : "Muslim Bob Geldof",
       "screen_name" : "jilliancyork",
       "indices" : [ 3, 16 ],
       "id_str" : "14048901",
@@ -3378,11 +3273,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 12166207591424000,
     "created_at" : "2010-12-07 15:27:04 +0000",
     "user" : {
-      "name" : "Jillian C. York",
+      "name" : "Muslim Bob Geldof",
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538878867268595712\/WMZmQk73_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549553968578179073\/hXhdO2Gw_normal.jpeg",
       "id" : 14048901,
       "verified" : false
     }
@@ -3771,7 +3666,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twirssi.com\" rel=\"nofollow\"\u003ETwirssi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ghoules Ius",
+      "name" : "Jules Ius",
       "screen_name" : "Liger",
       "indices" : [ 1, 7 ],
       "id_str" : "14055949",

@@ -2,50 +2,6 @@ Grailbird.data.tweets_2011_11 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141996077246201856",
-  "text" : "Today at [redacted]: \"Can I get a Mezcal?\" \"The wine?\" \"...no.\"",
-  "id" : 141996077246201856,
-  "created_at" : "2011-11-30 21:44:37 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "141950213689585664",
-  "text" : "Hey Google where's the \"compact\" setting for this godawful header bar?",
-  "id" : 141950213689585664,
-  "created_at" : "2011-11-30 18:42:22 +0000",
-  "user" : {
-    "name" : "Amy",
-    "screen_name" : "netcrusher88",
-    "protected" : false,
-    "id_str" : "1484341",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
-    "id" : 1484341,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Wil Wheaton",
       "screen_name" : "wilw",
@@ -192,7 +148,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Linstrom",
+      "name" : "Happy Drew Year",
       "screen_name" : "entonfire",
       "indices" : [ 3, 13 ],
       "id_str" : "14354574",
@@ -219,7 +175,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 141698022869442560,
     "created_at" : "2011-11-30 02:00:15 +0000",
     "user" : {
-      "name" : "Andrew Linstrom",
+      "name" : "Happy Drew Year",
       "screen_name" : "entonfire",
       "protected" : false,
       "id_str" : "14354574",
@@ -1213,7 +1169,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "JetBlue",
       "protected" : false,
       "id_str" : "6449282",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000544221907\/29fdb7f3b2141514d47c27c078a6d41d_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549588540552511488\/_u6w7zXG_normal.png",
       "id" : 6449282,
       "verified" : true
     }
@@ -1233,7 +1189,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pointy claus",
+      "name" : "pointy new year ",
       "screen_name" : "OFFICIALpizza",
       "indices" : [ 3, 17 ],
       "id_str" : "45758717",
@@ -1266,11 +1222,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 137654337546625024,
     "created_at" : "2011-11-18 22:12:06 +0000",
     "user" : {
-      "name" : "pointy claus",
+      "name" : "pointy new year ",
       "screen_name" : "OFFICIALpizza",
       "protected" : false,
       "id_str" : "45758717",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528649768784781312\/AGEtMMv6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548540880978575361\/Ekwl20yB_normal.png",
       "id" : 45758717,
       "verified" : false
     }
@@ -2073,7 +2029,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Randi Harper",
+      "name" : "rlhbutts",
       "screen_name" : "freebsdgirl",
       "indices" : [ 0, 12 ],
       "id_str" : "13857342",
@@ -3119,7 +3075,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "LOLGOP",
       "protected" : false,
       "id_str" : "11866582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520609785419272192\/bRb0e3oe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548604298095886336\/ZmsoghDo_normal.jpeg",
       "id" : 11866582,
       "verified" : false
     }
@@ -4118,6 +4074,274 @@ Grailbird.data.tweets_2011_11 =
   "text" : "Why do people have such a hard time understanding SSL? At a high level it's a stupidly simple concept.",
   "id" : 131404239837724672,
   "created_at" : "2011-11-01 16:16:26 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131244918092988417",
+  "text" : "Dammit Internet stop trying to sell me things.",
+  "id" : 131244918092988417,
+  "created_at" : "2011-11-01 05:43:21 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Archie McPhee Store",
+      "screen_name" : "archiestore",
+      "indices" : [ 3, 15 ],
+      "id_str" : "107550805",
+      "id" : 107550805
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "pirates",
+      "indices" : [ 106, 114 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131221760367525889",
+  "text" : "RT @archiestore: We all talked it over, and we'd rather be sent to David Bowie's Locker than Davy Jones'. #pirates",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.twhirl.org\" rel=\"nofollow\"\u003ESeesmic twhirl\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "pirates",
+        "indices" : [ 89, 97 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "131195041279520769",
+    "text" : "We all talked it over, and we'd rather be sent to David Bowie's Locker than Davy Jones'. #pirates",
+    "id" : 131195041279520769,
+    "created_at" : "2011-11-01 02:25:09 +0000",
+    "user" : {
+      "name" : "Archie McPhee Store",
+      "screen_name" : "archiestore",
+      "protected" : false,
+      "id_str" : "107550805",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1755636363\/twitter_normal.jpg",
+      "id" : 107550805,
+      "verified" : false
+    }
+  },
+  "id" : 131221760367525889,
+  "created_at" : "2011-11-01 04:11:20 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131212856132775936",
+  "text" : "Briefly pondering rules for strip Bang! Sherrif gets a hat.",
+  "id" : 131212856132775936,
+  "created_at" : "2011-11-01 03:35:57 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131208887855624195",
+  "text" : "There are some cool Android apps that would never make it on to the Apple Appstore.",
+  "id" : 131208887855624195,
+  "created_at" : "2011-11-01 03:20:11 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131164271466921984",
+  "text" : "Why the hell do I need to explain the difference between a route and an ARP to you, network guy, and why am I fixing your ASA?",
+  "id" : 131164271466921984,
+  "created_at" : "2011-11-01 00:22:53 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131126654360748032",
+  "text" : "I get minimalism but the new Google Reader is just... bleh. Bland.",
+  "id" : 131126654360748032,
+  "created_at" : "2011-10-31 21:53:25 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131116930349285378",
+  "text" : "UNESCO now recognizes Palestine with full membership. Nifty. US still likely to stick their colossal dick in the potatoes for GA membership.",
+  "id" : 131116930349285378,
+  "created_at" : "2011-10-31 21:14:46 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131105936273182720",
+  "text" : "Ow, my shoulders.",
+  "id" : 131105936273182720,
+  "created_at" : "2011-10-31 20:31:05 +0000",
+  "user" : {
+    "name" : "Amy",
+    "screen_name" : "netcrusher88",
+    "protected" : false,
+    "id_str" : "1484341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000476218722\/a2c8a42b936d902f2ec8bdfa8ef419df_normal.png",
+    "id" : 1484341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u263Ans\u263B",
+      "screen_name" : "naoshim140",
+      "indices" : [ 3, 14 ],
+      "id_str" : "238052012",
+      "id" : 238052012
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "halloween",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131050356636524544",
+  "text" : "RT @naoshim140: \u2509\u2571\u2594\u2594\u2572\u2582\u258F\u2503\u2595\u2582\u2571\u2594\u2594\u2572\u2509\n\u2571\u250B\u2571\u2572\u250B\u250B\u250B\u250B\u250B\u250B\u2571\u2572\u250B\u250B\u2572\n\u258F\u2571\u254B\u254B\u2572\u250B\u2571\u2572\u250B\u2571\u254B\u254B\u2572\u250B\u2595\n\u258F\u2594\u2594\u2594\u2594\u2571\u254B\u254B\u2572\u2594\u2594\u2594\u2594\u250B\u2595\n\u258F\u250F\u256E\u250B\u250B\u2594\u2594\u2594\u2594\u250B\u250B\u256D\u2513\u250B\u2595\n\u258F\u2503\u2570\u2513\u250B\u250F\u2501\u2501\u2513\u250B\u250F\u256F\u2503\u250B\u2595\n\u2572\u2517\u256E\u2517\u2501\u251B\u250F\u2513\u2517\u2501\u251B\u256D\u251B\u250B\u2571\n\u2509\u2572\u2570\u2501\u2501\u2501\u251B\u2517 ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "halloween",
+        "indices" : [ 128, 138 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "130580522274525185",
+    "text" : "\u2509\u2571\u2594\u2594\u2572\u2582\u258F\u2503\u2595\u2582\u2571\u2594\u2594\u2572\u2509\n\u2571\u250B\u2571\u2572\u250B\u250B\u250B\u250B\u250B\u250B\u2571\u2572\u250B\u250B\u2572\n\u258F\u2571\u254B\u254B\u2572\u250B\u2571\u2572\u250B\u2571\u254B\u254B\u2572\u250B\u2595\n\u258F\u2594\u2594\u2594\u2594\u2571\u254B\u254B\u2572\u2594\u2594\u2594\u2594\u250B\u2595\n\u258F\u250F\u256E\u250B\u250B\u2594\u2594\u2594\u2594\u250B\u250B\u256D\u2513\u250B\u2595\n\u258F\u2503\u2570\u2513\u250B\u250F\u2501\u2501\u2513\u250B\u250F\u256F\u2503\u250B\u2595\n\u2572\u2517\u256E\u2517\u2501\u251B\u250F\u2513\u2517\u2501\u251B\u256D\u251B\u250B\u2571\n\u2509\u2572\u2570\u2501\u2501\u2501\u251B\u2517\u2501\u2501\u2501\u256F\u250B\u2571\u2509\n#halloween",
+    "id" : 130580522274525185,
+    "created_at" : "2011-10-30 09:43:17 +0000",
+    "user" : {
+      "name" : "\u263Ans\u263B",
+      "screen_name" : "naoshim140",
+      "protected" : false,
+      "id_str" : "238052012",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1871814263\/photo.jpg_normal.png",
+      "id" : 238052012,
+      "verified" : false
+    }
+  },
+  "id" : 131050356636524544,
+  "created_at" : "2011-10-31 16:50:14 +0000",
   "user" : {
     "name" : "Amy",
     "screen_name" : "netcrusher88",
